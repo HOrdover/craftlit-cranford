@@ -53,7 +53,7 @@ const config: QuartzConfig = {
       },
     },
   },
-contentDir: "/Users/heatherordover/vaults/Cranford",
+contentDir: "./Cranford",
 
   plugins: {
     transformers: [
