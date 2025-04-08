@@ -54,7 +54,20 @@ approx 16:35—***all my times will need adjusting but it's a start***
 - ==erik - not bothering to give you time codes here b/c they'll be so far off... ;)== 
 - [Mrs Beeton's Book of Household Management](https://www.gutenberg.org/cache/epub/10136/pg10136-images.html), [Mrs Beeton's mitts](http://www.knitty.com/ISSUEwinter05/PATTmrsbeeton.html) from Brenda Dayne
  ![[Dayne-mitts.png]]
--  [Madeline Khan in ***Blazing Saddles***](https://youtu.be/Uai7M4RpoLU?si=yVhvuS2nCYq2CsMN&t=71)
+- Serve from the Left details:
+  - **Serving:**
+        - **Plates:** Plates are served from the left, using your left hand to place the plate, allowing the server to use their right hand to avoid crossing in front of the guest. 
+    - **Beverages:** Beverages, such as water and wine, are poured from the right, as glasses are typically placed to the right of the guest's plate. 
+        - **Sides:** Sides like bread and vegetables are also served from the left. 
+- **Clearing:**
+    - **Plates:** Plates are cleared from the right, using your right hand to remove the plate. 
+- **Exceptions:**
+    - If a guest is obstructing the way on the right, or if there is an object on the right side, a server may need to serve from the right. 
+    - Some restaurants may have their own protocols for serving, whether it's to the right or left. 
+- **Why Serve from the Left?**
+    - Serving from the left is considered less intrusive for right-handed diners, as it avoids the server having to reach across the guest. 
+    - It also allows the server to carry the food in their left hand and serve with their right hand, without crossing their arms in front of the guest. 
+- [Madeline Khan in ***Blazing Saddles***](https://youtu.be/Uai7M4RpoLU?si=yVhvuS2nCYq2CsMN&t=71)
 
 ## Miscellaneous
 n/a
