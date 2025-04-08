@@ -1,0 +1,6 @@
+[build]
+  command = "git submodule update --init --recursive && npx quartz build"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "20"
