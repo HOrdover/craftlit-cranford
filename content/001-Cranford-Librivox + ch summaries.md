@@ -15,7 +15,7 @@ tags:
 
 - [ ] [Elizabeth Cleghorn Gaskell: Cranford (version 2)](https://librivox.app/book/7278) <!-- {"uuid":"e99cbcc2-843a-44cc-bdec-f723f07fee1a"} -->
 
-Don’t forget [[20-Use when Peter Dresses Up]] to use when Peter dresses like Miss Jenkyns
+Don’t forget [[Cranford/media/20-Use when Peter Dresses Up]] to use when Peter dresses like Miss Jenkyns
 
 Cranford and its related works that inspired the mini-series featuring Judi Dench.  primarily draws from Gaskell’s novel *Cranford* and incorporates elements from her novellas *Mr. Harrison’s Confessions* and *My Lady Ludlow*. Summaries:
 
