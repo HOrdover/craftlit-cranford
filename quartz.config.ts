@@ -53,7 +53,7 @@ const config: QuartzConfig = {
       },
     },
   },
-contentDir: "./Cranford",
+contentDir: "./content",
 
   plugins: {
     transformers: [
