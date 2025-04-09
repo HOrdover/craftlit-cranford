@@ -44,7 +44,7 @@ Chapter 4: A Visit to an Old Bachelor
 - “Locksley Hall” by Tennyson - a lover revisits the place where he fell in love with a woman who was forced to marry someone else. So - not included accidentally.
 - Visiting rules - it would be Making A Statement for a gentleman to call on a lady directly…or at least it would when the lady were younger. This is part of why Capt Brown’s visits flustered Miss Jenkyns
 
-![Calash hat](Cranford/media/calash-hat.jpg)
+![Calash hat](./cranford-media/calash-hat.jpg)
 
 ## Post-chapter Notes
 - “My cousin might make a drive, I think,” said Miss Pole, who was afraid of ear-ache, and had only her cap on— spectacular set of non-sequiters (p41)
