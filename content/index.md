@@ -19,11 +19,8 @@ These are my annotated notes for Elizabeth Gaskell's *Cranford*.
 - [Watercolor Cards](./cranford-media/999-maybe-use-CraftLit-Watercolor-Cards)
 
 ---
-
+find ~/vaults -name "index.md"
 ## 🧶 Extras
 
 - [_Index of Cranford](./_Index_of_Cranford)
 - [Structured Outline of Classic Lit Conversations](./cranford-media/999-Maybe-use-Structured-Outline-of-Classic-Literature-Conversations)
-
----
-## TEST
