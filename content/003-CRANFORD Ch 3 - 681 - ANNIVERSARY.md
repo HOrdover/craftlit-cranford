@@ -10,24 +10,23 @@ Cranford
 - **Ending Chapter:** 3
 
 ## Patrons
-USE MEMBERS FROM Craftlit.com
+USE MEMBERS FROM Craftlit.com? Youtube?
 
 ## Raffle Item
 Knitting Comfortably: The ergonomics of knitting by Carson Demers (videos in dropbox)
 
 ## Crafty Chat Notes
 Wuv. TWOO Wuv...
-- Heather pull youTube history via chat GPT
-- BOOK PARTY COMING UP END OF APRIL on the 24th The Thin Man by Dashiell Hammett
+-BOOK PARTY COMING UP END OF APRIL on the 24th The Thin Man by Dashiell Hammett
 - Dead Men don't wear Plaid
-- Plum Deluxe Hunnybush Herbal—I found out this was a special blend that might no longer be available
+- Plum Deluxe [Hunnybush](https://www.plumdeluxe.com/pages/fandoms) Herbal—I found out this was a special blend that might no longer be available
 - You can call the show from the App or 206-350-1642 or speakpipe.com/craftlit
-- SEND US YOUR CRAFTY VIDEOS and let us know what text you want on the screen during your video (promote your shop!)
-- Bookshop.org **HEATHER NEEDS TO GET FARLEY's LINK** also check out other indie online bookshops Thriftbooks.com and AbeBooks.com or Powell's
+- [SEND US YOUR CRAFTY VIDEOS](https://www.plumdeluxe.com/pages/fandoms) and let us know what text you want on the screen during your video (promote your shop!)
+- [Bookshop.org's CraftLit list from Farley's](https://bookshop.org/wishlists/4ba78b7681835fe4753c5490a7d3bc0144e0a752) also check out other indie online bookshops Thriftbooks.com and AbeBooks.com or Powell's
 - Heather attempts gardening on a deck without a hose. Sympathy or hints are welcomed ;) heather@craftlit.com
 
 ## Re-hash Notes - start of booktalk
-approx 16:35—***all my times will need adjusting but it's a start***
+approx 16:35—==***all my times will need adjusting but it's a start***==
 - Previous chapter was Captain's death and Miss Jenkyn's defending Jessie's gentleman caller
 
 ## Pre-hash Notes
