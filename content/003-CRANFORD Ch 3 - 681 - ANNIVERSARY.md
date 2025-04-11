@@ -19,7 +19,7 @@ Knitting Comfortably: The ergonomics of knitting by Carson Demers (videos in dro
 Wuv. TWOO Wuv...
 -BOOK PARTY COMING UP END OF APRIL on the 24th The Thin Man by Dashiell Hammett
 - Dead Men don't wear Plaid
-- Plum Deluxe [Hunnybush](https://www.plumdeluxe.com/pages/fandoms) Herbal—I found out this was a special blend that might no longer be available
+- Plum Deluxe [Hunnybush](https://www.plumdeluxe.com/pages/fandoms) Herbal—I found out this was a special blend that might no longer be available but you can [take their quiz to find YOUR perfect cup](https://www.plumdeluxe.com/#finder-quiz-9560)!
 - You can call the show from the App or 206-350-1642 or speakpipe.com/craftlit
 - [SEND US YOUR CRAFTY VIDEOS](https://www.plumdeluxe.com/pages/fandoms) and let us know what text you want on the screen during your video (promote your shop!)
 - [Bookshop.org's CraftLit list from Farley's](https://bookshop.org/wishlists/4ba78b7681835fe4753c5490a7d3bc0144e0a752) also check out other indie online bookshops Thriftbooks.com and AbeBooks.com or Powell's
@@ -50,7 +50,7 @@ approx 16:35—==***all my times will need adjusting but it's a start***==
 - ==[insert time code to -] Pick up post-chapter audio if you're listening to your own version of ***Cranford***.==
 
 ## Post-chapter Notes
-- ==erik - not bothering to give you time codes here b/c they'll be so far off... ;)== 
+- ==erik - not bothering to give you time codes here b/c they'll be so far off... ;) but do include the "post-chapter chat" time code in the shownotes.== 
 - [Mrs Beeton's Book of Household Management](https://www.gutenberg.org/cache/epub/10136/pg10136-images.html), [Mrs Beeton's mitts](http://www.knitty.com/ISSUEwinter05/PATTmrsbeeton.html) from Brenda Dayne
  ![[Dayne-mitts.png]]
 - Serve from the Left details:
