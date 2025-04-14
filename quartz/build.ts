@@ -8,7 +8,7 @@ import chalk from "chalk"
 import { parseMarkdown } from "./processors/parse"
 import { filterContent } from "./processors/filter"
 import { emitContent } from "./processors/emit"
-import cfg from "../quartz.config"
+import cfg from "../quartz.config.ts"
 import { FilePath, joinSegments, slugifyFilePath } from "./util/path"
 import chokidar from "chokidar"
 import { ProcessedContent } from "./plugins/vfile"
@@ -43,6 +43,7 @@ type BuildData = {
 }
 
 async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
+  argv.directory = cfg.contentDir
   const ctx: BuildCtx = {
     buildId: randomIdNonSecure(),
     argv,
