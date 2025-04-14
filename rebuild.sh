@@ -9,4 +9,4 @@ echo "🧹 Removing old public folder..."
 rm -rf public
 
 echo "⚙️ Running Quartz build..."
-npx quartz build
+/usr/local/opt/node@20/bin/npx quartz build
