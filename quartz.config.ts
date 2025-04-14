@@ -53,7 +53,7 @@ const config: QuartzConfig = {
       },
     },
   },
-contentDir: "./content",
+contentDir: "./CURRENT-Book",
 
   plugins: {
     transformers: [
