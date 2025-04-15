@@ -10,7 +10,7 @@ These are my annotated notes for Elizabeth Gaskell's *Cranford*.
 
 - [Librivox Links and Chapter summaries](./001-Cranford-Librivox-+-ch-summaries)
 - [Chapter 1: Our Society](./001-CRANFORD-ch-1---679)
-- [Chapter 2: The Captain](./002-cranford-ch2-680)
+- [Chapter 2: The Captain](./002-cranford-ch-2-680)
 - [Chapter 3: A Love Affair of Long Ago](./003-CRANFORD-Ch-3---681---ANNIVERSARY)
 - [Chapter 4: Mr. Holbrook and the Visit](./004-CRANFORD-Ch-4---682)
 - [Chapter 5: Old Letters and New Concerns](./005-Cranford-Ch-5-683)

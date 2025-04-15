@@ -1,6 +1,3 @@
-==Erik—I'm using these for my recording notes (so I don't have to keep looking down at my papers). How do you want me to flag the items to put into the shownotes or do you think you can tell?==
-
-
 # Podcast Literature Note: Cranford
 #todo #craftlit #episode #book #notes 
 **Date:** 2025-03-26
