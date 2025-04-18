@@ -18,6 +18,7 @@ tags:
 
 Oh, this is all so exciting—such a rich lineup! Each of those books has some *gorgeous* quote potential for watercolor cards. Here are a few ideas that feel especially “card-worthy” (whether for beauty, humor, or wisdom):
 
+[[000-MOBY START]] 
 **Moby-Dick (Herman Melville):**
 
 \

@@ -7,22 +7,30 @@
 
 ## Book
 CRANFORD chapter 4 
+Ep 682 GREAT SCOTT!
 
 ## Chapters
 - **Starting Chapter:** 4
 - **Ending Chapter:** 4
 
 ## Patrons
-Per Erik
+**For ep. 682:**  
+• Judi Serrato  
+• Larry  
+• Jean Greaves  
+• Karen LePage  
+• Robert
 
 ## Raffle Item
 MAY RAFFLE - Sir Walter Scott Cross stitch from Rebecca S [share her website/how do you solve a problem like Emma post](xxx)!
 +Plum Deluxe  
 ## Crafty Chat Notes
 Gardening Olla DIY video - https://youtu.be/Wz-jj170EYw?si=eGnaG7zrsfoqeDMu
+DIY DRIP IRRIGATION
+SEND YOUR VIDEO LINK
 
 ## Re-hash Notes
-- Thin man book party 
+- Thin man book party INCLUDE LEVEL-UP LINK
 - Chapter 3: A Love Affair of Long Ago - Miss Matty Jenkyns reminisces about her past romance with Mr. Holbrook, which was thwarted by her family’s disapproval. 
 - Miss Matty's long-ago love (more on that today)
 - Miss J couldn't SUCK an orange AND by ch 3 she was gone from us

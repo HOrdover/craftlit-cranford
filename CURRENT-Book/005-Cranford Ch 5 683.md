@@ -2,6 +2,7 @@
 
 
 # Podcast Literature Note: Cranford
+### 683—PANGO!
 
 **Date:** 2025-04-14
 
@@ -13,8 +14,12 @@ Cranford
 - **Ending Chapter:** 5
 
 ## Patrons
-What I buy: ***Mindful Morning Tea Blend (Earl Grey)*** *(Decaf and Leaded)*, ***Full-body Reset Green Tea***, ***Refreshing "AfterDinner" Mint*** *(omg, this is the only tea that actually kicks your mouth with mint!)*, ***Reading Nook Blend** (Decaf & leaded)*, ***Vanilla Creme Herbal*** *(decaf)*, ***Bookshop Blend White***, and if you have plans to bring it back, of course, ***Hunnybush!***
-On my list to try: *Toasted Marshmallow, Housewarming Blend Black Tea, Brunch in Paris Black tea, Comfort Blend Black Tea, Kitchen Table Blend Black-Green Tea (with Secret Citrus Mix)* 
+**For ep. 683:**  
+• Sydney Hutchinson Mengel  
+• Ann Blanton  
+• Marcy Gessel  
+• Shelly Allen  
+• Sharon Stweart
 ## MAY Raffle Item
 Rebecca's Sir Walter Scott cross stitch
 
@@ -73,7 +78,7 @@ Amazingly subtle Character info in today's chapter
 - **Letters to be “cut open not broken”** - sealing wax image of coat of arms not to be broken
 - “**Sesquipedalian**” writing - foot and a half long _sesqui_ = 1-½ pedalis =foot looonng polysyllabic words
 - “Herod, Tetrach of Idumea” misspoken version of “Herod Petrarch of Etruiæ - not funny joke
-- **Buonaparte** (Bony)1805 invasion fears - FRANCE IS HOW FAR FROM SO COAST OF UK? Napoleonic wars 1803-1815, invasion not likely. In Northeast England
+- **Buonaparte** (Bony)1805 invasion fears - FRANCE IS HOW FAR FROM SO COAST OF UK? Napoleonic wars 1803-1815, invasion not likely. In Northeast England - BUG OUT BAG LINK
 - **David and Goliath**, son of Jesse (I Samuel 17)
 - **Apollyon (Greek version) and Abbadon (Hebrew version)** are names for an archangel In Revelation 9:11—> _“And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue hath his name Apollyon.” (_Revelation 9:11, KJV_)
 	**Meaning:**
