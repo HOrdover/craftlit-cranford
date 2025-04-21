@@ -21,7 +21,12 @@ themes:
 
 Ishmael, our narrator, introduces himself and shares his reasons for going to sea—an antidote to “a damp, drizzly November” in his soul. This opening sets the philosophical and symbolic tone for the entire novel, inviting the reader into a deeply reflective narrative that blends humor, melancholy, and grandeur.
 
-## CraftLit Companion Annotations
+## Heather Notes
+- [[Ishmael]]
+- hypos - hypochondria
+- With a philosophical flourish [[Cato]] throws himself upon his sword; I quietly take to the ship.
+
+## CraftLit Companion CHAT GPT Annotations
 
 ### “Call me Ishmael.”
 

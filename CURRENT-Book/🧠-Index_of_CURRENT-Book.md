@@ -16,6 +16,7 @@
 - 📄 [[CURRENT-Book/Notes for Erik|Notes for Erik]]
 - 📄 [[CURRENT-Book/Plum Deluxe Tea Collab|Plum Deluxe Tea Collab]]
 - 📄 [[CURRENT-Book/README|README]]
+- 📄 [[CURRENT-Book/YouTube-Specific Outro Script|YouTube-Specific Outro Script]]
 - 🗂️ [[CURRENT-Book/media/🧠-Index_of_media|🧠-Index_of_media]]
 - 🗂️ [[CURRENT-Book/MOBY/🧠-Index_of_MOBY|🧠-Index_of_MOBY]]
 - 🗂️ [[CURRENT-Book/P&P/🧠-Index_of_P&P|🧠-Index_of_P&P]]
