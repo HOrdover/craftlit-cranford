@@ -6,7 +6,7 @@ These are my annotated notes for Elizabeth Gaskell's *Cranford*.
 
 ---
 
-## 📘 Cranford Shownotes by Chapter/episode 📘
+## 📘 Cranford Shownotes by Chapter/episode 
 
 - [Librivox Links and Chapter summaries](./001-Cranford-Librivox-+-ch-summaries)
 - [Chapter 1: Our Society](./001-CRANFORD-ch-1---679)
