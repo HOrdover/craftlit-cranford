@@ -5,7 +5,7 @@
 #todo #craftlit #episode #book #notes 
 **Date:** 2025-03-26
 
-==**Can you put something on screen - either a crawl or something static at the bottom of the screen that this episode celebrates the 19th Anniversary / start of the 20th year of CraftLit?**==
+==Can you put something on screen - either a crawl or something static at the bottom of the screen that this episode celebrates the 19th Anniversary / start of the 20th year of CraftLit?==
 ## Raffle Item
 00:00 Episode start
 03:00 Knitting Comfortably: The ergonomics of knitting by Carson Demers (videos in dropbox) [2025 April Raffle](https://bit.ly/april-raffle)
