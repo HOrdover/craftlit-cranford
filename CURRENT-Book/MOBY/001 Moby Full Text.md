@@ -32,7 +32,7 @@ What of it, if some old hunks of a sea-captain orders me to get a broom and swee
 
 Again, I always go to sea as a sailor, because they make a point of paying me for my trouble, whereas they never pay passengers a single penny that I ever heard of. On the contrary, passengers themselves must pay. And there is all the difference in the world between paying and being paid. The act of paying is perhaps the most uncomfortable infliction that the ***two orchard thieves***[^24] entailed upon us. But _being paid_,—what will compare with it? The urbane activity with which a man receives money is really marvellous, considering that we so earnestly believe money to be the root of all earthly ills, and that on no account can a monied man enter heaven. Ah! how cheerfully we consign ourselves to perdition!
 
-Finally, I always go to sea as a sailor, because of the wholesome exercise and pure air of the ***fore-castle deck***[^25]. For as in this world, ***head winds are far more prevalent than winds from astern (that is, if you never violate the Pythagorean maxim)***[^26], so for the most part **the Commodore on the quarter-deck gets his atmosphere at second hand from the sailors on the forecastle**. He thinks he breathes it first; but not so. In much the same way do the commonalty lead their leaders in many other things, **at the same time that the leaders little suspect it**. But wherefore it was that after having repeatedly smelt the sea as a merchant sailor, I should now take it into my head to go on a whaling voyage; this ***the invisible police officer of the Fates***[^33], who has the constant surveillance of me, and secretly dogs me, and influences me in some unaccountable way—he can better answer than any one else. And, doubtless, my going on this whaling voyage, formed part of the grand programme of Providence that was drawn up a long time ago. It came in as a sort of brief interlude and solo between more extensive performances. I take it that this part of the bill must have run something like this:
+Finally, I always go to sea as a sailor, because of the wholesome exercise and pure air of the ***fore-castle deck***[^25]. For as in this world, ***head winds are far more prevalent than winds from astern (that is, if you never violate the Pythagorean maxim)***[^26],[^34] so for the most part **the Commodore on the quarter-deck gets his atmosphere at second hand from the sailors on the forecastle**. He thinks he breathes it first; but not so. In much the same way do the commonalty lead their leaders in many other things, **at the same time that the leaders little suspect it**. But wherefore it was that after having repeatedly smelt the sea as a merchant sailor, I should now take it into my head to go on a whaling voyage; this ***the invisible police officer of the Fates***[^33], who has the constant surveillance of me, and secretly dogs me, and influences me in some unaccountable way—he can better answer than any one else. And, doubtless, my going on this whaling voyage, formed part of the grand programme of Providence that was drawn up a long time ago. It came in as a sort of brief interlude and solo between more extensive performances. I take it that this part of the bill must have run something like this:
 
 ***“Grand Contested Election for the Presidency of the United States. “WHALING VOYAGE BY ONE ISHMAEL. “BLOODY BATTLE IN AFFGHANISTAN.”***[^27]
 
@@ -67,7 +67,7 @@ By reason of these things, then, the whaling voyage was welcome; the great flood
 [^23]: Again, Whitman and his Yop - so the universal thump is passed round“ everyone thumps on the ppl under them
 [^24]: two orchard thieves - Adam and Eve
 [^25]: fore-castle deck - pronounced “folk-sall”
-[^26]: head winds are far more prevalent than winds from astern (that is, if you never violate the Pythagorean maxim) —Pythagorean injunction per Annotations = avoid eating beans b/c farting (SEE NOTE BELOW)
+[^26]: head winds are far more prevalent than winds from astern (that is, if you never violate the Pythagorean maxim) —Pythagorean maxim – The phrase “don’t eat beans” comes from ancient Pythagorean teachings. Though its exact meaning is debated, Melville clearly uses it here to make a joke about bodily functions and naval hierarchy. On sailing ships, the wind flows from front to back—so officers on the quarterdeck breathe whatever the sailors on the forecastle emit. Melville folds a fart joke into a philosophical allusion—classic Moby-Dick. (SEE NOTE BELOW)
 [^27]: “_Grand Contested Election for the Presidency of the United States._ “WHALING VOYAGE BY ONE ISHMAEL. “BLOODY BATTLE IN AFFGHANISTAN.” - LOOK UP Presidency, look up WHAT Battle in Afghanistan B/c NOTHING CHANGES - also the “bill” would be like a theater bill or a broadsheet of news…Ishmael traveling was on the roster, but a little thing for the world compared to the big things in the world.—1848 PRES ELECT WAS CONTESTED - Zachary Taylor (Whig) defeated Lewis Cass (Democrat) at Martin Van Buren (Free Soil??!) - Taylor took office March 1849 (lots of turmoil with post-Mex-Am war additions to states mostly non-slave) / AFGHANISTAN - the first Anglo-Afghan war (1839-1842) British, disaster, upppet ruler in Kabul FAILED, only ONE BRITISH SURVIVOR (Dr William Bryson) reached Jalalabad. REMEMBER Melville was Anti-Colonial
 [^28]: yet, now that I recall all the circumstances - he’s telling us from Memory - not as it happens
 [^29]: Was he Calvinist? Predestination? YES Duch Reformed, mom Maria Gansevoort was DEVOUTLY Calvinist (original Sin, Depravity, Predestination, God’s absolute sovereignty) Hawthorne? B/c “besides cajoling me into the delusion that it was a choice resulting from my own unbiased freewill and discriminating judgment” Where Melville wrestled with divine silence and cosmic purpose, Hawthorne was preoccupied with shame, secrecy, and spiritual inheritance.
@@ -75,37 +75,5 @@ By reason of these things, then, the whaling voyage was welcome; the great flood
 [^31]: CRAP - where is Patagonia? Argentina??? “with all the attending marvels of a thousand Patagonian sights and sounds”
 [^32]: see note 30 “barbarous coasts” isn’t barbarous to Melville
 [^33]: Fates = Goddesses who control human destiny and life. Clotho spins the thread of life, Lachesis determines its length and Atropos cuts it off.
-_______
-Yes—it’s true, and also deeply weird and wonderful.
+[^34]: Elaboration on the Pythagorean Maxim: “Pythagorean maxim” — Don’t Eat Beans? Yes, in ancient sources, one of the more enigmatic rules attributed to Pythagoras and his followers was: “Abstain from beans.” Interpretations vary wildly: • Literal: Avoid eating beans because they cause flatulence—which would be especially relevant on a ship, where breezes travel from bow (forecastle) to stern (quarterdeck), meaning officers are downwind of common sailors. • This is clearly the joke Melville is making. • Mystical: Some Pythagoreans believed beans were connected to the soul or reincarnation, possibly because bean plants were thought to contain human life-force or that beans were somehow porous to souls. • Political: In some Greek city-states, votes were cast with black or white beans—so abstaining from beans could mean abstaining from politics. • Medical: Some ancient thinkers thought beans were “unclean” or caused disturbing dreams. ⸻ Melville’s Use of the Joke: “…head winds are far more prevalent than winds from astern (that is, if you never violate the Pythagorean maxim)” —He’s saying: • Normally, you’re upwind of your own trouble. • But on a ship, wind flows back from the sailors to the officers. • So if a sailor violates the bean-abstaining rule, it’s the Commodore on the quarterdeck who suffers! —Translation— If you eat beans, the Commodore’s gonna know.
 
-Let’s break it down:
-⸻
-“Pythagorean maxim” — Don’t Eat Beans?
-Yes, in ancient sources, one of the more enigmatic rules attributed to Pythagoras and his followers was:
-
-“Abstain from beans.”
-
-Interpretations vary wildly:
-• Literal: Avoid eating beans because they cause flatulence—which would be especially relevant on a ship, where breezes travel from bow (forecastle) to stern (quarterdeck), meaning officers are downwind of common sailors.
-• This is clearly the joke Melville is making.
-• Mystical: Some Pythagoreans believed beans were connected to the soul or reincarnation, possibly because bean plants were thought to contain human life-force or that beans were somehow porous to souls.
-• Political: In some Greek city-states, votes were cast with black or white beans—so abstaining from beans could mean abstaining from politics.
-• Medical: Some ancient thinkers thought beans were “unclean” or caused disturbing dreams.
-⸻
-Melville’s Use of the Joke
-“…head winds are far more prevalent than winds from astern (that is, if you never violate the Pythagorean maxim)”
-
-He’s saying:
-• Normally, you’re upwind of your own trouble.
-• But on a ship, wind flows back from the sailors to the officers.
-• So if a sailor violates the bean-abstaining rule, it’s the Commodore on the quarterdeck who suffers!
-
-Translation:
-If you eat beans, the Commodore’s gonna know.
-⸻
-CraftLit Annotation:
-Pythagorean maxim – The phrase “don’t eat beans” comes from ancient Pythagorean teachings. Though its exact meaning is debated, Melville clearly uses it here to make a joke about bodily functions and naval hierarchy. On sailing ships, the wind flows from front to back—so officers on the quarterdeck breathe whatever the sailors on the forecastle emit.
-
-Melville folds a fart joke into a philosophical allusion—classic Moby-Dick.
-
-Would you like this added to your Loomings note or turned into a glossary entry for “Pythagorean maxim”?
