@@ -5,6 +5,7 @@
 #todo #craftlit #episode #book #notes 
 **Date:** 2025-03-26
 
+==**Can you put something on screen - either a crawl or something static at the bottom of the screen that this episode celebrates the 19th Anniversary / start of the 20th year of CraftLit?**==
 ## Raffle Item
 00:00 Episode start
 03:00 Knitting Comfortably: The ergonomics of knitting by Carson Demers (videos in dropbox) [2025 April Raffle](https://bit.ly/april-raffle)
@@ -68,4 +69,5 @@ approx 15:35—==***all my times will need adjusting but it's a start***==
 - **Why Serve from the Left?**
     - Serving from the left is considered less intrusive for right-handed diners, as it avoids the server having to reach across the guest. 
     - It also allows the server to carry the food in their left hand and serve with their right hand, without crossing their arms in front of the guest. 
-- 57:20 [Madeline Khan in ***Blazing Saddles***](https://youtu.be/Uai7M4RpoLU?si=yVhvuS2nCYq2CsMN&t=71)
+- 57:20 [Madeline Khan in ***Blazing Saddles***](https://youtu.be/Uai7M4RpoLU?si=yVhvuS2nCYq2CsMN&t=71) ==erik, can you add this still when I mention this==
+  ![How Understanding Film History Impacts Your Film Appreciation | iheartfilm](https://38.media.tumblr.com/0f64813e47e301b5e17b5a05787dafca/tumblr_mi8a7yzWiA1r1ad86o1_250.gif)
