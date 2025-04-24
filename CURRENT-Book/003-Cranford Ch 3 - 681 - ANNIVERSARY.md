@@ -11,7 +11,7 @@
 03:00 Knitting Comfortably: The ergonomics of knitting by Carson Demers (videos in dropbox) [2025 April Raffle](https://bit.ly/april-raffle)
 ## Crafty Chat Notes
 ***“Wuv. TWOO Wuv...”***
-04:16 BOOK PARTY ***WAS*** Thursday April 24th for *The Thin Man* by Dashiell Hammett - the Watch party will be may 29th. If you need to level-up to join us [we've made it easy](https://craftlit.gumroad.com/l/craftlit-party)! **Dash biographies for you**
+04:16 BOOK PARTY ***WAS*** Thursday April 24th for *The Thin Man* by Dashiell Hammett - the Watch party will be may 29th. If you need to level-up to join us [we've made it easy](https://craftlit.gumroad.com/l/craftlit-party)! [Hammet biography for you](https://youtu.be/oHMjtMjVGLc?si=QxSTmWYiW7LV9e17)
 - 05:00 [Dead Men Don't Wear Plaid](https://youtu.be/x2efDnLZjsk?si=Yn3Lem0XHB2HMwXI) trailer
 - 05:36 Plum Deluxe [Hunnybush](https://www.plumdeluxe.com/pages/fandoms) Herbal—I found out this was a special blend that might ***no longer be available*** but you can [take their quiz to find YOUR perfect cup](https://www.plumdeluxe.com/#finder-quiz-9560)! **Go [here to get your CraftLit listener discount](**https://www.plumdeluxe.com/collections/the-craftlit-collection)! ==Erik, put the link to the plum deluxe discount page on screen - bit.ly/pdtea==
 - 07:08 You can call the show from the App or 206-350-1642 or speakpipe.com/craftlit
