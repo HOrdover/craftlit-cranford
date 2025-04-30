@@ -1,18 +1,13 @@
-==Erik—I'm using these for my recording notes (so I don't have to keep looking down at my papers). How do you want me to flag the items to put into the shownotes or do you think you can tell?==
-
-
+#cranford #episode-notes #craftlit #shownotes 
 # Podcast Literature Note: CRANFORD chapter 4
 
-**Date:** 2025-04-07
-
+**Recording Date:** 2025-04-07
 ## Book
 CRANFORD chapter 4 
 Ep 682 GREAT SCOTT!
 
-## Chapters
-- **Starting Chapter:** 4
-- **Ending Chapter:** 4
-
+**==OH MY GOD I HAVE LIPSTICK ON MY TEETH!** **Can you cover me entirely** when I mentions the three premium options by showing screenshots of those sites? I put the screenshots into the 682 dropbox. 
+**ALSO at 1:18** I say thank you/we couldn't do this without you, but I repeat that again after the names. Please cut the 1:18 version :==
 ## Patrons
 **For ep. 682:**  
 • Judi Serrato  
@@ -22,66 +17,71 @@ Ep 682 GREAT SCOTT!
 • Robert
 
 ## Raffle Item
-MAY RAFFLE - Sir Walter Scott Cross stitch from Rebecca S [share her website/how do you solve a problem like Emma post](xxx)!
-+Plum Deluxe  
+**==1:56 - PLS SHOW THE THUMBNAIL OF THE Emma LIVESTREAM --I THINK IT HAS BECCA'S URL ON IT (OR BLOG TITLE)==**
+MAY RAFFLE - Sir Walter Scott Cross stitch from Rebecca S (Of Book it with Becca, who wrote the wonderful post: ["What do you do with a problem like Emma?"](https://bookitwithbecca.wordpress.com/?s=emma) 
+**==Val should have Raffle link==**
+==2:20 can you put some/all of the pics I saved in the 482 folder for you from our visit to Sir Walter Scott's house ==
+**from 02:42 all the way to 3:34 - PLEASE put a black box over the screen and roll the crossstitch video--in Slack message with you with dimensions** - the dimensions to put on screen and in shownotes are: 9"x11" (23cmx30cm) I also shared two good still pics of the cross stitch into the social-media channel in Slack
+
++Plum Deluxe use this code onscreen and in shownotes: https://bit.ly/craftlit-pdtea
 ## Crafty Chat Notes
-Gardening Olla DIY video - https://youtu.be/Wz-jj170EYw?si=eGnaG7zrsfoqeDMu
-DIY DRIP IRRIGATION
-SEND YOUR VIDEO LINK
+- 03:55 - [Gardening Olla DIY video 1](https://youtu.be/Wz-jj170EYw?si=eGnaG7zrsfoqeDMu) and [a plastic bottle version](https://youtube.com/shorts/WXiey-SYp_0?si=s29pOgoCct-U2WMg)
+	- and  [gardening video with fake drip irrigation](https://youtube.com/shorts/q8Tqv1R5lnU?si=xAr5XTkDvWW76K08)
+- 06:12 [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty) 
 
 ## Re-hash Notes
-- Thin man book party INCLUDE LEVEL-UP LINK
-- Chapter 3: A Love Affair of Long Ago - Miss Matty Jenkyns reminisces about her past romance with Mr. Holbrook, which was thwarted by her family’s disapproval. 
-- Miss Matty's long-ago love (more on that today)
-- Miss J couldn't SUCK an orange AND by ch 3 she was gone from us
-- Martha, the new girl of all work trying to learn how to do her job and nudging Major Jenkyns when he didn't serve himself fast enough
-- 
+- 07:18 - Thin Man Movie Watch Party, MAY 24, 2025 ==please put date on screen (or even better, cover screen with your awesome thumbnail for 5sec or so)  If you need to level-up to join us [we've made it easy](https://craftlit.gumroad.com/l/craftlit-party)! Oh, andPLEASE ADD MYRNA LOY wrinkled nose pic at the 9 min mark - **it's in dropbox**
+- ==09:47 - please put the **level up URL** on the screen
+- 09:54 - Re- hash ***Chapter 3: A Love Affair of Long Ago*** - Miss Matty Jenkyns reminisces about her past romance with Mr. Holbrook, which was thwarted by her family’s disapproval. 
+	- Miss J couldn't SUCK an orange (then by ch 3 she was gone from us) 
+	- Martha, the new girl of all work trying to learn how to do her job and nudging Major Jenkyns when he didn't serve himself fast enough
+## Pre-hash Notes***Chapter 4: A Visit to an Old Bachelor***
+- 11:00 Miss Matilda SATE bolt upright (not a typo)
+- 11:16 Poetry today from George Herbert—selections from will be featured at the end of the episodes, Euan Bartlett is the reader
+- 12:00 "Pudding before meat" and “no broth no ball; no ball, no beef” 
+- ==Erik, here are some pics to cover me with (b/c I look bored when really I'm trying to figure out if playing it off my phone was stupid or not)
+- **Suet Pudding:**
+![[13.06min-Suet-Pudding-7-scaled.jpg]]
+
+- **Spotted Dick pudding:**
+- ![](https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480/img/recipe/ras/Assets/B1094F25-E58B-41BA-A50D-8ECEE5B38F80/Derivates/3409A14D-4111-47A0-9FB3-DB0EE9A970AD.jpg)
+
+**Steak and Kidney pudding:**
+![Steak and kidney pudding recipe | House & Garden](https://media.houseandgarden.co.uk/photos/61893f62d9ae96d083cd0cee/master/w_1600%2Cc_limit/steak.jpg)
+
+**Yorkshire Pudding**
+![Best Yorkshire puddings recipe | Good Food](https://images.immediate.co.uk/production/volatile/sites/30/2020/08/sage-onion-yorkshire-puddings-67137f5.jpg?quality=90&resize=440,400)
+- 14:00 [Yorkshire Pudding, a Humble History](https://www.realyorkshireblog.com/post/the-yorkshire-pudding-a-humble-history)
+- 15:32 Old fashioned forks - like 16th Century/1500s - were two-tine forks.
+![The history of the fork: When we started using forks and how ...](https://www.slate.com/content/dam/slate/articles/life/design/2012/06/Forks/two-pronged.jpg.CROP.article568-large.jpg)
 
 
-## Pre-hash Notes
-Chapter 4: A Visit to an Old Bachelor
-- Miss Matty and friends visit Mr. Holbrook’s farm, rekindling old feelings. Shortly after, Mr. Holbrook falls ill and dies.
-- Miss Matilda SATE bolt upright (not a typo)
-- Pinks and ***gilly***-flowers
-- Poet George Herbert—EUAN TO RECORD
-- Turkey carpet - Turkish carpet
-- Flag floor - flagstone floor
-- Pudding before meat and “no broth no ball; no ball, no beef” - eat something to take the edge off before you get to the most expensive part of the meal—the meat, a “ball” would have been a suet dumpling which was, apparently, a Yorkshire-area “old way” but I’m going to defer to listeners who know better.
-- Old fashioned forks - like 16th Century/1500s - were two-tine forks. Think hand-sized, long prongs like a small meat stabbity thing. By 1800 most of these had been replaced by four-prong forks.
-- “Aminé at her grains of rice after her previous feast with the Ghoul” - Arabian Nights (1765-8) Aminé is wife of Sidi Norman who notices she only eats rice with a bodkin. He figures out she’s a Ghoul who goes to cemeteries at night to feast on the newly-buried dead so rice was pretty ‘meh’ for her. **CHECK ON THIS**
-- “Unbecoming [***calashes***](https://collections.mfa.org/objects/116425) to put on over their caps” - threw me b/c of the Caleche’s in Dracula - turns out they’re related! Retractable hood to put over a cap! PICTURE TO SHARE
-- Some Tennyson will pop up - a line about cedars from 1842’s “The Gardiner’s Daughter” and in the original text the line before the one about the cedars appeared talking about the color of ASHBUDS ”black as ashbuds”- It’s missing from the published version so a conversation turn would have been less of an utter non-sequiter in the OG version.
-- There will be a marvelous joke line for the crocheters in our midst. These are the reasons I love EG so much
-- “Locksley Hall” by Tennyson - a lover revisits the place where he fell in love with a woman who was forced to marry someone else. So - not included accidentally.
-- Visiting rules - it would be Making A Statement for a gentleman to call on a lady directly…or at least it would when the lady were younger. This is part of why Capt Brown’s visits flustered Miss Jenkyns
+- 16:44 *“Aminé at her grains of rice after her previous feast with the Ghoul”* - from "The Story of Sidi-Nouman" from One Thousand and One Nights (1765-8) Aminé is wife of Sidi Nouman who notices she only eats rice with a bodkin. He figures out she’s a Ghoul who goes to cemeteries at night to feast on the newly-buried dead so rice was pretty ‘meh’ for her. **EMBED CODE TO STORY 
+```
+<iframe src="https://archive.org/embed/arabiannightsent00rich" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+```
+And embed code for wordpress.com blogs (?!)
+```
+[archiveorg arabiannightsent00rich width=560 height=384 frameborder=0 webkitallowfullscreen=true mozallowfullscreen=true]
+```
+- and PIC from old edition FOR VIDEO & shownotes
+ ![The Story of Sidi-Nouman - India Parenting](https://www.indiaparenting.com/images/76/sidi-nouman.jpg)**
 
+- 17:48 “Unbecoming [***calashes***](https://collections.mfa.org/objects/116425) to put on over their caps” - threw me b/c of the Caleche’s in Dracula - turns out they’re related! Retractable hood to put over a cap! **PICTURE TO SHARE on VIDEO & in shownotes 
 ![Calash hat](./media/calash-hat.jpg)
-![calash-hat.jpg]
+18:08 PUT PIC OF CALESH carraige UP ON VIDEO 
 
+![A.Word.A.Day --calash](https://wordsmith.org/words/images/calash_carriage_large.jpg)
+- 19:34  Tennyson  - a line about cedars from 1842’s [“The Gardiner’s Daughter”](https://www.telelib.com/authors/T/TennysonAlfred/verse/englishidyls/gardenersdaughter.html) and in the original text It’s missing from the published version so a conversation turn would have been less of an utter non-sequiter in the OG version. ==**IF POSSIBLE PUT ashbuds TEXT from cranford ON VIDEO SCREEN - don't bother with shownotes**==
+- 20:30 Headsup for the crocheters in our midst.
+- 20:48 [“Locksley Hall” by Tennyson](https://www.poetryfoundation.org/poems/45362/locksley-hall) - not included accidentally. 
+- 21:04 Visiting rules - more
 ## Post-chapter Notes
-- “My cousin might make a drive, I think,” said Miss Pole, who was afraid of ear-ache, and had only her cap on— spectacular set of non-sequiters (p41)
-- 26 cows named after letters of the alphabet. Gaskell has a thing for quirky cows? <3 
-- LOVE Mary Smith’s description of Mr Holbrook in the garden Bierrrron and Go-ëthee pronunciations and his joyful connection of garden and poetry - but the best is his sitting room strewn with books chosen for his pleasure not for the classical or established reputations. <3
-- I saw, I imitated, I survived - Mary Smith as Cæsar - using rounded knife tip as a spoon-ish food delivery device
-- I had NO IDEA it would have been an honor to fill a man’s pipe!!!!?!
-- “I only hope it is not improper; so many pleasant things are” and “Uncouth is too hard a word. I should call him eccentric; very clever people always are!” - GOD I love Miss Marty.
-- LOVE Mr Hollbrook’s Black as ashbuds thing - and how he never knew and is proud of never knowing/learning from a poet.
-- Miss pole encouraged poetry reading so she could count her stitches :D 
-- I love the Hollbrook’s actions “flutter” Miss Matty - not FLUSTER. <3 
-- “I don’t believe frogs will agree with him” HA!!!! And “he used to have to be careful about what he ate” shows more knowledge of each other than she’d betrayed before.
-- We learn that Martha may not have known how to serve at table, but she DOES know how to read and write - she writes a few lines to Mary Smith to keep her up to date on Miss Matty.
-- “Wicked Paris where they are always having revolutions” HA!
-- TWO chapters where love conquers - Miss Jenkyns “the most proper place for his arm to be!” With Miss Jessie— and here, Miss Matty and Martha “God forbid that I should grieve any young hearts.”
-Send videos - call 206-350-1642 - Bookshop.org - share tips re-container gardening
-
-## Miscellaneous
-Thin Man Movie night at end of May - start of Moby Dick start of May?
-
-POEM REQUEST TO EUAN
-So, if Euan is really a glutton for punishment, I’d be thrilled to have him do Moby Dick. I’d be starting in Early May and probably do the first four chapters for the first episode. He should read/listen to those first (Free on Librivox.org) and see if he wants to attack the various voices/situations. There are some truly hilarious bits in there and, in fact, the last few paragraphs of chapter 3 convinced Aaron to read. I’ll share the quote here in a sec for you to see, too.
-
-However, where I really need help sooner is with some short bits of English poetry I’ve never heard of:
-
+- 49:40 '*“My cousin might make a drive, I think,” said Miss Pole, who was afraid of ear-ache, and had only her cap on.* '— spectacular set of non-sequiters (p41)
+- 53:30 I saw, I imitated, I survived - Mary Smith as Cæsar - using rounded knife tip as a spoon-ish food delivery device
+- Don't forget!  [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty) 
+ 
+## Poem selections
 George Herbert’s poetry often draws on the natural world, gardens, and quiet reflection:
 1. “The Flower”
 

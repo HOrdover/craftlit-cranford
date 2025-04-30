@@ -1,4 +1,4 @@
-==Erik—I'm using these for my recording notes (so I don't have to keep looking down at my papers). How do you want me to flag the items to put into the shownotes or do you think you can tell?==
+ ==Erik—I'm using these for my recording notes (so I don't have to keep looking down at my papers). How do you want me to flag the items to put into the shownotes or do you think you can tell?==
 
 
 # Podcast Literature Note: Cranford
@@ -13,10 +13,10 @@
 ***“Wuv. TWOO Wuv...”***
 04:16 BOOK PARTY ***WAS*** Thursday April 24th for *The Thin Man* by Dashiell Hammett - the Watch party will be may 29th. If you need to level-up to join us [we've made it easy](https://craftlit.gumroad.com/l/craftlit-party)! [Hammet biography for you](https://youtu.be/oHMjtMjVGLc?si=QxSTmWYiW7LV9e17)
 - 05:00 [Dead Men Don't Wear Plaid](https://youtu.be/x2efDnLZjsk?si=Yn3Lem0XHB2HMwXI) trailer
-- 05:36 Plum Deluxe [Hunnybush](https://www.plumdeluxe.com/pages/fandoms) Herbal—I found out this was a special blend that might ***no longer be available*** but you can [take their quiz to find YOUR perfect cup](https://www.plumdeluxe.com/#finder-quiz-9560)! **Go [here to get your CraftLit listener discount](**https://www.plumdeluxe.com/collections/the-craftlit-collection)! ==Erik, put the link to the plum deluxe discount page on screen - bit.ly/pdtea==
+- 05:36 Plum Deluxe [Hunnybush](https://www.plumdeluxe.com/pages/fandoms) Herbal—I found out this was a special blend that might ***no longer be available*** but you can [take their quiz to find YOUR perfect cup](https://www.plumdeluxe.com/#finder-quiz-9560)! **Go [here to get your CraftLit listener discount](**https://www.plumdeluxe.com/collections/the-craftlit-collection)! ==Erik, put the link to the plum deluxe discount page on screen - [https://bit.ly/craftlit-pdtea](https://bit.ly/craftlit-pdtea)==
 - 07:08 You can call the show from the App or 206-350-1642 or speakpipe.com/craftlit
-- 8:05 [SEND US YOUR CRAFTY VIDEOS](https://www.plumdeluxe.com/pages/fandoms) and let us know what text you want on the screen during your video (promote your shop!)
-- 10:45 [Bookshop.org's CraftLit list from Farley's](https://bookshop.org/wishlists/4ba78b7681835fe4753c5490a7d3bc0144e0a752) also check out other indie online bookshops [Thriftbooks.com](https://Thriftbooks.com) and [AbeBooks.com](https://AbeBooks.com) or Powell's
+- 8:05 [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty) and let us know  what text you want on the screen during your video (promote your shop!)
+- 10:45 [Bookshop.org's CraftLit list from Farley's](https://bit.ly/4jPRksb) also check out other indie online bookshops [Thriftbooks.com](https://Thriftbooks.com) and [AbeBooks.com](https://AbeBooks.com) or Powell's
 - ==erik can you add these pix of Farley's when I'm talking about it?==
 - ![Interview with a Bookstore: Farley's Bookshop ‹ Literary Hub](https://s26162.pcdn.co/wp-content/uploads/2016/08/farleys-bookshop.jpg)
 OLD FARLEY'S (with the cat older than I am)
@@ -38,7 +38,7 @@ approx 15:35—==***all my times will need adjusting but it's a start***==
 - 22:44 Recondite - something difficult to understand
 - 23:15 [Army Lists](https://digital.nls.uk/british-military-lists/archive/88735803)
 ![BRITISH ARMY LISTS & WAR RECORDS - 232 BOOKS 6 DVD - WW1 WW2 WORLD CIVIL  HISTORY | eBay](https://i.ebayimg.com/images/g/o9UAAOSwD0lUlDF~/s-l400.jpg)
-- 23:42 [Bluebeard](https://sites.pitt.edu/~dash/perrault03.html) by Charles Perrault ***(who did NOT write the version of Tristan and Isolde we listened to)***: ==erik - you can put something on the screen--or just cut--re: me talking about tristan and isolde==
+-  : ==erik - you can put something on the screen--or just cut--re: me talking about tristan and isolde==
 	- **Moral:** Curiosity, in spite of its appeal, often leads to deep regret. To the displeasure of many a maiden, its enjoyment is short lived. Once satisfied, it ceases to exist, and always costs dearly. 
 	- **Another moral:** Apply logic to this grim story, and you will ascertain that it took place many years ago. No husband of our age would be so terrible as to demand the impossible of his wife, nor would he be such a jealous malcontent. For, whatever the color of her husband's beard, the wife of today will let him know who the master is. ***(Heather's note: I just had to add those here as I found them after I recorded)***
 		- Andrew Lang, **_The Blue Fairy Book_** (London: Longmans, Green, and Company, ca. 1889), pp. 290-295.
