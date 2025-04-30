@@ -12,3 +12,6 @@ The expression probably dates back to the English Civil War (1640s):
 
 Another (less formal) theory is:
     •    Coventry was seen as a place far away from polite London society — so being “sent to Coventry” meant being socially exiled.
+
+Don't forget to send us your crafty videos  [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty) 
+

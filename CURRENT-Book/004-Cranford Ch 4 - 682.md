@@ -7,7 +7,7 @@ CRANFORD chapter 4
 Ep 682 GREAT SCOTT!
 
 **==OH MY GOD I HAVE LIPSTICK ON MY TEETH!** **Can you cover me entirely** when I mentions the three premium options by showing screenshots of those sites? I put the screenshots into the 682 dropbox. 
-**ALSO at 1:18** I say thank you/we couldn't do this without you, but I repeat that again after the names. Please cut the 1:18 version :==
+**ALSO at 1:18** I say thank you/we couldn't do this without you, but I repeat that again after the names. Please cut the 1:18 version==
 ## Patrons
 **For ep. 682:**  
 • Judi Serrato  
