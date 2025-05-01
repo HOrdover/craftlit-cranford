@@ -4,9 +4,9 @@
 
 **[OUTRO SCRIPT – CRAFTLIT VIDEO VERSION]**
 
+  Hey YouTube - I have a special message for you:
   
-
-No mid-video interruptions, no “smash that like button” stuff. I know that breaks the flow—and _I_ hate it when people do that.
+You may have noticed that we set our episodes so there are No mid-video interruptions, no “smash that like button” stuff. I know that breaks the flow—and _I_ hate it when people do that.
 
 So here’s the deal:
 

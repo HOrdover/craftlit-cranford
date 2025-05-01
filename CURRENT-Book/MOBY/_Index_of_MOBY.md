@@ -4,6 +4,7 @@
  [[CURRENT-Book/MOBY/001 Moby Full Text 1|001 Moby Full Text 1]]
  [[CURRENT-Book/MOBY/001 Moby Full Text|001 Moby Full Text]]
  [[CURRENT-Book/MOBY/001-Loomings-CraftLit|001-Loomings-CraftLit]]
+ [[CURRENT-Book/MOBY/002 Moby Full Text Chs 2-3|002 Moby Full Text Chs 2-3]]
  [[CURRENT-Book/MOBY/2025.03.16-Moby Dick prep|2025.03.16-Moby Dick prep]]
  [[CURRENT-Book/MOBY/In a World link|In a World link]]
  [[CURRENT-Book/MOBY/List of funniest chapters|List of funniest chapters]]
