@@ -14,7 +14,7 @@ These are my annotated notes for Elizabeth Gaskell's *Cranford*.
 - [Chapter 3: A Love Affair of Long Ago](./003-CRANFORD-Ch-3---681---ANNIVERSARY)
 - [Chapter 4: Mr. Holbrook and the Visit](./004-CRANFORD-Ch-4---682)
 - [Chapter 5: Old Letters and New Concerns](./005-Cranford-Ch-5-683)
-- [Chapter 6: ...](./006--Cranford-Ch-6---684)
+- [Chapter 6: ...](./006---Cranford-Ch-6---684)
 
 
 ---
