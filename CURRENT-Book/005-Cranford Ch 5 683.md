@@ -6,7 +6,8 @@
 
 ## Book
 Cranford ==ERIK - I made notes in the Slack channel - I've really messed things up with not recording the week-of. I'm going to need to pay more attention.==    
-==**I'm not sure how much you'll need to cut off to recalculate the book talk/post-chapter audio**. BUT I have a solution to not having to wait for me! You still have access to Descript, right? - you can [get the AI to ***regenerate*** my voice](https://www.youtube.com/watch?v=866wu6ux_2M) with the proper time codes! Even if you just upload that little timecode file, I think it can regenerate me well enough.==    
+==**I'm not sure how much you'll need to cut off to recalculate the book talk/post-chapter audio**.== 
+==BUT I have a solution to not having to wait for me! You still have access to Descript, right? - you can [get the AI to ***regenerate*** my voice](https://www.youtube.com/watch?v=866wu6ux_2M) with the proper time codes! Even if you just upload that little timecode file, I think it can regenerate me well enough.==    
 ==ALL TIME CODES BELOW WILL NEED TO BE ADJUSTED AFTER YOU MAKE THE CUTS==
 
 ## Chapters
@@ -23,7 +24,7 @@ Cranford ==ERIK - I made notes in the Slack channel - I've really messed things 
 
 
 ## Crafty Chat Notes
-- 00:00 Plum Deluxe ==please put this on screen and in shownotes:  https://bit.ly/craftlit-pdtea==
+- 00:00 Plum Deluxe ==please put this on screen and in shownotes:  https://bit.ly/craftlit-pdtea yippee!==
 	- [Full Body Reset green tea](https://www.blackthornmercantile.com/product/plum-deluxe-tea-full-body-reset-lemon-ginger-green-tea/4115?cp=true&sa=false&sbp=true&q=false&category_id=3O7O27XQAWJUMSSARXKEHC2G&srsltid=AfmBOorxohWXmlOMm7Bq2dfd_vbrDvBhXGF-vLrfUQsduWsXfYPn2vS2)
 - 02:52 Gardening! ==video in drop box==
 ## MAY Raffle Item
@@ -42,7 +43,7 @@ Rebecca's Sir Walter Scott cross stitch
 		- **🧪 The Material:** **India-rubber**
 			- Came from the latex of tropical trees (especially _Hevea brasiliensis_).
 			- It was originally used for **erasing pencil marks**—hence “rubber.”
-- 28:08 **TONQUIN beans**: TONKA beans: Tonka beans are ==the wrinkled, black seeds of the Dipteryx odorata tree, native to South America==. Chefs outside the US use them in desserts and to replace nuts. AND ILLEGAL in USA since 1954 due to presence of liver damaging “coumarin” - [video on the beans](https://www.youtube.com/watch?v=392UXLR-TWs) - and *[this video was released **just after I recorded this episode**](https://youtu.be/tgHEMFM6KY4?si=lJmaYpKvnYM9bgOA)!*
+- 28:08 **TONQUIN beans**: TONKA beans: Tonka beans are the wrinkled, black seeds of the Dipteryx odorata tree, native to South America. Chefs outside the US use them in desserts and to replace nuts. AND ILLEGAL in USA since 1954 due to presence of liver damaging “coumarin” - [video on the beans](https://www.youtube.com/watch?v=392UXLR-TWs) - and *[this video was released **just after I recorded this episode**](https://youtu.be/tgHEMFM6KY4?si=lJmaYpKvnYM9bgOA)!*
 ![](https://produits.bienmanger.com/37572-2w0h0_Whole_Tonka_Beans.jpg)- 30:24 [Full bottomed wig:](https://museums.fivecolleges.edu/detail.php?museum=&t=objects&type=all&f=&s=the+past&record=771)
 ![full bottomed wig](./media/Full-bottomed-wig.png)
 
