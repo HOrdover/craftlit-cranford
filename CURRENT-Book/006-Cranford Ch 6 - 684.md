@@ -15,13 +15,17 @@ Cranford Ch 6 - Gaskell's Shawls
 Xxx
 
 ## Raffle Item
-If still may then it's the Cross stitch
+If still may then it's the Cross stitch ==I owe Erik a video==
 
-MY TEA
+MY TEA ==# [Cinnamon Nourish Black Tea—part of the Winter Collection](https://www.plumdeluxe.com/products/cinnamon-nourish-black-tea-vanilla-cinnamon?variant=41625358336137)
 
 ## Crafty Chat Notes
-Parkrose Permaculture video on unintended consequences (watched 4/29?) and Rugged Individualism
-Bug and Bee house
+Parkrose Permaculture video on [unintended consequences](https://youtu.be/Z3VBP1XZtUo?si=ekU1sM2P-Bx8b7nC)
+Then I found that I'd watched several of her videos on the subject of Individualism:
+- [Toxic Individualism #1](https://youtu.be/tt3GwF7J-yc?si=sjOkDkWmEFLRVWf0)
+- [Toxic Individualism #2](https://youtu.be/gyt59o9Etok?si=x3heRzFCUWoTqAaW&t=84)
+Rugged Individualism (and another video on the [same topic from Robert Reich](https://youtu.be/0Rzn6GZxsF0?si=6zeQpEpbMgZNeF_g))
+[Bug and Bee house](https://youtu.be/MouCp0sacFw?si=BG6CnfRgr7xSdSVu) (I love this guy's VERY DIY attitude) and [Ladybug Hotel #1](https://youtu.be/NQQFT2xgOvU?si=hvvkI0d2aZT18Vsi) and [Ladybug Hotel #2](https://youtu.be/y1rurWP8ydE?si=9NcVAsGWi7wmd9vm)
 
 ## BOOK TALK—Re-hash Notes
 Read all the letters and ended with "poor Peter" which will be where we begin today
