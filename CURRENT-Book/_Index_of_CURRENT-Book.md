@@ -6,7 +6,7 @@
  [[CURRENT-Book/002-cranford ch 2 680|002-cranford ch 2 680]]
  [[CURRENT-Book/003-Cranford Ch 3 - 681 - ANNIVERSARY|003-Cranford Ch 3 - 681 - ANNIVERSARY]]
  [[CURRENT-Book/004-Cranford Ch 4 - 682|004-Cranford Ch 4 - 682]]
- [[CURRENT-Book/005-Cranford Ch 5 683|005-Cranford Ch 5 683]]
+ [[005-Cranford Ch 5 683|005-Cranford Ch 5 683]]
  [[CURRENT-Book/006-Cranford Ch 6 - 684|006-Cranford Ch 6 - 684]]
  [[CURRENT-Book/007-Cranford Ch 7 - 685|007-Cranford Ch 7 - 685]]
  [[CURRENT-Book/Incidentals/_Index_of_Incidentals|_Index_of_Incidentals]]
