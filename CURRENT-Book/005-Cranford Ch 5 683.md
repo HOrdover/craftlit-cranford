@@ -1,5 +1,3 @@
-==Erik—I'm using these for my recording notes (so I don't have to keep looking down at my papers). How do you want me to flag the items to put into the shownotes or do you think you can tell?==
-
 
 # Podcast Literature Note: Cranford
 ### 683—PANGO!
@@ -8,7 +6,8 @@
 
 ## Book
 Cranford ==ERIK - I made notes in the Slack channel - I've really messed things up with not recording the week-of. I'm going to need to pay more attention. 
-**I'm not sure how much you'll need to cut off to recalculate the book talk/post-chapter audio**. BUT I have a solution to not having to wait for me! You still have access to Descript, right? - you can [get the AI to ***regenerate*** my voice](https://www.youtube.com/watch?v=866wu6ux_2M) with the proper time codes! Even if you just upload that little timecode file, I think it can regenerate me well enough.==
+**I'm not sure how much you'll need to cut off to recalculate the book talk/post-chapter audio**. BUT I have a solution to not having to wait for me! You still have access to Descript, right? - you can [get the AI to ***regenerate*** my voice](https://www.youtube.com/watch?v=866wu6ux_2M) with the proper time codes! Even if you just upload that little timecode file, I think it can regenerate me well enough.
+ALL TIME CODES BELOW WILL NEED TO BE ADJUSTED AFTER YOU MAKE THE CUTS==
 Booktalk
 Post-book
 
@@ -26,9 +25,9 @@ Post-book
 
 
 ## Crafty Chat Notes
-- 00:00 Plum Deluxe
-	- Full Body Reset green tea
-- 02:52 Gardens!
+- 00:00 Plum Deluxe ==please put this on screen and in shownotes:  https://bit.ly/craftlit-pdtea==
+	- [Full Body Reset green tea](https://www.blackthornmercantile.com/product/plum-deluxe-tea-full-body-reset-lemon-ginger-green-tea/4115?cp=true&sa=false&sbp=true&q=false&category_id=3O7O27XQAWJUMSSARXKEHC2G&srsltid=AfmBOorxohWXmlOMm7Bq2dfd_vbrDvBhXGF-vLrfUQsduWsXfYPn2vS2)
+- 02:52 Gardening! ==video in drop box==
 ## MAY Raffle Item
 Rebecca's Sir Walter Scott cross stitch
 
