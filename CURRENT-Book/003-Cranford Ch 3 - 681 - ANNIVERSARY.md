@@ -25,7 +25,7 @@ OLD FARLEY'S (with the cat older than I am)
 ![The Salt House: A Culinary Gem in New Hope's Historic Charm](https://cdn.restaurants-world.com/the-salt-house/2.png)
 ![It's a beautiful fall night in New Hope, PA!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7x9tiqUxKXfR4pERUNbXMXdwwy0vmoZVEeQ&s)
 - 13:28 Heather attempts gardening on a deck without a hose. Sympathy and/or hints are welcomed ;) heather@craftlit.com
-![[IMG_5030.jpg]]
+![[Greenstalk.jpg]]
 ## Re-hash Notes - start of booktalk
 approx 15:35—==***all my times will need adjusting but it's a start***==
 - Previous chapter was Captain's death and Miss Jenkyn's defending Jessie's gentleman caller

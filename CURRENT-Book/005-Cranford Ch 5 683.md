@@ -6,7 +6,7 @@
 
 ## Book
 Cranford ==ERIK - I made notes in the Slack channel - I've really messed things up with not recording the week-of. I'm going to need to pay more attention.==    
-**==I'm not sure how much you'll need to cut off to recalculate the book talk/post-chapter audio==**.
+**==I'm not sure how much you'll need to cut off to recalculate the book talk/post-chapter audio==**.    
 ==BUT I have a solution to not having to wait for me! You still have access to Descript, right? - you can [get the AI to ***regenerate*** my voice](https://www.youtube.com/watch?v=866wu6ux_2M) with the proper time codes! Even if you just upload that little timecode file, I think it can regenerate me well enough.==    
 ==ALL TIME CODES BELOW WILL NEED TO BE ADJUSTED AFTER YOU MAKE THE CUTS==
 

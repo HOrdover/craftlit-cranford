@@ -17,12 +17,13 @@ If May, then it's the cross stich
 
 ## Crafty Chat Notes
 Fast Fashion Chinese video https://youtu.be/fd228YQPn-0?si=kHvF4AH2HEz-nzYn
-
+Don't forget to send us your crafty videos  [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty) 
 ## BOOK TALK—Re-hash Notes
 Poor Peter last week - ends with Matty's cap
 
 ## Pre-hash Notes
-- **Miss Barker** - WE NEED THE FAMILY TREE AGAIN - had been the Milliner
+- **Family Tree Support through Chapter 7** 
+- ![[Cranford Character Sheet.png]]
 - **John Bull** - 1710s meant "typically English" bu tby 1840s stared to mean "Anglomaniacs"  
 - **Queen Adelaid**e - Wife of William IV who reigned 1830-37
 - **Condescendingly** - like in Emma, not an insult "Middle English (in the sense ‘give way, defer’):" now means be patronizing
