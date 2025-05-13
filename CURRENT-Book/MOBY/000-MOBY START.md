@@ -1,5 +1,5 @@
 ---
-title: Chapter 1 – Loomings
+title: 000-MOBY START
 chapter: 1
 tags:
   - moby-dick
