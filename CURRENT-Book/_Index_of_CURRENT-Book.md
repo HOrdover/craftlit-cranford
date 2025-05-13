@@ -8,7 +8,7 @@
  [[004-Cranford Ch 4-682-05.02.25|004-Cranford Ch 4-682-05.02.25]]
  [[005-Cranford Ch 5 683-05.10.25|005-Cranford Ch 5 683-05.10.25]]
  [[CURRENT-Book/006-Cranford Ch 6 - 684|006-Cranford Ch 6 - 684]]
- [[CURRENT-Book/007-Cranford Ch 7 - 685|007-Cranford Ch 7 - 685]]
+ [[007-Cranford Ch 7-685-05.23.25|007-Cranford Ch 7-685-05.23.25]]
  [[CURRENT-Book/Incidentals/_Index_of_Incidentals|_Index_of_Incidentals]]
  [[CURRENT-Book/index|index]]
  [[CURRENT-Book/media/_Index_of_media|_Index_of_media]]
