@@ -1,6 +1,6 @@
 #full-book #moby-dick #Melville #annotated
 
-  
+
   Melville’s previous book and sales
   Anti-racist
   Anti-Capitalist
