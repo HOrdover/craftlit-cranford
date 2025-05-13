@@ -17,8 +17,9 @@ Xxx
 ## Raffle Item
 If still may then it's the Cross stitch ==I owe Erik a video==
 
-MY TEA ==# [Cinnamon Nourish Black Tea—part of the Winter Collection](https://www.plumdeluxe.com/products/cinnamon-nourish-black-tea-vanilla-cinnamon?variant=41625358336137)
-
+MY TEA ==# [Cinnamon Nourish Black Tea—part of the Winter Collection](https://www.plumdeluxe.com/products/cinnamon-nourish-black-tea-vanilla-cinnamon?variant=41625358336137)==
+00:00 Plum Deluxe 
+==please put this link on screen **and** in shownotes: **[https://bit.ly/craftlit-pdtea](https://bit.ly/craftlit-pdtea)** ==
 ## Crafty Chat Notes
 Parkrose Permaculture video on [unintended consequences](https://youtu.be/Z3VBP1XZtUo?si=ekU1sM2P-Bx8b7nC)
 Then I found that I'd watched several of her videos on the subject of Individualism:
