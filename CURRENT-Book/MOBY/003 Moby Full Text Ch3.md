@@ -13,17 +13,17 @@ The opposite wall of this entry was hung all over with a heathenish array of mon
 Crossing this dusky entry, and on through yon low-arched way—cut through what in old times[^9] must have been a great central chimney with fireplaces all round—you enter the public room. A still duskier place is this, with such low ponderous beams above, and such old wrinkled planks beneath, that you would almost fancy you trod some old craft’s cockpits, especially of such a howling night, when this corner-anchored[^10] old ark rocked so furiously. On one side stood a long, low, shelf-like table covered with cracked glass cases, filled with dusty rarities gathered from this wide world’s remotest nooks. Projecting from the further angle of the room stands a dark-looking den—the bar—a ***rude attempt at a right whale’s head***.[^11] Be that how it may, there stands the vast arched bone of the whale’s jaw, so wide, a coach might almost drive beneath it. Within are shabby shelves, ranged round with old decanters, bottles, flasks; and in those jaws of swift destruction,[^12] like another cursed Jonah (by which name indeed they called him), bustles a little withered old man, who, for their money, dearly sells the sailors deliriums and death.[^13]
 
 Abominable are the tumblers into which he pours his poison. Though true cylinders without—within, the villanous green goggling glasses deceitfully tapered downwards to [a cheating bottom](https://www.rnt2.com/cheater-shot-glass.html). Parallel meridians rudely pecked into the glass, surround these footpads’[^14] goblets. Fill to _this_ mark, and your charge is but a penny; to _this_ a penny more; and so on to the full glass—the Cape Horn measure, which you may gulp down for a shilling.
-
+![](https://www.rnt2.com/images/thumbnails/120/120/detailed/10/CheaterShotGlass.jpg)
 Upon entering the place I found a number of young seamen gathered about a table, examining by a dim light divers specimens of _skrimshander_.[^15] I sought the landlord, and telling him I desired to be accommodated with a room, received for answer that his house was full—not a bed unoccupied. “But avast,” he added, tapping his forehead, “you haint no objections to sharing a harpooneer’s blanket, have ye? I s’pose you are goin’ a-whalin’, so you’d better get used to that sort of thing.”
-
+![What scrimshaw — and a female pirate — can tell us about 19th-century  whaling | WBUR News](https://media.wbur.org/wp/2022/10/1004_scrimshaw-1.jpeg)
 I told him that I never liked to sleep two in a bed; that if I should ever do so, it would depend upon who the harpooneer might be, and that if he (the landlord) really had no other place for me, and the harpooneer was not decidedly objectionable, why rather than wander further about a strange town on so bitter a night, I would put up with the half of any decent man’s blanket.
 
 “I thought so. All right; take a seat. Supper?—you want supper? Supper’ll be ready directly.”
-
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Settle_%28PSF%29.png/250px-Settle_%28PSF%29.png)
 I sat down on an [old wooden settle](https://en.wikipedia.org/wiki/Settle_(furniture)), carved all over like a bench on the Battery.[^16] At one end a ruminating tar was still further adorning it with his jack-knife, stooping over and diligently working away at the space between his legs. He was trying his hand at a ship under full sail, but he didn’t make much headway, I thought.
 
 At last some four or five of us were summoned to our meal in an adjoining room. It was cold as Iceland—no fire at all—the landlord said he couldn’t afford it. Nothing but two dismal tallow candles,[^17] each in a winding sheet.[^18] We were fain to button up our [monkey jackets](https://en.wikipedia.org/wiki/Monkey_jacket), and hold to our lips cups of scalding tea with our half frozen fingers. But the fare was of the most substantial kind—not only meat and potatoes, but dumplings; good heavens! dumplings for supper! One young fellow in a green box coat,[^19] addressed himself to these dumplings in a most direful manner.
-
+![](https://upload.wikimedia.org/wikipedia/commons/1/1e/Monkey_jacket.gif)
 “My boy,” said the landlord, “you’ll have the nightmare to a dead sartainty.”
 
 “Landlord,” I whispered, “that aint the harpooneer is it?”
@@ -45,9 +45,8 @@ A tramping of sea boots was heard in the entry; the door was flung open, and in 
 The liquor soon mounted into their heads, as it generally does even with the arrantest topers newly landed from sea, and they began capering about most obstreperously.
 
 I observed, however, that one of them held somewhat aloof, and though he seemed desirous not to spoil the hilarity of his shipmates by his own sober face, yet upon the whole he refrained from making as much noise as the rest. This man interested me at once; and since the sea-gods had ordained that he should soon become my shipmate (though but a sleeping-partner[^22] one, so far as this narrative is concerned), I will here venture upon a little description of him. He stood full six feet in height, with noble shoulders, and a chest like a coffer-dam[^23]. I have seldom seen such brawn in a man. His face was deeply brown and burnt, making his white teeth dazzling by the contrast; while in the deep shadows of his eyes floated some reminiscences that did not seem to give him much joy. His voice at once announced that he was a Southerner, and from his fine stature, I thought he must be one of those tall mountaineers from the Alleghanian Ridge in Virginia. When the revelry of his companions had mounted to its height, this man slipped away unobserved, and I saw no more of him till he became my comrade on the sea. In a few minutes, however, he was missed by his shipmates, and being, it seems, for some reason a huge favourite with them, they raised a cry of “Bulkington! Bulkington! where’s Bulkington?” and darted out of the house in pursuit of him.
-https://youtu.be/2qALHS-QJ28?si=ByLBdjBaOGidPfuX&t=3m00s
 It was now about nine o’clock, and the room seeming almost supernaturally quiet after these orgies, I began to congratulate myself upon a little plan that had occurred to me just previous to the entrance of the seamen.
-
+![Coffer Dam | Concrete Civil Engineering](https://concretecivil.com/wp-content/uploads/2019/09/5210_Classroomcofferpic-765x510.jpg)
 No man prefers to sleep two in a bed. In fact, you would a good deal rather not sleep with your own brother. I don’t know how it is, but people like to be private when they are sleeping. And when it comes to sleeping with an unknown stranger, in a strange inn, in a strange town, and that stranger a harpooneer, then your objections indefinitely multiply. Nor was there any earthly reason why I as a sailor should sleep two in a bed, more than anybody else; for sailors no more sleep two in a bed at sea, than bachelor Kings do ashore. To be sure they all sleep together in one apartment, but you have your own hammock, and cover yourself with your own blanket, and sleep in your own skin.
 
 The more I pondered over this harpooneer, the more I abominated the thought of sleeping with him. It was fair to presume that being a harpooneer, his linen or woollen, as the case might be, would not be of the tidiest, certainly none of the finest. I began to twitch all over. Besides, it was getting late, and my decent harpooneer ought to be home and going bedwards. Suppose now, he should tumble in upon me at midnight—how could I tell from what vile hole he had been coming?
@@ -149,19 +148,25 @@ This being told to Queequeg, he at once complied, and again politely motioned me
 “Good night, landlord,” said I, “you may go.”
 
 I turned in, and never slept better in my life.
+
+--- 
+
+→ [Return to Moby-Dick Index](🧠-Index_of_MOBY)
+
 # Footnotes
 
 [^1]: Wainscots - wooden paneling below chair rail on walls
+![Oak Wainscot Kit - 24 lineal feet of wall](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_lutTDckuV6A-HeYCnlVfIZdw_2n_8LeDJKqjuyEW47aqyNgASvSQbQgD3iaIufNNtYI&usqp=CAU)
 [^2]: Salem Witch Trials
 [^3]: Hyperboreans - in Greek Mythology, people who lived far to the north but apparently lived in a temperate climate (good to be them, I guess)
 [^4]: Leviathan - is a [sea serpent](https://en.m.wikipedia.org/wiki/Sea_serpent "Sea serpent") [demon](https://en.m.wikipedia.org/wiki/Demon "Demon")noted in theology and mythology. It is referenced in several books of the [Hebrew Bible](https://en.m.wikipedia.org/wiki/Hebrew_Bible "Hebrew Bible"), including [Psalms](https://en.m.wikipedia.org/wiki/Psalms "Psalms"), the [Book of Job](https://en.m.wikipedia.org/wiki/Book_of_Job "Book of Job"), the [Book of Isaiah](https://en.m.wikipedia.org/wiki/Book_of_Isaiah "Book of Isaiah"), and the [pseudepigraphical](https://en.m.wikipedia.org/wiki/Pseudepigrapha "Pseudepigrapha") [Book of Enoch](https://en.m.wikipedia.org/wiki/Book_of_Enoch "Book of Enoch"). Leviathan is often an embodiment of chaos, threatening to eat the damned when their lives are over. In the end, it is annihilated. Christian theologians identified Leviathan with the demon of the [deadly sin](https://en.m.wikipedia.org/wiki/Seven_deadly_sins "Seven deadly sins") _[envy](https://en.m.wikipedia.org/wiki/Envy "Envy")_.
 [^5]: Verb: **purposing** 1. [present](https://en.m.wiktionary.org/wiki/Appendix:Glossary#present_tense "Appendix:Glossary") [participle](https://en.m.wiktionary.org/wiki/Appendix:Glossary#participle "Appendix:Glossary") and [gerund](https://en.m.wiktionary.org/wiki/Appendix:Glossary#gerund "Appendix:Glossary") of _[purpose](https://en.m.wiktionary.org/wiki/purpose#English "purpose")_ Noun **purposing** (_plural_ **[purposings](https://en.m.wiktionary.org/wiki/purposings#English "purposings")**) 1. The act of forming a purpose.
-[^6]: Long-armed mower - scythe
+[^6]: Long-armed mower - scythe![Scythe - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b1/Scythe_user.png)
 [^7]: Javan - near Java in the Malay archipelago 
 [^8]: Cape of Blanco - possibly the western cape of South Africa?
 [^9]: 1600-1700s
 [^10]: Corner anchored: likely a loose reference to reality - you could drop anchors “diagonally” bow and aft in challenging weather and/or in tight moorings where the extra security would be appreciated. So the building (the “ark) wasn’t well constructed and felt like it was only “tied down” at the corners. 
-[^11]: Right whale’s head - maybe because dark, maybe because baleen/curtains, maybe because bumps/barnacles?
+[^11]: Right whale’s head - maybe because dark, maybe because baleen/curtains, maybe because bumps/barnacles?![Right whale | Size, Diet, & Habitat | Britannica](https://cdn.britannica.com/61/73261-050-B8663765/whale.jpg?w=400&h=300&c=crop)
 [^12]: continuing the right whale thing, “in those jaws of swift destruction” is both whale’s “mouth” (the bar) and the potential “swift destruction” by liquor. Also, barkeep is NOT Peter Coffin, his name is Jonah. 
 [^13]: Yeah…swift destruction
 [^14]: Footpads - pickpockets, thieves who focus on pedestrian

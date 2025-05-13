@@ -1,9 +1,9 @@
 
-Absolutely! Moby-Dick is famous for its philosophical depth and tragic arc, but it’s also full of sly humor, absurdity, and satire. Here’s a list of some of the funniest chapters, with bullet-point notes on what makes each one hilarious:
+Here’s a list of some of the funniest chapters, with bullet-point notes on what makes each one hilarious:
 
   
 
-Funniest Chapters in Moby-Dick
+### Funniest Chapters in Moby-Dick
 
 • Chapter 2: “The Carpet-Bag”
 
@@ -86,5 +86,3 @@ Funniest Chapters in Moby-Dick
 • Stubb is gleefully manipulative, and the French crew are played as comic foils.
 
   
-
-Would you like a printable version of this list, or a shortened one just for sharing with readers or students?

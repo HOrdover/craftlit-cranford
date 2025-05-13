@@ -42,6 +42,12 @@ Chief among these motives was the overwhelming idea of the great whale himself. 
 
 By reason of these things, then, the whaling voyage was welcome; the great flood-gates of the wonder-world swung open, and in the wild conceits that swayed me to my purpose, two and two there floated into my inmost soul, endless processions of the whale, and, mid most of them all, one grand hooded phantom, like a snow hill in the air.
 
+
+--- 
+
+→ [Return to Moby-Dick Index](🧠-Index_of_MOBY)
+
+FOOTNOTES
 [^1]: Using the name Ishmael tells us a lot about our narrator before we begin. Origin: The biblical story of Abraham tells us that his wife, Sarah, couldn’t have a child. Instead he has a child with his bondservant, Hagar—one of the few non-main character women who are named in the Bible. That child is Ishmael. As the oldest, he should inherit everything from Abraham. But suddenly Sarah is blessed with a child, Isaac, and Ishmael and Hagar are summarily dismissed, making Ishamel the OG outcast.
 [^2]: Spleen-temper / ill-humor + melancholy or low spirits
 [^3]: hypos - hypochondria

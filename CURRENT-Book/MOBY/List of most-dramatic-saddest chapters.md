@@ -1,10 +1,8 @@
 
+Here's a list of the most dramatic chapters, and then the saddest in Moby-Dick. Each bullet gives you a taste of what makes it emotionally or narratively intense.
 
-Fantastic—I’m so glad that hit the mark! Here are the next two lists for you: first the most dramatic chapters, and then the saddest in Moby-Dick. Each bullet gives you a taste of what makes it emotionally or narratively intense.
 
-  
-
-Most Dramatic Chapters in Moby-Dick
+### Most Dramatic Chapters in Moby-Dick
 
 • Chapter 28: “Ahab”
 
@@ -68,7 +66,7 @@ Most Dramatic Chapters in Moby-Dick
 
   
 
-Saddest Chapters in Moby-Dick
+### Saddest Chapters in Moby-Dick
 
 • Chapter 7: “The Chapel”
 
@@ -119,5 +117,3 @@ Saddest Chapters in Moby-Dick
 • The grandeur of the tragedy fades into silence. The ocean swallows all but the story.
 
   
-
-Want a combined “emotional impact reading guide” version of these three lists for a blog post, book group, or reading challenge? I can shape it into a printable or shareable format too.
