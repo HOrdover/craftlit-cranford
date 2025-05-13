@@ -3,6 +3,6 @@
 
 ### Raffles listed on these episodes
 - April https://bit.ly/april-raffle - Knitting Companion book 
-- [[002-cranford ch 2 680-04.18.25]]
-- [[003-Cranford Ch 3-681-ANNIVERSARY-04.25.25]]
+- [[🎤002-cranford ch 2 680-04.18.25]]
+- [[🎤003-Cranford Ch 3-681-ANNIVERSARY-04.25.25]]
 
