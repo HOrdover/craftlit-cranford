@@ -5,7 +5,7 @@
 - 📄 [[CURRENT-Book/003-Cranford Ch 3-681-ANNIVERSARY-04.25.25|003-Cranford Ch 3-681-ANNIVERSARY-04.25.25]]
 - 📄 [[CURRENT-Book/004-Cranford Ch 4-682-05.02.25|004-Cranford Ch 4-682-05.02.25]]
 - 📄 [[CURRENT-Book/005-Cranford Ch 5 683-05.10.25|005-Cranford Ch 5 683-05.10.25]]
-- 📄 [[CURRENT-Book/006-Cranford Ch 6 - 684|006-Cranford Ch 6 - 684]]
+- 📄 [[CURRENT-Book/006-Cranford Ch 6-684-05.16.25|006-Cranford Ch 6-684-05.16.25]]
 - 📄 [[CURRENT-Book/007-Cranford Ch 7-685-05.23.25|007-Cranford Ch 7-685-05.23.25]]
 - 📄 [[CURRENT-Book/008-Cranford Ch 8-686-05.30.25-pending|008-Cranford Ch 8-686-05.30.25-pending]]
 - 📄 [[CURRENT-Book/index|index]]
