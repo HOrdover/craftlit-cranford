@@ -16,10 +16,16 @@ per Erik
 If May, then it's the cross stich
 
 ## Crafty Chat Notes
-- Fast Fashion Chinese video https://youtu.be/fd228YQPn-0?si=kHvF4AH2HEz-nzYn
-- Don't forget to send us your crafty videos  [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty) 
+- ==please put these links on screen when appropriate **and** in shownotes: Plum Deluxe Tea-CraftLit's Discount Code! [https://bit.ly/craftlit-pdtea](https://bit.ly/craftlit-pdtea) 
+  Send your crafty videos: https://bit.ly/craftlit-be-crafty ==
+- [Explaining TARIFFS with a Textile History Lesson with Jillian Eve](https://youtu.be/2qALHS-QJ28?si=fyQx1Lk8vZ1Rdw0A&t=160) 
+- We recommend for most shows to have the following number of ad slots based on average episode length:
+	- <30 Minutes in Length -    1 - Pre / 2 - Mid / 3 - Post roll ads.
+	- 30 to 60 Mins in Length -  2 - Pre / 4 - Mid / 2 - Post roll ads
+	- 60 to 90 Mins in Length -  2 - Pre / 6 - Mid / 2 - Post roll ads.   
+	- 90 Minutes in Length -    2 - Pre / 8 - Mid / 2 - Post roll ads.
 ## BOOK TALK—Re-hash Notes
-Poor Peter last week - ends with Matty's cap
+Poor Peter last week - ends with Martha...KISSING! 
 
 ## Pre-hash Notes
 - **Family Tree Support through Chapter 7** ==please put this graphic on screen whenever useful and in shownotes==
@@ -41,5 +47,19 @@ Poor Peter last week - ends with Matty's cap
 - young people like to read books HA
 - Chunderabaddad - made up name
 
-## Miscellaneous
-xxx
+- Don't forget to send us your crafty videos  [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty) 
+
+BOOK/WATCH PARTIES coming up in 2025:
+- **Last Thursday of every month, 8pm Eastern:**
+	- ~~Jan—All About Eve (Buckle up!)~~
+    - **~~Feb~~**~~—~~_~~Rebecca~~_ ~~(book)~~
+    - **~~Mar~~**~~—~~_~~Rebecca~~_ ~~(movie —if requested, a double feature of Hitchcock’s version vs the 2020 remake)~~
+    - **~~Apr~~**~~—~~_~~Thin Man~~_ ~~(book)~~
+    - **May**—_Thin Man_ (movie)
+    - **Jun**—_Princess Bride_ (book—there are many versions - Heather has notes on which Forward to read)
+    - **Jul**—_Princess Bride_ (movie)
+    - **Aug**—_The Last Unicorn_ (book)
+    - **Sep**—_The Last Unicorn_ (movie)
+    - **Oct**—_Random Harvest_ (book)
+    - **Nov**—_Random Harvest_ (movie)
+    - **Dec**—_Lamb: The Gospel According to Biff, Christ's Childhood Pal_ (book)
