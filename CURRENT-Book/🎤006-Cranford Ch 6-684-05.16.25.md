@@ -27,8 +27,8 @@ Then I found that I'd watched several of her videos on the subject of Individual
 - [Toxic Individualism #1](https://youtu.be/tt3GwF7J-yc?si=sjOkDkWmEFLRVWf0)
 - [Toxic Individualism #2](https://youtu.be/gyt59o9Etok?si=x3heRzFCUWoTqAaW&t=84)
 Rugged Individualism (and another video on the [same topic from Robert Reich](https://youtu.be/0Rzn6GZxsF0?si=6zeQpEpbMgZNeF_g))
-Pioneer Women book  ==please pull thumbnails for this book and the next two videos to put on screen if you can==
-8:20 [Bug and Bee house](https://youtu.be/MouCp0sacFw?si=BG6CnfRgr7xSdSVu) (I love this guy's VERY DIY attitude) and Ladybug Hotel #1 and Ladybug Hotel #2
+[***Pioneer Women***](https://www.goodreads.com/book/show/328075.Pioneer_Women) book  ==please pull thumbnails for this book and the next two videos to put on screen if you can==
+8:20 [Bug and Bee house](https://youtu.be/MouCp0sacFw?si=BG6CnfRgr7xSdSVu) (I love this guy's VERY DIY attitude) and [Ladybug Hotel #1](https://youtu.be/y1rurWP8ydE?si=2HIQ-iqJ4firXpgi) and [Bug Hotel #2](https://youtu.be/MouCp0sacFw?si=FstT3LG3KLrrhBDX)
 09:00 ==keep on screen through 10:00 This is what the Berlin bug houses looked like:==
 ![Wooden Insect, Bug & Bee House I Garden Selections](https://selections.com/cdn/shop/files/GFK206_Wooden_Insect_Bug_and_Bee-House_08_Square.jpg?v=1687423037&width=1445)
 12:00 Barbara Edelman show - BEE EPISODE
@@ -58,7 +58,7 @@ Pioneer Women book  ==please pull thumbnails for this book and the next two vide
 
 
 ## Post-chapter Notes
-- 01:02:29 "Jack and Jilling it" is shorthand for when Heather refers to this article: ***Journal of Reading***, Volume 24, No. 2, November 1980, p. 101, William H. Smith, "What they didn't tell you about Jack and Jill" 
+- 01:02:29 "Jack and Jilling it" is shorthand for when Heather refers to this article: [***Journal of Reading***, Volume 24, No. 2, November 1980, p. 101, William H. Smith, "What they didn't tell you about Jack and Jill"](https://www.jstor.org/stable/40009287)
 - Don't forget to send us your crafty videos  [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty) ==put this link on screen please: https://bit.ly/craftlit-be-crafty==
 
 BOOK/WATCH PARTIES coming up in 2025:
