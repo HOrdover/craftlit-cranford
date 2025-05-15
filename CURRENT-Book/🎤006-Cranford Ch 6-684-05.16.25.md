@@ -60,7 +60,7 @@ Rugged Individualism (and another video on the [same topic from Robert Reich](ht
 ## Post-chapter Notes
 - 01:02:29 "Jack and Jilling it" is shorthand for when Heather refers to this article: [***Journal of Reading***, Volume 24, No. 2, November 1980, p. 101, William H. Smith, "What they didn't tell you about Jack and Jill"](https://www.jstor.org/stable/40009287)
 - Don't forget to send us your crafty videos  [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty).   
-   ==put this link on scr. en please: https://bit.ly/craftlit-be-crafty==
+   ==put this link on scr. en please: https://bit.ly/craftlit-be-crafty .==
 
 BOOK/WATCH PARTIES coming up in 2025:
 - **Last Thursday of every month, 8pm Eastern:**
