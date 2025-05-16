@@ -49,7 +49,8 @@ Rugged Individualism (and another video on the [same topic from Robert Reich](ht
 - ![Of Justice and Consensus: the lessons of Megillat Esther](https://www.yaelshahar.com/wp-content/uploads/2017/03/Megillah1.png)      
 - LOOK! ⬆️ It's a Whole Megillah! 😂
 - 26:00 **No overland route for Poor Peter** - this clues us in on when Peter went to India. [An overland route via the Red Sea was opened in the late 1830s](https://englishhistoryauthors.blogspot.com/2017/06/full-steam-ahead-overland-route-home.html. ==Erik, if you can pull an on-screen pic from this website, nifty. If not, no worries==
-- ==26:45 FOR VIDEO - SHAWL IN LOWER LEFT and as backdrops seen through lousy reflections in glass case--pic taken by me at the Elizabeth Gaskell House in 2015![[Gaskell Shawl.jpeg]]==
+- ==26:45 FOR VIDEO - SHAWL IN LOWER LEFT and as backdrops seen through lousy reflections in glass case--pic taken by me at the Elizabeth Gaskell House in 2015==
+- ![[Gaskell Shawl.jpeg]]
 - 27:30 **“Some Great War in India”** - probably the [First Anglo Burmese War (1824-26)](https://en.wikipedia.org/wiki/First_Anglo-Burmese_War)
 - 28:54 here's your chapter summary: **Summary:**  Miss Matty shares the story of her brother, Peter, who left Cranford after a disagreement with their father. His absence left a lasting impact on Miss Matty, highlighting the deep bonds of family despite misunderstandings.
 
