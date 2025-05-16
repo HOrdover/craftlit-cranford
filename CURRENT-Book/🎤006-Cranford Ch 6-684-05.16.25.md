@@ -17,6 +17,9 @@ Xxx
 ## Raffle Item
 If still may then it's the Cross stitch ==I owe Erik a video - use last week's ;) ==
 
+==please put these links on screen when appropriate **and** in shownotes: Plum Deluxe Tea-CraftLit's Discount Code! [https://bit.ly/craftlit-pdtea](https://bit.ly/craftlit-pdtea) 
+  Send your crafty videos: https://bit.ly/craftlit-be-crafty ==
+
 MY TEA ==# [Cinnamon Nourish Black Tea—part of the Winter Collection](https://www.plumdeluxe.com/products/cinnamon-nourish-black-tea-vanilla-cinnamon?variant=41625358336137)==
 00:00 [Plum Deluxe Literary Tea Collection](https://www.plumdeluxe.com/products/tea-gift-tin?variant=42973279322249)
 ==At 1:40, please put on screen "you can select your own teas"==
@@ -62,7 +65,8 @@ Rugged Individualism (and another video on the [same topic from Robert Reich](ht
 - Don't forget to send us your crafty videos  [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty).   
    ==put this link on scr. en please: https://bit.ly/craftlit-be-crafty .==
 
-BOOK/WATCH PARTIES coming up in 2025:
+
+BOOK/WATCH PARTIES coming up in 2025 https://craftlit.gumroad.com/l/craftlit-party
 - **Last Thursday of every month, 8pm Eastern:**
 	- ~~Jan—All About Eve (Buckle up!)~~
     - **~~Feb~~**~~—~~_~~Rebecca~~_ ~~(book)~~
