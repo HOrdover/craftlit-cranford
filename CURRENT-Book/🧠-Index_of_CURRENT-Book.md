@@ -6,7 +6,7 @@
 - 📄 [[CURRENT-Book/🎤005-Cranford Ch 5 683-05.10.25|🎤005-Cranford Ch 5 683-05.10.25]]
 - 📄 [[CURRENT-Book/🎤006-Cranford Ch 6-684-05.16.25|🎤006-Cranford Ch 6-684-05.16.25]]
 - 📄 [[CURRENT-Book/000-Cranford-Librivox + ch summaries|000-Cranford-Librivox + ch summaries]]
-- 📄 [[CURRENT-Book/007-Cranford Ch 7-685-05.23.25|007-Cranford Ch 7-685-05.23.25]]
+- 📄 [[🎤007-Cranford Ch 7-685-05.23.25|🎤007-Cranford Ch 7-685-05.23.25]]
 - 📄 [[CURRENT-Book/008-Cranford Ch 8-686-05.30.25-pending|008-Cranford Ch 8-686-05.30.25-pending]]
 - 📄 [[CURRENT-Book/index|index]]
 - 📄 [[CURRENT-Book/README|README]]

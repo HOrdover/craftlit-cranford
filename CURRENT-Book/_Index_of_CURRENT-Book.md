@@ -9,7 +9,7 @@
  [[CURRENT-Book/🧠-Index_of_CURRENT-Book|🧠-Index_of_CURRENT-Book]]
  [[CURRENT-Book/🧠Index_of_CURRENT-Book|🧠Index_of_CURRENT-Book]]
  [[CURRENT-Book/000-Cranford-Librivox + ch summaries|000-Cranford-Librivox + ch summaries]]
- [[CURRENT-Book/007-Cranford Ch 7-685-05.23.25|007-Cranford Ch 7-685-05.23.25]]
+ [[🎤007-Cranford Ch 7-685-05.23.25|🎤007-Cranford Ch 7-685-05.23.25]]
  [[CURRENT-Book/008-Cranford Ch 8-686-05.30.25-pending|008-Cranford Ch 8-686-05.30.25-pending]]
  [[CURRENT-Book/008|008]]
  [[CURRENT-Book/Incidentals/_Index_of_Incidentals|_Index_of_Incidentals]]
