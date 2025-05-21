@@ -53,9 +53,8 @@ Rooting Hormone bottle![Amazon.com: Garden Safe Take Root Rooting Hormone, Promo
 31:05 START OF CHAPTER 
 
 ## Post-chapter Notes
-
-
-- Don't forget to send us your crafty videos  [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty) 
+- 58:35 - Don't forget to send us your crafty videos  [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty) 
+- 59:10 - Thin Man Watch Party Thursday, May 29, 8pm Eastern time ==please put Erik's thumbnail in Libsyn shownotes ==
 
 BOOK/WATCH PARTIES coming up in 2025 https://craftlit.gumroad.com/l/craftlit-party
 - **Last Thursday of every month, 8pm Eastern:**
@@ -68,10 +67,6 @@ BOOK/WATCH PARTIES coming up in 2025 https://craftlit.gumroad.com/l/craftlit-par
     - **Nov**—_Random Harvest_ (movie)
     - **Dec**—_Lamb: The Gospel According to Biff, Christ's Childhood Pal_ (book)
 
-https://collectionapi.metmuseum.org/api/collection/v1/iiif/401577/777753/main-image
-![[IMG_5251.jpg]]
- 
 
 
-58:35 - Please send crafty videos to share your handmade goodness: bit.ly/craftlit-be-crafty
-59:10 - Thin Man Watch Party Thursday, May 29, 8pm Eastern time ==please put Erik's thumbnail in Libsyn shownotes ==
+
