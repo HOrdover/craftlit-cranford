@@ -34,7 +34,7 @@ Rugged Individualism (and another video on the [same topic from Robert Reich](ht
 8:20 [Bug and Bee house](https://youtu.be/MouCp0sacFw?si=BG6CnfRgr7xSdSVu) (I love this guy's VERY DIY attitude) and [Ladybug Hotel #1](https://youtu.be/y1rurWP8ydE?si=2HIQ-iqJ4firXpgi) and [Bug Hotel #2](https://youtu.be/MouCp0sacFw?si=FstT3LG3KLrrhBDX)
 09:00 ==keep on screen through 10:00 This is what the Berlin bug houses looked like:==
 ![Wooden Insect, Bug & Bee House I Garden Selections](https://selections.com/cdn/shop/files/GFK206_Wooden_Insect_Bug_and_Bee-House_08_Square.jpg?v=1687423037&width=1445)
-12:00 Barbara Edelman show - BEE EPISODE
+12:00 Barbara Edelman show - BEE EPISODE: https://podcasts.apple.com/us/podcast/how-you-can-save-the-world-sustainable-living-and/id988420444?i=1000363698718
 ## BOOK TALK—Re-hash Ch5 Notes
 13:40 Read all the letters and ended with "poor Peter" which will be where we begin today
 
@@ -81,3 +81,79 @@ BOOK/WATCH PARTIES coming up in 2025 https://craftlit.gumroad.com/l/craftlit-par
     - **Oct**—_Random Harvest_ (book)
     - **Nov**—_Random Harvest_ (movie)
     - **Dec**—_Lamb: The Gospel According to Biff, Christ's Childhood Pal_ (book)
+
+
+
+
+
+ACTUAL YOUTUBE NOTES:
+
+Ep. 684: Cranford | Chapter 6
+
+Book talk begins at 15:15
+
+Oh, you’re not ready for this one. This week, Miss Matty lets us in on a long-held family secret—and you know when the ladies of Cranford whisper, it's worth leaning in.
+
+---------------------------------------------------------------
+
+00:00 Episode start
+01:45 Plum Deluxe Cinnamon Nourish Black Tea—part of the Winter Collection: https://www.plumdeluxe.com/products/cinnamon-nourish-black-tea-vanilla-cinnamon?variant=41625358336137
+—MAY RAFFLE - https://bit.ly/may-raffle  Sir Walter Scott Cross stitch from Rebecca S (Of Book it with Becca, who wrote the wonderful post: “What do you do with a problem like Emma?”)
+—03:30 Parkrose Permaculture video on unintended consequences. https://youtu.be/Z3VBP1XZtUo?si=ekU1sM2P-Bx8b7nC Then I found that I’d watched several of her videos on the subject of Individualism:
+• Toxic Individualism #1: https://youtu.be/tt3GwF7J-yc?si=sjOkDkWmEFLRVWf0
+• Toxic Individualism #2: https://youtu.be/gyt59o9Etok?si=x3heRzFCUWoTqAaW&t=84 
+• Rugged Individualism (and another video on the same topic from Robert Reich): https://youtu.be/0Rzn6GZxsF0?si=6zeQpEpbMgZNeF_g 
+• Pioneer Women book: https://www.goodreads.com/book/show/328075.Pioneer_Women
+—8:20 Bug and Bee house: https://youtu.be/MouCp0sacFw?si=BG6CnfRgr7xSdSVu (I love this guy’s VERY DIY attitude) and Ladybug Hotel #1: https://youtu.be/y1rurWP8ydE?si=2HIQ-iqJ4firXpgi and Bug Hotel #2: https://youtu.be/MouCp0sacFw?si=FstT3LG3KLrrhBDX
+—12:00 Barbara Edelman show - BEE EPISODE - https://podcasts.apple.com/us/podcast/how-you-can-save-the-world-sustainable-living-and/id988420444?i=1000363698718
+—BOOK TALK BEGINS
+15:15 Last week we read all the letters and ended with “poor Peter” which will be where we begin today
+15:30 Reminder From Ch 5: Bonus Bernardus non video omnia* The Blessed Bernard does not see everything —Meaning: Even the wisest man (here, Blessed Bernard) can be wrong sometimes.
+16:44 St James’s Chronicle - Library of Congress: https://www.loc.gov/item/sn88088600/
+20:10 Queen Esther and King Ahasuerus - Only Book in Bible that does not mention God: https://youtu.be/JydNSlufRIs?si=E_LmB-PmPa6-qrqa
+26:00 No overland route for Poor Peter - this clues us in on when Peter went to India. [An overland route via the Red Sea was opened in the late 1830s](https://englishhistoryauthors.blogspot.com/2017/06/full-steam-ahead-overland-route-home.html
+27:30 “Some Great War in India” - probably the First Anglo Burmese War (1824-26): https://en.wikipedia.org/wiki/First_Anglo-Burmese_War
+—Post-chapter Notes
+- 01:02:29 "Jack and Jilling it" is shorthand for when Heather refers to this article: *Journal of Reading*, Volume 24, No. 2, November 1980, p. 101, William H. Smith, "What they didn't tell you about Jack and Jill"—https://www.jstor.org/stable/40009287
+- Don't forget to send us your crafty videos  https://bit.ly/craftlit-be-crafty).   
+   
+
+BOOK/WATCH PARTIES coming up in 2025 https://craftlit.gumroad.com/l/craftlit-party
+- **Last Thursday of every month, 8pm Eastern:**
+    - **May**—_Thin Man_ (movie)
+    - **Jun**—_Princess Bride_ (book—there are many versions - Heather has notes on which Forward to read)
+    - **Jul**—_Princess Bride_ (movie)
+    - **Aug**—_The Last Unicorn_ (book)
+    - **Sep**—_The Last Unicorn_ (movie)
+    - **Oct**—_Random Harvest_ (book)
+    - **Nov**—_Random Harvest_ (movie)
+    - **Dec**—_Lamb: The Gospel According to Biff, Christ's Childhood Pal_ (book)
+
+*CraftLit’s Socials*
+• Find everything here: https://www.linktr.ee/craftlitchannel
+• Join the newsletter: http://eepurl.com/2raf9 
+• Podcast site: http://craftlit.com
+• Facebook: https://www.facebook.com/CraftLit/
+• Facebook group: https://www.facebook.com/groups/craftlit
+• Pinterest: https://www.pinterest.com/craftlit/
+• TikTok podcast: https://www.tiktok.com/@craftlit
+• Email: heather@craftlit.com
+• Previous CraftLit Classics can be found here: https://bit.ly/craftlit-library-2023
+
+*SUPPORT THE SHOW!*
+• CraftLit App Premium feed bit.ly/libsynpremiumcraftlit (only one tier available)
+• PATREON:   https://patreon.com/craftlit (all tiers, below)
+——Walter Harright -  $5/mo for the same audio as on App
+——Jane Eyre - $10/mo for even-month Book Parties
+——Mina Harker - $15/mo for odd-month Watch Parties
+*All tiers and benefits are also available as*
+—*YouTube Channel Memberships* 
+—*Ko-Fi* https://ko-fi.com/craftlit 
+—*NEW* at CraftLit.com — Premium Memberships https://craftlit.com/membership-levels/
+
+• Download the FREE CraftLit App for iOS or Android (you can call or email feedback straight from within the app)
+• Call 1-206-350-1642
+---------------------------------------------------------------
+We use royalty-free music from the YouTube Creator’s Library. Other music heard on CraftLit downloaded from (now defunct) Free Podsafe Music site “Garage Band”:
+• Opening Music: Joshua Christian, “Chasing Hiro: Sailing the Gale”
+• Closing Music: Matthew Shell, “Love Part Two (Original Mis)”

@@ -2,7 +2,7 @@
 - 📄 [[MOBY/🎤001 Moby Full Text+notes]]
 - 📄 [[MOBY/🎤002 Moby Full Text Ch 2+notes]]
 - 📄 [[MOBY/000-MOBY START]]
-- 📄 [[MOBY/003 Moby Full Text Ch3+notes]]
+- 📄 [[🎤003 Moby Full Text Ch3+notes]]
 - 📄 [[MOBY/In a World link]]
 - 📄 [[MOBY/List of funniest chapters]]
 - 📄 [[MOBY/List of most-dramatic-saddest chapters]]
