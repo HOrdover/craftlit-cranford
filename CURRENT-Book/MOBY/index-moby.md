@@ -14,9 +14,9 @@ Below please find links to the full text of each chapter with my annotations for
 ---
 ## 🎧 Chapters & Notes
 
-- [[001 Moby Full Text+notes]]
-- [[002 Moby Full Text Ch 2+notes]]
-- [[003 Moby Full Text Ch3+notes]]
+- [[🎤001 Moby Full Text+notes]]
+- [[🎤002 Moby Full Text Ch 2+notes]]
+- [[🎤003 Moby Full Text Ch3+notes]]
 - [[004 Moby Full Text-chs-4-5-6-7-8+notes]]
 
 ---

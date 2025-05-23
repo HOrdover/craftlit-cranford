@@ -12,7 +12,6 @@
 - 📄 [[CURRENT-Book/README|README]]
 - 📄 [[CURRENT-Book/Thin Man Book Party text|Thin Man Book Party text]]
 - 📄 [[CURRENT-Book/YouTube-Specific Outro Script|YouTube-Specific Outro Script]]
-- 🗂️ [[CURRENT-Book/Incidentals/🧠--Index_of_Incidentals|🧠--Index_of_Incidentals]]
 - 🗂️ [[CURRENT-Book/media/🧠--Index_of_media|🧠--Index_of_media]]
 - 🗂️ [[CURRENT-Book/MOBY/🧠--Index_of_MOBY|🧠--Index_of_MOBY]]
 - 🗂️ [[CURRENT-Book/P&P/🧠--Index_of_P&P|🧠--Index_of_P&P]]
