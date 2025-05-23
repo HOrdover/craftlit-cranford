@@ -28,17 +28,4 @@ Below please find links to the full text of each chapter with my annotations for
 
 ---
 
-## 🎧 Other Resources
-
-- [[Moby Dick—librivox.md]]
-- [[In a World link]]
-
----
-
-## 📁 Media Folder
-
-- 📂 [[Moby-media]]
-
----
-
 > _This index was last updated by Zoottelkeeper or manually curated. Use it to navigate the CraftLit Moby-Dick experience!_
