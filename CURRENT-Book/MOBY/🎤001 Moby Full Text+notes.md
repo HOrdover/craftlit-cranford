@@ -1,12 +1,9 @@
 #full-book #moby-dick #Melville #annotated
 
 
-  Melville’s previous book and sales
-  Anti-racist
-  Anti-Capitalist
-  Anti-colonial
-  Before the Mast
-  Aaron- don’t know why ppl say book is dry—it’s ALL ABOUT WATER! In this chapter
+  Aaron's classic response to the first four chapters, "I don’t know why people say this book is dry—it’s ALL ABOUT WATER!"
+  
+**[The Map of the Pequod's Journey**](http://www.powermobydick.com/images/Path_of_Pequod_full.jpg)
 
 ## CHAPTER 1. Loomings.
 
