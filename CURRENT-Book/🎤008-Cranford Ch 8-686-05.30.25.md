@@ -2,7 +2,7 @@ Heather—[[Pull from YouTube history]]
 
 ---
 tags: [shownotes, Cranford, Gaskell, cranford]
-date: 2025-05-30
+release date: 2025-05-30
 ---
 
 # Podcast Literature Note: Cranford
@@ -10,7 +10,7 @@ date: 2025-05-30
 **Date:** 2025-05-30
 
 ## Book
-Cranford
+Cranford — THE BEES!
 
 ## Chapters
 - **Starting Chapter:** 8—Your Ladyship
@@ -21,74 +21,46 @@ xxx
 
 ## Raffle Item
 Sir W Scott
-EMBED CODE FOR LIBSYN:
+RAFFLE EMBED CODE FOR LIBSYN:
 ```
 <a class="rcptr" href="http://www.rafflecopter.com/rafl/display/4847a56380/" rel="nofollow" data-raflid="4847a56380" data-theme="classic" data-template="5a21441d014882ee0dc5109e" id="rcwidget_fxqfhkvm">a Rafflecopter giveaway</a>
 <script src="https://widget-prime.rafflecopter.com/launch.js"></script>
 ```
 
-Link for everyone else:
+RAFFLE Link for everyone else:
 https://bit.ly/may-raffle
 
 ## Crafty Chat Notes
 - ==please put these links on screen when appropriate **and** in shownotes: Plum Deluxe Tea-CraftLit's Discount Code! [https://bit.ly/craftlit-pdtea](https://bit.ly/craftlit-pdtea) 
   Send your crafty videos: https://bit.ly/craftlit-be-crafty ==
-- CARD LINK out to Struthless’ channel, “Doom and Bloom” GET BOOKSHOP.ORG link from Farley’s
-- CARD LINK out to ELSIE PATTERN
-- <[wearinghistory@gmail.com](mailto:wearinghistory@gmail.com)> wrote:  
-> > Hi there!
-> > Thanks again for the kind words! It really means a lot! I do really geek out over old patterns and old construction :)
-> > For the waist stay, it’s similar to any other kind of “stay” used in vintage sewing- it’s a piece of cloth, or very often a woven tape, used to hold a garment in place. This could be to stabilize gathers so they won’t stretch, to keep a bias neckline from stretching out, etc.  a modern equivalent would be that sheer elastic that you can sometimes see in necklines to stabilize knits.
-> > For the stay in this period it was very likely a twill tape or flat woven braid that wouldn’t stretch (similar to tailors tape),  but I have seen it made of a narrow rectangle of self fabric with the edges turned under also.
-> > If you can access Google Books, there’s details about some waist stays in this book on page 116, and again on 122-123. > 
+- ***CARD LINK*** out to Struthless’ channel, 
+	- “Doom and Bloom” GET BOOKSHOP.ORG link from Farley’s
+- ***CARD LINK*** out to ELSIE PATTERN  
+> > ELSIE BLOUSE on WEARING HISTORY wearinghistory.com
 > > [https://books.google.com/books?id=ULJCAQAAIAAJ&pg=PA116&dq=waist+stay&hl=en&newbks=1&newbks_redir=0&source=gb_mobile_search&sa=X&ved=2ahUKEwjnqI6grKSNAxVCQzABHd2yHf84ChDoAXoECAUQAw](https://books.google.com/books?id=ULJCAQAAIAAJ&pg=PA116&dq=waist+stay&hl=en&newbks=1&newbks_redir=0&source=gb_mobile_search&sa=X&ved=2ahUKEwjnqI6grKSNAxVCQzABHd2yHf84ChDoAXoECAUQAw)
 > > Hope that helps!
+
+[cool pollinator info to be found on sites like this](https://loudounwildlife.org/habitat-conservation/protecting-pollinators/native-bees/)
+![Two-spotted Bumblebee on Coreopsis](https://loudounwildlife.org/wp-content/uploads/2020/08/Two-spotted-Bumblebee-on-Coreopsis_300px.jpg)
+Donna Schmidt
+
 
 ## BOOK TALK—Re-hash Notes
 Last week Visiting - RE-LISTEN
 
 - KALL8 calls:
-- Xx
-- Xx
+	- Anya VOICEMAIL
+
 
 ## Pre-hash Notes
 Your Ladyship
 - Ended with Cherry Brandy (ha!) And Mrs Jamieson blurting out to everyone she would be hosting her SIL Lady Glenmire soon. 
+
 SOME REALLY CLEVER Austen-like wordplay in today’s chapter. A lot of fun!
 
 # Characters in *Cranford* (Updated for Chs. 6–8)
 
-## Table of Contents
-- [Lady Glenmire](#lady-glenmire)
-- [Mrs. Jamieson](#mrs-jamieson)
-- [Mr. Mulliner](#mr-mulliner)
-
----
-## Lady Glenmire
-- **First Mentioned**: Chapter 7 ("Visiting")
-- **Relation**: Sister-in-law of [[Mrs. Jamieson]]
-- **Title**: A Lady by marriage; Scottish; possibly Catholic (Scottish + numerous siblings mentioned)
-- **Traits**:
-  - Excellent card-player
-  - Surprisingly sociable and unpretentious despite her title
-  - Becomes a point of fascination among the Cranford ladies due to her noble status
-- **Plot Note**: Later marries Mr. Hoggins, creating a small social scandal
-
----
-## Mrs. Jamieson
-- **First Mentioned**: Chapter 3+
-- **Role**: Socially elevated widow; proud and somewhat aloof
-- **Former Name**: Miss Walker, daughter of Governor Walker
-- **Married To**: the late Mr. Jamieson (held a post in India)
-- **Traits**:  Often transported in a **sedan chair** or carriage, underscoring her distance from village life
-
----
-## Mr. Mulliner
-- **First Mentioned**: Chapter 6 ("Poor Peter")
-- **Role**: Personal servant to [[Mrs. Jamieson]]
-- **Traits**:
-  - Fussy, self-important, and a bit of a figure of fun, but also annoyance because…
-  - Hoards the **St. James's Chronicle**, which is shared among four Cranford women
+![[Cranford Character Sheet chs 1-8.png]]
    
 - County families—the landed gentry in the county - you know…the only important people in the area :( 
 - Miss Pole “I’ll think of something to say back to her… tonight…”—nothing changes HA!
@@ -112,7 +84,7 @@ SOME REALLY CLEVER Austen-like wordplay in today’s chapter. A lot of fun!
 	- Stiff muslin - like brooch mounted on florettes
 	- We’re brooches out of fashion??!? - 
 - LISTEN to description of Miss Pole! HA!
-	- Scotch pebbles - not really timely. Victoria bought Balmoral in 1848 and suddenly Scottish agates (found in stream beds with other semi-precious stones) were VERY popular 
+	- Scotch pebbles - not really timely. Victoria bought Balmoral in 1848 and suddenly Scottish agates (found in stream beds with other semi-precious stones) were VERY popular HEATHERGEMS LINK
 - Hair powder Over his coat collar - started in 1715 and was WAY out of date by now 
 - *St James’ Chronicle* is a 4-way shared subscription with Cranford ladies - Quarter share - 
 - Mr Mulliner —ADD to cheat sheet - 
@@ -142,7 +114,15 @@ SOME REALLY CLEVER Austen-like wordplay in today’s chapter. A lot of fun!
 - miss Pole’s triumphant first comment - 
 - The DOG gets the cream!!?!? We were as intelligent and sensible as the dog - HA!!!
 - Mrs Forrester is wearing VOMIT LACE! HA!
+- LACE EPISODE PUT "PLAUSIBLE" on screen like mythbusters
 ## Miscellaneous
+
+#### Clothing costs research (some)
+- [MeasuringWorth.com](https://www.measuringworth.com/)
+- Cunnington, C. Willett. *English Women's Clothing in the Nineteenth Century* (1937)
+- Ribeiro, Aileen. *Dress and Morality* (1986)
+- [Recollections: Victorian Clothing Costs](https://recollections.biz/blog/dressing-victorian-era/)
+
 Don't forget to send us your crafty videos  [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty) 
 
 
@@ -160,62 +140,4 @@ BOOK/WATCH PARTIES coming up in 2025:
     - **Oct**—_Random Harvest_ (book)
     - **Nov**—_Random Harvest_ (movie)
     - **Dec**—_Lamb: The Gospel According to Biff, Christ's Childhood Pal_ (book)
-
-
-# Clothing Costs in *Cranford* (1840s–1850s)
-
-## Context: £10 in Mid-19th-Century England
-
-- £10 in 1850 is equivalent to approximately **£1,300–£1,500 today** (~$1,600–$1,900 USD) when adjusted for **average earnings or purchasing power**.
-- It was **not a trivial amount**, especially in small, frugal towns like [[Cranford]].
-- Spending £10 on clothing would indicate **solid middle-class means**, or **a special occasion**.
-- 
-
----
-
-## Could £10 Buy a Woman's Whole Ensemble?
-
-Yes — depending on materials, method of construction, and class expectations.
-
-| Item                         | Lower-End (Homemade/Plain) | Middle-Class Dressmaker | High-End (Silk, Trimmed) |
-|------------------------------|----------------------------|--------------------------|---------------------------|
-| Day dress (cotton/wool)      | £1–£2                      | £3–£5                    | £8+                        |
-| Petticoats (multiple layers) | £0.5–£1.5 total            |                          |                           |
-| Stays (corset)               | £1–£2                      |                          |                           |
-| Chemise + drawers            | £0.5                       |                          |                           |
-| Shoes                        | £0.5–£1.5                  |                          |                           |
-| Bonnet or hat                | £1–£2                      |                          | £3–£4+                     |
-| Gloves, shawl, bag, etc.     | £1–£2 (combined)           |                          | £5+ total                 |
-
-**TOTAL**:
-- **Working/Middle-class outfit**: ~£5–£8
-- **Comfortable middle-class ensemble**: ~£10
-- **Fashionable/luxury outfit**: £20–£50+
-
----
-
-## Social Significance in *Cranford*
-
-- Most women in Cranford **remake old clothing**, **inherit relatives’ dresses**, or **wear second-hand garments**.
-- A £10 new ensemble would signal:
-  - **Affluence or financial comfort**
-  - A **special occasion** (e.g., receiving a titled guest)
-  - Possibly **social ambition**
-- A new bonnet or dress is treated as a **major event** among the ladies.
-
----
-
-## In the Text
-
-- [[Miss Matty]] agonizes over expenditures at the tea shop.
-- [[Miss Pole]] and others are sensitive to **appearances and thrift**.
-- Sir Charles Glenmire’s arrival triggers worry about **looking properly dressed** — even if it means **borrowing or embellishing** what one already owns.
-
----
-
-## Sources
-- [MeasuringWorth.com](https://www.measuringworth.com/)
-- Cunnington, C. Willett. *English Women's Clothing in the Nineteenth Century* (1937)
-- Ribeiro, Aileen. *Dress and Morality* (1986)
-- [Recollections: Victorian Clothing Costs](https://recollections.biz/blog/dressing-victorian-era/)
 
