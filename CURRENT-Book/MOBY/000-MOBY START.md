@@ -30,7 +30,14 @@ If you have notes to add, please email me heather@craftlit.com or call 206-350-1
 ---
 Some videos on Melville, Whaling, any/all things that this book touches on:
 - [# Nostalgia for the Wooden World:  Rockwell Kent's Moby-Dick with Dr. Jamie Jones](https://youtu.be/oHb7SwZIX8g?si=vfS-zb0DaxMeSnxs) (he's an illustrator of the text)
-- more to come as we go along
+- [# Herman Melville: Sailor, Writer, Metaphysician with Dr. Mary K. Bercaw Edwards](https://youtu.be/xtW4lPAEV6w?si=Pm7mzUuI7dIzOU8c)
+- [The Chris Hedges Report: Moby Dick and the soul of American](https://youtu.be/HEP86KPd0Cs?si=po8-w8pnoRaCN4CY)
+- [The Enduring Power of Moby-Dick with Nathaniel Philbrick](https://www.youtube.com/watch?v=J7cPtUBo30E)
+- [Amusing Moby Dick rejection letter asks "does it have to be a whale?"](https://www.youtube.com/watch?v=h3jxuurawzc)
+- [Ed Sullivan Interviews John Huston & Gregory Peck On The Set Of  Moby Dick (1956)](https://www.youtube.com/watch?v=9yML9fNLWXM")
+- [The Life and Legacy of Herman Melville: Beyond Moby-Dick |](https://www.youtube.com/watch?v=iZHqEjY9NeE)
+- [Herman Melville documentary](https://www.youtube.com/watch?v=ywaRz68-owQ)
+- The ridiculous YouTuber adventure (courtesy of Aaron): [We Tried 17th Century Sailing](https://www.youtube.com/watch?v=_IrJ8YHpSQ0&t=1s&pp=ygUWZm91ciB5b3V0dWJlcnMgc2FpbGluZw%3D%3D)
 
 --- 
 
