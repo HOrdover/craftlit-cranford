@@ -1,10 +1,19 @@
 {
   "name": "craftlit-moby",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "build": "tsx scripts/build.ts"
   },
+  "dependencies": {
+    "@types/node": "^20.0.0",
+    "esbuild": "^0.19.0",
+    "fast-glob": "^3.2.12",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^13.0.1",
+    "open": "^8.4.2"
+  },
   "devDependencies": {
-    "tsx": "^4.6.2"
+    "tsx": "^4.19.4"
   }
 }
