@@ -29,7 +29,7 @@ Maybe use...
 
 - **February 7**: Plum Deluxe Tea collaboration idea for CraftLit podcast
 
-- **February 14**: [[000-MOBY START]] Launching *Moby-Dick* as a premium text, *Cranford* on CraftLit, and redoing *Pride and Prejudice*
+- **February 14**: [[🎤000-MOBY START]] Launching *Moby-Dick* as a premium text, *Cranford* on CraftLit, and redoing *Pride and Prejudice*
 
 - **February 16**: CraftLit Book Club discussion plans for *Rebecca* by Daphne du Maurier
 

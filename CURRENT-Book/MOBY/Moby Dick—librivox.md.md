@@ -15,4 +15,4 @@ tags:
 
 - [ ] [Herman Melville: Moby Dick, or the Whale](https://librivox.app/book/753) <!-- {"uuid":"1316ba23-1a39-45c4-bcc9-4f2417fc87a2"} -->
 
-[[000-MOBY START]]
+[[🎤000-MOBY START]]
