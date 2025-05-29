@@ -1,7 +1,7 @@
 import sourceMapSupport from "source-map-support"
 sourceMapSupport.install(options)
 import path from "path"
-import { PerfTimer } from "./util/perf"
+import { PerfTimer } from "../quartz/util/perf"
 import { rimraf } from "rimraf"
 import { GlobbyFilterFunction, isGitIgnored } from "globby"
 import chalk from "chalk"
