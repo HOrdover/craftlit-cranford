@@ -1,5 +1,5 @@
 [build]
-command = "npx quartz build"
+command = "npx tsx quartz/build.ts"
 publish = "public"
 
 [build.environment]
