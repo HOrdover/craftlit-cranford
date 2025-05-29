@@ -8,7 +8,6 @@ These are my annotated notes for Elizabeth Gaskell's *Cranford*.
 
 ## 📘 Cranford Shownotes by Chapter/episode 
 
-- [Librivox Links and Chapter summaries](./000-Cranford-Librivox-+-ch-summaries)
 - [Chapter 1: Our Society](./🎤001-CRANFORD-ch-1-679-04.11.25)
 - [Chapter 2: The Captain](./🎤002-cranford-ch-2-680-04.18.25)
 - [Chapter 3: A Love Affair of Long Ago](./🎤003-CRANFORD-Ch-3-681-ANNIVERSARY-04.25.25)
@@ -37,7 +36,7 @@ These are my annotated notes for Elizabeth Gaskell's *Cranford*.
 ## 🧶 Extras
 
 - ==**[[Notes for Erik]]**==
-- [Text for YouTube Copyright Dispute](./2025-Matthew-Shell-Copyright-Dispute)
+- [Text for YouTube Copyright Dispute](Vault/Clippings/Incidentals/2025-Matthew-Shell-Copyright-Dispute)
 - [_Index of This Site](_Index_of_Cranford.md)
 - [Future Reference: Structured Outline of Classic Lit Conversations](./cranford-media/999-Maybe-use-Structured-Outline-of-Classic-Literature-Conversations)
 
