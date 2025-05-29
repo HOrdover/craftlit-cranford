@@ -1,5 +1,5 @@
 ---
-title: Cranford Ch 9 – Deploy Test
+title: 009-Cranford Ch 9-687-06.06.25-deploy test 2.md
 tags: [cranford, shownotes]
 description: Show notes for episode 687 – Cranford Chapter 9
 created: 2025-01-26T16:00:21-05:00
