@@ -1,12 +1,9 @@
 ---
-title: "Template: Show Notes"
-uuid: 8f852070-dc28-11ef-baa7-65e9cc494757
-version: 36
+title: Cranford Ch 9 – Deploy Test
+tags: [cranford, shownotes]
+description: Show notes for episode 687 – Cranford Chapter 9
 created: 2025-01-26T16:00:21-05:00
-tags:
-  - templates
-  - cranford
-  - shownotes
+uuid: 8f852070-dc28-11ef-baa7-65e9cc494757
 ---
 ## Book Series: Cranford ch 9
 
@@ -17,12 +14,53 @@ Episode Number: 687
 
 \
 
-Title
+Title - old alfred
+
+
+
+cd /Users/heatherordover/quartz
+
+echo "🐳 Deep cleaning CURRENT-Book folder for Moby-Dick..."
+rm -rf CURRENT-Book
+cp -R ~/vaults/MOBY ./CURRENT-Book
+
+echo "🔍 Checking for contentDir in config..."
+grep contentDir quartz.config.ts
+
+echo "🧼 Removing old public folder..."
+rm -rf public
+
+echo "⚙️ Running Quartz build..."
+/usr/local/opt/node@20/bin/npx quartz build
+
+git add .
+git commit -m "Clean sync and deploy from MOBY"
+git push
+
+osascript -e 'display notification "Deployed to GitHub + Netlify!" with title "CraftLit Moby-Dick Site"'
+
+# 🪄 Replace the webhook URL below with your actual Netlify Moby build hook
+curl -X POST -d '{}' https://api.netlify.com/build_hooks/PASTE-YOUR-MOBY-HOOK-HERE
+
+
+
+
+
+
+
+
+curl -X POST -d '{}' https://api.netlify.com/build_hooks/67fd75bc013093007bf7cf3c
+
+
+
+
+
+
 
 \
 
 Raffle
-
+NO LONGER THE x-stitch
 \
 
 ## A-Block - Crafty Chat
