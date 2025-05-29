@@ -39,4 +39,6 @@ function setupCallout() {
   }
 }
 
-document.addEventListener("nav", setupCallout)
+if (typeof document !== "undefined") {
+  document.addEventListener("nav", setupCallout)
+}

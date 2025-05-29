@@ -1,5 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
-import style from "../styles/listPage.scss"
+// import style from "../styles/listPage.scss"
 import { PageList, SortFn } from "../PageList"
 import { FullSlug, getAllSegmentPrefixes, resolveRelative, simplifySlug } from "../../util/path"
 import { QuartzPluginData } from "../../plugins/vfile"
@@ -128,6 +128,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
     }
   }
 
-  TagContent.css = concatenateResources(style, PageList.css)
+// TagContent.css = concatenateResources(style, PageList.css)
+TagContent.css = PageList.css
   return TagContent
 }) satisfies QuartzComponentConstructor

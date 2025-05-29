@@ -10,7 +10,7 @@ tags:
 ---
 ## Book Series: Cranford ch 9
 
-
+Wasn’t planning for money
 ---
 
 Episode Number: 687
