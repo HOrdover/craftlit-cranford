@@ -5,7 +5,7 @@
     "build": "tsx scripts/build.ts"
   },
   "devDependencies": {
-    "tsx": "^4.6.2"
+    "tsx": "^4.19.4"
   },
   "dependencies": {
     "@floating-ui/core": "^1.7.0",
@@ -20,7 +20,7 @@
     "esbuild": "^0.25.5",
     "flexsearch": "^0.8.204",
     "github-slugger": "^2.0.0",
-    "globby": "^13.2.2",
+    "globby": "^14.1.0",
     "gray-matter": "^4.0.3",
     "hast": "^1.0.0",
     "hast-util-to-html": "^9.0.5",
@@ -30,14 +30,14 @@
     "js-yaml": "^4.1.0",
     "katex": "^0.16.22",
     "lightningcss": "^1.30.1",
-    "mdast": "^0.26.2",
+    "mdast": "^2.3.2",
     "mdast-util-find-and-replace": "^3.0.2",
     "mdast-util-to-hast": "^13.2.0",
     "mdast-util-to-string": "^4.0.0",
     "micromorph": "^0.4.5",
     "minimatch": "^10.0.1",
     "pixi.js": "^8.9.2",
-    "preact": "^10.26.7",
+    "preact": "^10.26.8",
     "preact-render-to-string": "^6.5.13",
     "pretty-time": "^1.1.0",
     "reading-time": "^1.5.0",
@@ -65,6 +65,6 @@
     "unified": "^11.0.5",
     "unist-util-visit": "^5.0.0",
     "vfile": "^6.0.3",
-    "workerpool": "^9.3.0"
+    "workerpool": "^9.3.2"
   }
 }
