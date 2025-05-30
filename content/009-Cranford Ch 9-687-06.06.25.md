@@ -9,51 +9,11 @@ uuid: 8f852070-dc28-11ef-baa7-65e9cc494757
 ---
 ## Book Series: Cranford ch 9
 
-Wasn’t planning for money
+Wasn’t panning for money
 ---
 
 Episode Number: 687
-
-\
-
-Title - old alfred
-
-
-
-cd /Users/heatherordover/quartz
-
-echo "🐳 Deep cleaning CURRENT-Book folder for Moby-Dick..."
-rm -rf CURRENT-Book
-cp -R ~/vaults/MOBY ./CURRENT-Book
-
-echo "🔍 Checking for contentDir in config..."
-grep contentDir quartz.config.ts
-
-echo "🧼 Removing old public folder..."
-rm -rf public
-
-echo "⚙️ Running Quartz build..."
-/usr/local/opt/node@20/bin/npx quartz build
-
-git add .
-git commit -m "Clean sync and deploy from MOBY"
-git push
-
-osascript -e 'display notification "Deployed to GitHub + Netlify!" with title "CraftLit Moby-Dick Site"'
-
-# 🪄 Replace the webhook URL below with your actual Netlify Moby build hook
-curl -X POST -d '{}' https://api.netlify.com/build_hooks/PASTE-YOUR-MOBY-HOOK-HERE
-
-
-
-
-
-
-
-
-curl -X POST -d '{}' https://api.netlify.com/build_hooks/67fd75bc013093007bf7cf3c
-
-
+TITLE: Hard Cider and Elderberry Wine
 
 
 
@@ -63,7 +23,22 @@ curl -X POST -d '{}' https://api.netlify.com/build_hooks/67fd75bc013093007bf7cf3
 
 Raffle
 NO LONGER THE x-stitch
-\
+\Here are the patterns for the raffle/give away. I also have a free Book Tracker quilt pattern that people might be interested in. It's also an FPP pattern and can be found here: [https://www.snugglepuzzle.com/book-tracker-quilt/](https://www.snugglepuzzle.com/book-tracker-quilt/) It would be a great first pattern for people who haven't tried FPP before.
+Thanks again for all you do!
+
+Erin
+![[Pasted image 20250530191817.png]]
+![[Pasted image 20250530191916.png]]
+![[Pasted image 20250530191926.png]]
+![[Pasted image 20250530191937.png]]
+Links to patterns on Heather's Mini
+@snugglepuzzle #janeaustenfpp #sherlockfpp #firesidereadingfpp
+
+
+JULY RAFFLE
+from Susan Smith
+ The Knowledgeable Knitter by Margaret Radcliffe and Botanical Knits by Alan Dako.
+
 
 ## A-Block - Crafty Chat
 YouTube Cards?
@@ -76,9 +51,15 @@ Elderberry https://hildaskitchenblog.com/recipe/easy-elderberry-wine-recipe/
 YouTube Cards?
 - Michaelmas to  ladies day Sept 29–Mar25
 - Wombwell’s Lions: https://wdc.contentdm.oclc.org/digital/collection/warwephem/id/1376/
-- Saracen’s Head Turban: [the Inn](https://en.wikipedia.org/wiki/Saracen%27s_Head,_London), 
+- Saracen’s Head Turban (OG demolished 1868): [the Inn](https://en.wikipedia.org/wiki/Saracen%27s_Head,_London), 
 - https://i.ebayimg.com/images/g/oU8AAOSw5B9iBiju/s-l400.jpg
-- 
+- ![](https://i.ebayimg.com/images/g/oU8AAOSw5B9iBiju/s-l400.jpg)
+- PORTER SISTER'S BOOKS: Thaddeus of Warsaw (1803) / The Hungarian Brothers (1807) & Don Sebastian (1809), Young Protector of Santo Sebastiani (1814)
+- If she was not the rose
+- Witch of Endor
+- Death Watches (Beetles) and Rolly-polly's (rolls of wax) Omens of death
+- Queren Sharlottte 
+- The Gunning Sisters
 
 ## C-Block - Book Audio / crafty video
 YouTube Cards?

@@ -12,7 +12,7 @@ tags:
 These are my annotated notes for Elizabeth Gaskell's *Cranford*.
 
 ---
-
+![[IMG_5315.jpeg]]
 ## 📘 Cranford Shownotes by Chapter/Episode
 
 - [Chapter 1: Our Society](./🎤001-CRANFORD-ch-1-679-04.11.25)
