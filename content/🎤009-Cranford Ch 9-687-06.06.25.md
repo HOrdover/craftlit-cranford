@@ -46,7 +46,9 @@ CIDER in Jim Thorpe - Cidery
 https://wildelder.com/
 and
 Elderberry - WHAT IS? https://hildaskitchenblog.com/recipe/easy-elderberry-wine-recipe/
-PLUM DELUXE TEA QUIZ LINK
+
+PLUM DELUXE TEA QUIZ NEEDS A LINK
+
 ![[IMG_5387.jpg]]
 ##### BJ Harrison!!! NEEDS A LINK
 ![[Pasted image 20250528153841.jpg]]
