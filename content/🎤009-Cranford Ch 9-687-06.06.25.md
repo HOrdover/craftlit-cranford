@@ -1,5 +1,5 @@
 ---
-title: 🎤009-Cranford Ch 9-687-06.06.25-test
+title: 🎤009-Cranford Ch 9-687-06.06.25
 tags:
   - cranford
   - shownotes
