@@ -18,7 +18,24 @@ TIME CODE________ to Book Talk
 ### TITLE: Hard Cider and Elderberry Wine
 
 ### PATRON NAMES:
+- Book talk begins at 20:20
+- Fast wind to 56:52
 
+  Patreons list  
+
+-  Lynn Spann Bowditch
+-  Julie Kipp
+-  Larie Hinshaw
+-  Erin Gilmore
+-  Melanie
+
+Thank you.
+
+[2:50](https://teamcraftlit.slack.com/archives/C08R9317ZF0/p1748890251670659)
+
+Aldrin Adolfo
+
+This is for Cranford EP 687
 
 
 ### Raffle
