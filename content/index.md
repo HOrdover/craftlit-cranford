@@ -12,7 +12,6 @@ tags:
 These are my annotated notes for Elizabeth Gaskell's *Cranford*.
 
 ---
-![[IMG_5315.jpeg]]
 ## 📘 Cranford Shownotes by Chapter/Episode
 
 - [Chapter 1: Our Society](./🎤001-CRANFORD-ch-1-679-04.11.25)
@@ -23,7 +22,8 @@ These are my annotated notes for Elizabeth Gaskell's *Cranford*.
 - [Chapter 6: Poor Peter](./🎤006-Cranford-Ch-6-684-05.16.25)
 - [Chapter 7: Visiting](./🎤007-Cranford-Ch-7-685-05.23.25)
 - [Chapter 8: Your Ladyship](./🎤008-Cranford-Ch-8-686-05.30.25)
-- [Chapter 9: Signor Brunoni](./009-Cranford-Ch-9-687-06.06.25)
+- [Chapter 9: Signor Brunoni](./🎤009-Cranford-Ch-9-687-06.06.25)
+- [Chapter 10: The Panic](./🎤010-Cranford-Ch10-688-06.13.25)
 
 ---
 
