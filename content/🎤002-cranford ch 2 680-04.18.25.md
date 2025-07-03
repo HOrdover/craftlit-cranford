@@ -5,7 +5,7 @@
 
 -----
 # Podcast Literature Note: Cranford
-
+**Linking Index:** [[CraftLit_Shownotes_Dashboard]]
 **Date:** 2025-04-15
 
 ## Book

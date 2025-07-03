@@ -1,5 +1,5 @@
  ==Erik—I'm using these for my recording notes (so I don't have to keep looking down at my papers). How do you want me to flag the items to put into the shownotes or do you think you can tell?==
-
+**Linking Index:** [[CraftLit_Shownotes_Dashboard]]
 
 # Podcast Literature Note: Cranford
 #todo #craftlit #episode #book #notes 

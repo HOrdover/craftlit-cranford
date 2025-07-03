@@ -1,4 +1,5 @@
 #cranford #episode-notes #craftlit #shownotes 
+**Linking Index:** [[CraftLit_Shownotes_Dashboard]]
 # Podcast Literature Note: CRANFORD chapter 4
 
 **Recording Date:** 2025-04-07

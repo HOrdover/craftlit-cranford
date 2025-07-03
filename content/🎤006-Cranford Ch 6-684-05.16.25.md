@@ -1,5 +1,5 @@
 #cranford #shownotes 
-
+**Linking Index:** [[CraftLit_Shownotes_Dashboard]]
 # Podcast Literature Note: Cranford
 
 **Date:** 2025-05-01

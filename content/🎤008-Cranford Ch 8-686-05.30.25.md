@@ -12,7 +12,7 @@ Tania
 
 
 Heather—[[Pull from YouTube history]]
-
+**Linking Index:** [[CraftLit_Shownotes_Dashboard]]
 ---
 tags: [shownotes, Cranford, Gaskell, cranford]
 release date: 2025-05-30

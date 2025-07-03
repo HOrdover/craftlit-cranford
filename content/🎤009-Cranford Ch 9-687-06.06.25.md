@@ -7,6 +7,7 @@ description: Show notes for episode 687 – Cranford Chapter 9
 created: 2025-01-26T16:00:21-05:00
 uuid: 8f852070-dc28-11ef-baa7-65e9cc494757
 ---
+**Linking Index:** [[CraftLit_Shownotes_Dashboard]]
 ## Book Series: Cranford ch 9
 
 Wasn’t panning for money

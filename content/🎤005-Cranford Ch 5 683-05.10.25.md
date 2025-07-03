@@ -1,4 +1,4 @@
-
+**Linking Index:** [[CraftLit_Shownotes_Dashboard]]
 # Podcast Literature Note: Cranford
 ### 683—PANGO!
 
