@@ -12,7 +12,7 @@
  [[CURRENT-Book/🎤011-Cranford-689-06.20.2025|🎤011-Cranford-689-06.20.2025]]
  [[CURRENT-Book/🎤012-Cranford-690-06.27.2025|🎤012-Cranford-690-06.27.2025]]
  [[CURRENT-Book/🎤013-Cranford-691-07.04.2025|🎤013-Cranford-691-07.04.2025]]
- [[CURRENT-Book/014-Cranford-692-07.11.2025|014-Cranford-692-07.11.2025]]
+ [[🎤014-Cranford-692-07.11.2025|🎤014-Cranford-692-07.11.2025]]
  [[CURRENT-Book/2026-Book Nights-Watch Parties|2026-Book Nights-Watch Parties]]
  [[CURRENT-Book/Cranford Notes for Future Reference|Cranford Notes for Future Reference]]
  [[CURRENT-Book/media/_Index_of_media|_Index_of_media]]
