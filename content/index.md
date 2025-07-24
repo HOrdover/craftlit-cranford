@@ -39,4 +39,4 @@ These are my annotated notes for Elizabeth Gaskell's *Cranford*.
 
 ---
 
-_Last updated on <% tp.date.now("YYYY-MM-DD") %>_
+_Last updated on 2025-07-21_
