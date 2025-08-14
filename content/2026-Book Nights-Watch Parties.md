@@ -1,13 +1,197 @@
 
 ## Possibly:
 - Being There
+- Brideshead Revisited and/or Decline and Fall
 - Scaramouche
 - Breakfast at Tiffany's
 - Tuck Everlasting
 - All the President's Men
-- Chocolate War
-- Never ending Story
+- The Chocolate War
+- Neverending Story
 - The Time Machine (or other Wells)
 - POSSIBLY
 	- Verne
 	- ???
+---
+#### POSTCARD TEXT
+CraftLit
+The podcast for crafters who love books.
+
+Bring your knitting, quilting, gardening—whatever you love to do—and let CraftLit keep your brain happy while you
+***work with your hands, read with your ears***
+
+Every week, host Heather Ordover brings you a chapter of a classic novel with fun, fascinating background that makes the story come alive. It’s like a book club where you never have to leave your cozy chair.
+
+ Hundreds of free episodes of Austen, Dickens, Gaskell, Melville & more.
+✨ Premium feed for extra titles & deep dives.
+Listen free: craftlit.com
+Search “CraftLit” in your podcast app.
+Or scan this QR code to start listening today!
+
+  
+
+I can also give you three alternate taglines so you can swap depending on tone:
+
+- Craft your hands, feed your head.
+- Where crafting time becomes story time.
+- Your portable, perpetual, perfectly nerdy book club.
+
+  
+
+  
+
+If you like, I can also do a 2-sided visual layout suggestion showing how to make this text pop with images and space. That way it reads in under 10 seconds but still hooks people.
+
+  
+
+Do you want me to make that layout mockup next?
+
+---
+# Scripts for Valkyrie:
+
+###### SEVEN GREAT CRAFTLIT BOOKS      
+- 1. ***North & South*** Ep 331 (Bonus - ***CRANFORD!*** Ep 649) | author Elizabeth Gaskell
+- 2. ***Dracula*** | author Bram Stoker (Ep 223)
+	- First all-CraftLit cast - matters b/c it’s an epistolary novel - including Ariel Lipshaw of Adapt or Perish podcast!
+	- Many fin de sieclé issues dealt with in Dracula which interestingly parallel our modern times.
+	- Stoker, outsider (Like Wilde of *Dorian Gray* - premium - and the heartbreaking *The Canterville Ghost* novella) Stoker was originally from Ireland. That outsider POV allows authors much greater insight. It’s the same reason we need to listen to voices who aren’t in the majority - they understand the powerful’s motivations and blindspots better than the powerful understand those withou power. Stoker understood this.  
+- 3. ***The Woman in White*** (Ep 193)| author Wilkie Collins
+	- Epistolary novel including Ehren Ziegler of the genius *Chop Bard* podcast reading Dr. Seward’s diary’s onto wax cylindar recordings (seriously, it sounds like wax cylindar audio!)
+	- ***Best Villian award***. The main guy, Percival is fine as a baddy, but the one that counts, the one that will utterly chill you: Count freaking Fosco. Gives me shivvers just thinking about it.
+	- ***Best Ninja Warrior Princess award*** - the BBC mini-series had to cut the story WAY down so Fosco’s evil has been muted, but Jessie Buckley perfectly embodies Marian (though there’s no way to make her face look the way Marian’s is described in the book). But the important ninja-moment on the rooftop, in a thunderstorm, in her petticoats and a cap—THAT made it onto the screen.
+	- It’s completed so you can experience it the way my husband did—all at once. I swear, he started reading at 9am and didn’t get to bed until he finished it. Happily he’s a fast reader. ;)
+- 4. ***Pride & Prejudice*** (Ep1), ***Sense & Sensibility*** (Ep378), ***Persuasion*** (Ep160), ***Northanger Abbey*** (Ep546), ***Emma*** (Ep649) | author Jane Austen - 250th anniversary of her birth! WHOOT
+	- ***P&P*** started it all in 2006. As a consequence, we’re re-recording that one right now—new book talk, new CraftLit-exclusive reader! Those original episodes will be replaced by the end of 2025, though the original episodes are being kept on the CraftLit website since some people have used CraftLit in scholarly writing they’ve done.
+	- If you need an obviously silly story—and who doesn’t these days—***Northanger Abbey*** will fill the bill. 
+	- ***Emma***, the first CraftLit book to feature video versions of the regular podcast audio, also includes me sharing some scholarship that simply wasn’t available back in 2006. Austen was far more anti-imperialist and anti-slavery than casual readers give her credit for.
+- 5. ***Treasure Island*** (Ep501) | author Robert Louis Stevenson
+	- When I first started CraftLit I thought I’d try to focus on books that people THINK they know (b/c movie) But don’t really. This is one of those books. 
+		- When you recall that Stevenson is also the author of ***Jekyll and Hyde*** (also a CraftLit book Ep118) it won’t be a surprise that Long John Silver is a far more complex villain-but-is-he-really?? Character.  
+		- My FIL spent my husband’s childhood reading him the first ___ chapters—up until you meet ___ Dog and then life would get in the way and by the time he got back to reading it, couldn’t recall where he left off, so he’d start again. My husband practically had those opening chapters memorized—but didn’t know how fraught the moral conundrums are that Young Jim Hawkins has to navigate.
+- 6. ***Frankenstein*** (Ep75) | author Mary Shelley
+	- Another in the list of “Books You Think You Know, but…”—and yet, the Creature in Young Frankenstein is far closer to the Creature in the original text—I use Creature, because as CL listners learned in 2007, VICTOR is the monster.
+	- Timely to listen to since Benicio del Toro  is releasing his new Frankenstein with O ___ Dune Dad ___ as Victor. It might be good to know the original text before going.
+	- ***Is it poetic?*** In places, oh my Yes. ***Is it long winded?*** Well, we already said it was poetic, right? ***Is it a glorious examination of “just because you CAN do something, perhaps think a bit about whether you SHOULD”?*** Oh HELLZ yes!
+- 7. ***Herland*** (Ep 366) - or ***The Leavenworth Case***? (Ep562)       | authors, respectively, Charlotte Perkins Gilman / Katherine Green(e)?? - if Herland, also link out to my reading of Yellow Wallpaper on CTFDN.
+	- There are two Women Authors you may not have encountered yet: Gilman and Greene.
+	- Greene wrote mysteries and __ and did very well for herself. I routinely get messages letting me know how wonderful The Leavenworth Case was and how happy they are to have another classic writer to read.
+	- Gilman of the Yellow Wallpaper—which I recorded for Chilling Tales for Dark Nights in 200_ and of which I’m really quite proud—wrote Herland as a direct rebuttal to a sexist tract ”The Unexprgated Case Against Women” (1912) by Sir Almroth Edward Wright. (could there BE a more perfect name for this skunk?) Sadly, I didn’t learn that until the last episode. So, if you listen, please know that every chapter is a response to another part of Wright‘s original screed, and yes, I’m considering adding to that audio, but I’d be happy to include YOUR audio if you’d like to share your thoughts at 1-206-350-1642 or speakpipe.com/craftlit.
+
+SCRIPT FOR JASPER FFORDE’S *SOMETHING ROTTEN* AND *FIRST AMONG SEQUELS* BEING SCARILY PRESCIENT.
+### LINK OUT TO CTFN STORIES I’VE DONE.
+
+##### SEVEN REASONS TO JOIN THE CRAFTLITERATTI
+1. treats history and literature with serious enthusiasm and a light touch—teach to the joke.
+2. Neurodivergent-friendly—even moreso now that we have episodes going up that are audio-only AND video (so if I’m describing something that can be seen, we can show it to you).
+	1. Nuance-zone. If you have trouble with symbols and nuance in fiction texts, we’re here for you. Symbols didn’t come easily to me—I had to learn them, too. I get it, and I’m here for you.
+3. ESL - in Podcastlandia, no one can see you rewind. AND if you listen with the actual book in your hand, you’ll be able to hear correct pronunciations of some excellent words.
+	1. Part of the challenge of learning a new language is learning idioms and context. CraftLit supports you in both—old idioms are explained, historical context is shared—both of which help avoid the problem summed up by “a text without context is a pretext for a prooftext” - meaning people who take quotations of a text out of its historical context and use it to try to (incorrectly) prove their point are cheating. CraftLit give you what you need to avoid being misled by this kind of persuasion.
+4. I‘ll keep you company through midnight nursings, dishwasher-unloading,laundry-folding, oven-cleaning, long-distance driving.—these are all things people have written to me about (FIND PIX/VIDEO). 
+5. ADHD listeners can get tidying done while listening and it won’t feel that awful - plus, if you use CraftLit for this, you won’t overthink “but SHOULD I take this to recycling? I MIGHT need it…someday…”
+6. The most thoroughly decent and kind listenership in all of Podcastlandia—Discord or FB or call-in or email or Ravelry, you’ll find nothing but wonderful people anywhere you find CraftLit.
+7. No one cares if you’ve never been a “book person”. No one cares if you never went to college - seriously. NO. ONE. CARES. In fact, CraftLit listeners are more likely to be jealous of you because YOU GET TO READ THE BOOK FOR THE FIRST TIME—with all the magic and joy that comes with that.
+	1. If you come to CraftLit because you’re getting sick of people subreferencing dusty old books—or if you’d secretly like to BE one of those people—then CraftLit will serve you well. When I taught HS I never beleived that “teach to the test” was the best educational theory. Instead I believe in “teach to the joke”—humans remeber things that bring them joy. Come share some joy with us.
+
+
+
+
+
+
+
+---
+- I need to write 30 to 60 second scripts that I can pair with screen capture videos to show listeners and potential listeners 
+- Absolutely! Here’s a series of 7 short video scripts (30–60 seconds each), each crafted to match one of your how-to topics. These are paced for pairing with screen capture, using friendly but direct narration that guides users through the steps without overwhelming them.
+
+1. Watch CraftLit on YouTube
+Script:
+ant to watch CraftLit on YouTube?
+
+Just head to YouTube.com and search “CraftLit Podcast” — or go directly to [YouTube.com/@CraftLitPodcast](https://www.youtube.com/@CraftLitPodcast).
+
+Click Subscribe and then tap the bell icon to get notified when new episodes drop.
+
+You’ll find full annotated audiobooks, literary commentary, and live discussions right here on the channel.
+
+New? Try starting with Jane Eyre, Frankenstein, or Emma!
+
+CraftLit: Annotated Audiobooks for Busy People.
+
+2. Add CraftLit RSS Feed to Your Favorite Podcast App
+Script:
+Want to listen to CraftLit on your podcast app of choice?
+
+First, copy the RSS feed URL from CraftLit.com or your Patreon dashboard if you’re a premium subscriber.
+
+Then open your app — Apple Podcasts, Overcast, Pocket Casts, or another — and look for “Add a show by URL” or “Add RSS feed.”
+
+Paste the link, and boom — you’re subscribed!
+
+Now new episodes download automatically.
+
+Easy listening, your way.
+
+3. How to Use the CraftLit App
+
+Script:
+Download the CraftLit app for iPhone or Android.
+
+Once it’s installed, open it and tap “Episodes” to start browsing the current book.
+
+Tap any episode title to listen.
+
+You can download episodes for offline listening, speed up playback, and jump between chapters.
+
+It’s everything you love about the podcast — with bookmarks, show notes, and direct access to Heather — all in one place.
+
+  4. Listen to Premium Audio in the CraftLit App
+Script:
+Are you a Premium subscriber?
+
+Here’s how to access exclusive content in the CraftLit app.
+
+Open the app and tap “Settings”, then “Sign in with Premium”.
+
+Use the email you used on CraftLit.com or Patreon.
+
+Once you’re signed in, premium episodes show up with a special tag — just tap to listen!
+
+Not a subscriber yet? Head to CraftLit.com/premium to unlock extended content and bonus books.
+
+5. Listen to Regular + Premium Episodes on Patreon
+Script:
+If you’re a Patreon supporter, you can listen to both regular and premium episodes right in the Patreon app.
+
+Open the app, go to CraftLit, and tap Posts.
+
+Look for the episode you want — premium episodes are clearly marked.
+
+Tap to stream, or click the RSS feed under “Audio RSS Link” to add CraftLit to your podcast player.
+
+Supporting on Patreon means more books, more commentary, and more CraftLit.
+
+
+6. Listen to Regular Episodes at CraftLit.com
+Script:
+Listening on the web?
+
+Head to CraftLit.com and click “Episodes” in the top menu.
+
+Scroll to the book you’re reading and click the chapter you want.
+
+You can listen right on the page using the built-in audio player — no account needed.
+
+Prefer to read along? Most episodes include full text, notes, and links.
+
+CraftLit.com — literature that fits your life.
+
+7. Listen to Premium Episodes at CraftLit.com
+Script:
+Premium subscriber? You can listen to exclusive episodes at CraftLit.com/premium.
+
+Just log in using the email you used when you signed up.
+
+Once logged in, go to your premium book, and click the episode you want.
+
+Press play — and enjoy deeper dives, extended readings, and exclusive bonus content.
+
+Premium means even more great literature, your way.
