@@ -38,27 +38,19 @@ Box of Night on the CraftLit.com/raffle
 - **MAYBE October - ***Knit One Knit All*** - Elizabeth Zimmermann’s Garter Stitch Designs (hardback)
 
 - ==please put this link on screen **and** in shownotes: [https://bit.ly/craftlit-pdtea](https://bit.ly/craftlit-pdtea)==
-### Raffle Box of Night
-+ raffle copter :( 
-+ HS Reunion
-+ Walkaway Dress
-+ Evil Idol
+### Raffle 
+[Box of Night](https://craftlit.com/raffle)
 
 ## A-Block-Crafty Chat Notes
-- Walkaway etc
 - [Don't forget to send us your crafty videos](https://bit.ly/craftlit-be-crafty)
+- The Dress (in process and another of the dress on me)  
+
+![[Pasted image 20250912075601.png]]
 
 ## B-Block-BOOK TALK—Re-hash Notes
 nope
 
 ## Pre-hash Notes
-Get back into the Elegant Economy and the Importance of keeping your Social Status in society - then add in being male.
-
-Drugs vs amputation (old)
-
-The hospital dates from 1721, when it was founded by philanthropist [Thomas Guy](https://en.wikipedia.org/wiki/Thomas_Guy "Thomas Guy"), who had made a fortune as a printer of Bibles and greatly increased it by speculating in the [South Sea Bubble](https://en.wikipedia.org/wiki/South_Sea_Bubble "South Sea Bubble").[[3]](https://en.wikipedia.org/wiki/Guy%27s_Hospital#cite_note-3) It was originally established as a hospital to treat "incurables" discharged from [St Thomas' Hospital](https://en.wikipedia.org/wiki/St_Thomas%27_Hospital "St Thomas' Hospital"). Guy had been a governor and benefactor of St Thomas' and his fellow governors supported his intention by granting the south-side of [St Thomas Street](https://en.wikipedia.org/wiki/St_Thomas_Street,_Southwark "St Thomas Street, Southwark") for a [peppercorn](https://en.wikipedia.org/wiki/Peppercorn_\(legal\) "Peppercorn (legal)") rent for 999 years.[[4]](https://en.wikipedia.org/wiki/Guy%27s_Hospital#cite_note-bho-4) Following his death in 1724, Thomas Guy was entombed at the hospital's chapel (also dating from the 18th century), in a tomb featuring a marble sculpture by [John Bacon](https://en.wikipedia.org/wiki/John_Bacon_\(sculptor,_born_1740\) "John Bacon (sculptor, born 1740)").[[4]](https://en.wikipedia.org/wiki/Guy%27s_Hospital#cite_note-bho-4)
-
-The original buildings formed a courtyard facing St Thomas Street, comprising the hall on the east side and the chapel, Matron's House and Surgeon's House on the west side. The original main buildings were built by the King's Master Mason, [John Deval](https://en.wikipedia.org/wiki/John_Deval "John Deval"), in 1739.[[5]](https://en.wikipedia.org/wiki/Guy%27s_Hospital#cite_note-5)
 
 ## C-Block Book Audio / D-Block-Post-chapter Notes
 here
@@ -80,15 +72,6 @@ BOOK/WATCH PARTIES coming up in 2025:
     - **Oct** — *Random Harvest* (book)
     - **Nov** — *Random Harvest* (movie)
     - **Dec** — *Lamb: The Gospel According to Biff, Christ's Childhood Pal* (book)
-Raffle Box of Night
-+ raffle copter :( 
-+ HS Reunion
-+ Walkaway Dress
-+ Evil Idol
-
-- [Durham U English Courselist](https://durham.rl.talis.com/levels/engl_ug.html)
-- [And a close up of a class](https://rl.talis.com/3/durham/lists/F852E714-BBC6-B2F3-94B0-49945EA99D9A.html?lang=en-GB) and [one from the U of York](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ENG00099H/latest) (thank you LilyM)
-- for Erik to update per first bullet: https://craftlit.com/book/library/
 
 
 
