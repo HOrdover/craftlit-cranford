@@ -1,9 +1,7 @@
 ---
 #Gaskell, #shownotes , #start-of-book
 ---
-# 017-Mr Harrison-695-Chs1-2
 
-**Created:** 2025-09-11 19:15  
 **Linking Index:** [[CraftLit_Book_Dashboard]]
 
 ---
