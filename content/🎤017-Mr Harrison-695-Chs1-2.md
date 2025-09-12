@@ -1,6 +1,97 @@
 ---
 #Gaskell, #shownotes , #start-of-book
 ---
+# 017-Mr Harrison-695-Chs1-2
+
+**Created:** 2025-09-11 19:15  
+**Linking Index:** [[CraftLit_Book_Dashboard]]
+
+---
+tags: [shownotes, Cranford, Gaskell, 1-2]
+date: 2025-09-11
+linked index: [[CraftLit_Shownotes_Dashboard]]
+---
+
+# Podcast Literature Note: 1-2
+
+**Date:** 2025-09-11
+
+## Episode goes live on 9/12/2025
+
+## Episode and Title
+695 Start Mr Harrison
+
+- ### Time code: Episode XXX, Book Talk begins at _.       ._ Cranford begins with episode 679
+
+## Book
+1-2
+
+## KALL8
+- **Voicemails:** none
+## Patrons
+  Regina Dailey, Kathy, Kimberly Imbrigiotta, Amy Filak, Debbi, Teresa Whitesell
+
+## Raffle Item
+Box of Night on the CraftLit.com/raffle
+
+-  **Farley's** -  ==**make bit-ly** link to https://bookshop.org/p/books/botanical-knits-12-designs-inspired-by-trees-and-foliage-alana-dakos/9865942?ean=9780988324923&next=t or generic https://bookshop.org/shop/farleysbookshop please==
+- **MAYBE October - ***Knit One Knit All*** - Elizabeth Zimmermann’s Garter Stitch Designs (hardback)
+
+- ==please put this link on screen **and** in shownotes: [https://bit.ly/craftlit-pdtea](https://bit.ly/craftlit-pdtea)==
+### Raffle Box of Night
++ raffle copter :( 
++ HS Reunion
++ Walkaway Dress
++ Evil Idol
+
+## A-Block-Crafty Chat Notes
+- Walkaway etc
+- [Don't forget to send us your crafty videos](https://bit.ly/craftlit-be-crafty)
+
+## B-Block-BOOK TALK—Re-hash Notes
+nope
+
+## Pre-hash Notes
+Get back into the Elegant Economy and the Importance of keeping your Social Status in society - then add in being male.
+
+Drugs vs amputation (old)
+
+The hospital dates from 1721, when it was founded by philanthropist [Thomas Guy](https://en.wikipedia.org/wiki/Thomas_Guy "Thomas Guy"), who had made a fortune as a printer of Bibles and greatly increased it by speculating in the [South Sea Bubble](https://en.wikipedia.org/wiki/South_Sea_Bubble "South Sea Bubble").[[3]](https://en.wikipedia.org/wiki/Guy%27s_Hospital#cite_note-3) It was originally established as a hospital to treat "incurables" discharged from [St Thomas' Hospital](https://en.wikipedia.org/wiki/St_Thomas%27_Hospital "St Thomas' Hospital"). Guy had been a governor and benefactor of St Thomas' and his fellow governors supported his intention by granting the south-side of [St Thomas Street](https://en.wikipedia.org/wiki/St_Thomas_Street,_Southwark "St Thomas Street, Southwark") for a [peppercorn](https://en.wikipedia.org/wiki/Peppercorn_\(legal\) "Peppercorn (legal)") rent for 999 years.[[4]](https://en.wikipedia.org/wiki/Guy%27s_Hospital#cite_note-bho-4) Following his death in 1724, Thomas Guy was entombed at the hospital's chapel (also dating from the 18th century), in a tomb featuring a marble sculpture by [John Bacon](https://en.wikipedia.org/wiki/John_Bacon_\(sculptor,_born_1740\) "John Bacon (sculptor, born 1740)").[[4]](https://en.wikipedia.org/wiki/Guy%27s_Hospital#cite_note-bho-4)
+
+The original buildings formed a courtyard facing St Thomas Street, comprising the hall on the east side and the chapel, Matron's House and Surgeon's House on the west side. The original main buildings were built by the King's Master Mason, [John Deval](https://en.wikipedia.org/wiki/John_Deval "John Deval"), in 1739.[[5]](https://en.wikipedia.org/wiki/Guy%27s_Hospital#cite_note-5)
+
+## C-Block Book Audio / D-Block-Post-chapter Notes
+here
+
+- #### IF NECESSARY - WHO'S Crafty Video and what to link out to?
+  YouTube Cards?
+
+## Miscellaneous
+---
+
+
+Don't forget to send us your crafty videos  [SEND US YOUR CRAFTY VIDEOS](https://bit.ly/craftlit-be-crafty) 
+
+BOOK/WATCH PARTIES coming up in 2025:
+- **Last Thursday of every month, 8pm Eastern:**
+    - **Jul** — *Princess Bride* (movie)
+    - **Aug** — *The Last Unicorn* (book)
+    - **Sep** — *The Last Unicorn* (movie)
+    - **Oct** — *Random Harvest* (book)
+    - **Nov** — *Random Harvest* (movie)
+    - **Dec** — *Lamb: The Gospel According to Biff, Christ's Childhood Pal* (book)
+Raffle Box of Night
++ raffle copter :( 
++ HS Reunion
++ Walkaway Dress
++ Evil Idol
+
+- [Durham U English Courselist](https://durham.rl.talis.com/levels/engl_ug.html)
+- [And a close up of a class](https://rl.talis.com/3/durham/lists/F852E714-BBC6-B2F3-94B0-49945EA99D9A.html?lang=en-GB) and [one from the U of York](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ENG00099H/latest) (thank you LilyM)
+- for Erik to update per first bullet: https://craftlit.com/book/library/
+
+
+
 
 ### CHAPTER I
 
@@ -12,7 +103,7 @@ The fire was burning gaily. My wife had just gone upstairs to put baby to bed. C
 
 'Never fear. If I get tired, I can go to sleep, and dream that I am back again, a lonely bachelor, in Ceylon; and I can waken up when you have done, to know that I am under your roof Dash away, man! "Once upon a time, a gallant young bachelor" - There's a beginning for you!'
 
-'Well, then: "Once upon a time, a gallant young bachelor" was sorely puzzled where to settle, when he had completed his education as a surgeon - I must speak in the first person; I cannot go on as a gallant young bachelor. I had just finished walking the hospitals when you went to Ceylon, and, if you remember, I wanted to go abroad like you, and thought of offering myself as a ship-surgeon; but I found I should rather lose caste in my profession; so I hesitated, and, while I was hesitating, I received a letter from my father's cousin, Mr. Morgan - that old gentleman who used to write such long letters of advice to my mother, and who tipped me a five-pound note when I agreed to be bound apprentice to Mr. Howard, instead of going to sea. Well, it seems the old gentleman had all along thought of taking me as his partner, if I turned out pretty well; and, as he heard a good account of me from an old friend of his, who was a surgeon at Guy's, he wrote to propose this arrangement: I was to have a third of the profits for five years, after that, half; and eventually I was to succeed to the whole. It was no bad offer for a penniless man like me, as Mr. Morgan had a capital country practice, and, though I did not know him personally, I had formed a pretty good idea of him, as an honourable, kind-hearted, fidgety, meddlesome old bachelor; and a very correct notion it was, as I found out in the very first half-hour of seeing him. I had had some idea that I was to live in his house, as he was a bachelor and a kind of family friend, and I think he was afraid that I should expect this arrangement; for, when I walked up to his door, with the porter carrying my portmanteau, he met me on the steps, and while he held my hand and shook it, he said to the porter, "Jerry, if you'll wait a moment, Mr. Harrison will be ready to go with you to his lodgings, at Jocelyn's, you know;" and then, turning to me, he addressed his first words of welcome. I was a little inclined to think him inhospitable, but I got to understand him better afterwards. "Jocelyn's" said he, "is the best place I have been able to hit upon in a hurry, and there is a good deal of fever about, which made me desirous that you should come this month - a low kind of typhoid, in the oldest part of the town. I think you'll be comfortable there for a week or two. I have taken the liberty of desiring my housekeeper to send down one or two things which give the place a little more of a home aspect - an easy-chair, a beautiful case of preparations, and one or two little matters in the way of eatables; but, if you'll take my advice, I've a plan in my head which we will talk about tomorrow morning. At present, I don't like to keep you standing out on the steps here; so I'll not detain you from your lodgings, where I rather think my housekeeper is gone to get tea ready for you."
+'Well, then: "Once upon a time, a gallant young bachelor" was sorely puzzled where to settle, when he had completed his education as a surgeon - I must speak in the first person; I cannot go on as a gallant young bachelor. I had just finished walking the hospitals when you went to Ceylon, and, if you remember, I wanted to go abroad like you, and thought of offering myself as a ship-surgeon; but I found I should rather lose caste in my profession; so I hesitated, and, while I was hesitating, I received a letter from my father's cousin, Mr. Morgan - that old gentleman who used to write such long letters of advice to my mother, and who tipped me a five-pound note when I agreed to be bound apprentice to Mr. Howard, instead of going to sea. Well, it seems the old gentleman had all along thought of taking me as his partner, if I turned out pretty well; and, as he heard a good account of me from an old friend of his, who was a surgeon at **Guy's,** he wrote to propose this arrangement: I was to have a third of the profits for five years, after that, half; and eventually I was to succeed to the whole. It was no bad offer for a penniless man like me, as Mr. Morgan had a capital country practice, and, though I did not know him personally, I had formed a pretty good idea of him, as an honourable, kind-hearted, fidgety, meddlesome old bachelor; and a very correct notion it was, as I found out in the very first half-hour of seeing him. I had had some idea that I was to live in his house, as he was a bachelor and a kind of family friend, and I think he was afraid that I should expect this arrangement; for, when I walked up to his door, with the porter carrying my portmanteau, he met me on the steps, and while he held my hand and shook it, he said to the porter, "Jerry, if you'll wait a moment, Mr. Harrison will be ready to go with you to his lodgings, at Jocelyn's, you know;" and then, turning to me, he addressed his first words of welcome. I was a little inclined to think him inhospitable, but I got to understand him better afterwards. "Jocelyn's" said he, "is the best place I have been able to hit upon in a hurry, and there is a good deal of fever about, which made me desirous that you should come this month - a low kind of typhoid, in the oldest part of the town. I think you'll be comfortable there for a week or two. I have taken the liberty of desiring my housekeeper to send down one or two things which give the place a little more of a home aspect - an easy-chair, a beautiful case of preparations, and one or two little matters in the way of eatables; but, if you'll take my advice, I've a plan in my head which we will talk about tomorrow morning. At present, I don't like to keep you standing out on the steps here; so I'll not detain you from your lodgings, where I rather think my housekeeper is gone to get tea ready for you."
 
 'I thought I understood the old gentleman's anxiety for his own health, which he put upon care for mine; for he had on a kind of loose grey coat, and no hat on his head. But I wondered that he did not ask me indoors, instead of keeping me on the steps. I believe, after all, I made a mistake in supposing he was afraid of taking cold; he was only afraid of being seen in dishabille. And for his apparent inhospitality, I had not been long in Duncombe before I understood the comfort of having one's house considered as a castle into which no one might intrude, and saw good reason for the practice Mr. Morgan had established of coming to his door to speak to every one. It was only the effect of habit that made him receive me so. Before long, I had the free run of his house.
 
@@ -62,15 +153,15 @@ The fire was burning gaily. My wife had just gone upstairs to put baby to bed. C
 
 'I had no time to say, "Who is Mrs. Munton?" before we had heard Mrs. Munton was at home, and were following the tidy elderly servant up the narrow carpeted stairs into the drawing-room. Mrs. Munton was the widow of a former vicar, upwards of sixty, rather deaf, but, like all the deaf people I have ever seen, very fond of talking; perhaps because she then knew the subject, which passed out of her grasp when another began to speak. She was ill of a chronic complaint, which often incapacitated her from going out; and the kind people of the town were in the habit of coming to see her and sit with her, and of bringing her the newest, freshest, tit-bits of news; so that her room was the centre of the gossip of Duncombe - not of scandal, mind; for I make a distinction between gossip and scandal. Now you can fancy the discrepancy between the ideal and the real Mrs. Munton. Instead of any foolish notion of a beautiful blooming widow, tenderly anxious about the health of the stranger, I saw a homely, talkative, elderly person, with a keen observant eye, and marks of suffering on her face; plain in manner and dress, but still unmistakably a lady. She talked to Mr. Morgan, but she looked at me; and I saw that nothing I did escaped her notice. Mr. Morgan annoyed me by his anxiety to show me off, but he was kindly anxious to bring out every circumstance to my credit in Mrs. Munton's hearing, knowing well that the town-crier had not more opportunities to publish all about me than she had.
 
-'"What was that remark you repeated to me of Sir Astley Cooper's?" asked he. It had been the most trivial speech in the world that I had named as we walked along, and I felt ashamed of having to repeat it: but it answered Mr. Morgan's purpose, and before night all the town had heard that I was a favourite pupil of Sir Astley's (I had never seen him but twice in my life); and Mr. Morgan was afraid that as soon as he knew my full value I should be retained by Sir Astley to assist him in his duties as surgeon to the Royal Family. Every little circumstance was pressed into the conversation which could add to my importance.
+'"What was that remark you repeated to me of Sir Astley Cooper's?" asked he. It had been the most trivial speech in the world that I had named as we walked along, and I felt ashamed of having to repeat it: but it answered Mr. Morgan's purpose, and before night all the town had heard that I was a favourite pupil ***of Sir Astley's*** (I had never seen him but twice in my life); and Mr. Morgan was afraid that as soon as he knew my full value I should be retained by Sir Astley to assist him in his duties as surgeon to the Royal Family. Every little circumstance was pressed into the conversation which could add to my importance.
 
-'"As I once heard Sir Robert Peel remark to Mr. Harrison, the father of our young friend here - The moons in August are remarkably full and bright." If you remember, Charles, my father was always proud of having sold a pair of gloves to Sir Robert, when he was staying at the Grange, near Biddicombe, and I suppose good Mr. Morgan had paid his only visit to my father at the time; but Mrs. Munton evidently looked at me with double respect after this incidental remark, which I was amused to meet with, a few months afterwards, disguised in the statement that my father was an intimate friend of the Premier's, and had, in fact, been the adviser of most of the measures taken by him in public life. I sat by, half indignant and half amused. Mr. Morgan looked so complacently pleased at the whole effect of the conversation, that I did not care to mar it by explanations; and, indeed, I had little idea at the time how small sayings were the seeds of great events in the town of Duncombe. When we left Mrs. Munton's, he was in a blandly communicative mood.
+'"As I once heard ***Sir Robert Pee***l remark to Mr. Harrison, the father of our young friend here - The moons in August are remarkably full and bright." If you remember, Charles, my father was always proud of having sold a pair of gloves to Sir Robert, when he was staying at the Grange, near Biddicombe, and I suppose good Mr. Morgan had paid his only visit to my father at the time; but Mrs. Munton evidently looked at me with double respect after this incidental remark, which I was amused to meet with, a few months afterwards, disguised in the statement that my father was an intimate friend of the Premier's, and had, in fact, been the adviser of most of the measures taken by him in public life. I sat by, half indignant and half amused. Mr. Morgan looked so complacently pleased at the whole effect of the conversation, that I did not care to mar it by explanations; and, indeed, I had little idea at the time how small sayings were the seeds of great events in the town of Duncombe. When we left Mrs. Munton's, he was in a blandly communicative mood.
 
 '"You will find it a curious statistical fact, but five-sixths of our householders of a certain rank in Duncombe are women. We have widows and old maids in rich abundance. In fact, my dear sir, I believe that you and I are almost the only gentlemen in the place - Mr. Bullock, of course, excepted. By gentlemen, I mean professional men. It behoves us to remember, sir, that so many of the female sex rely upon us for the kindness and protection which every man who is worthy of the name is always so happy to render."
 
 'Miss Tomkinson, on whom we next called, did not strike me as remarkably requiring protection from any man. She was a tall, gaunt, masculine-looking woman, with an air of defiance about her, naturally; this, however, she softened and mitigated, as far as she was able, in favour of Mr. Morgan. He, it seemed to me, stood a little in awe of the lady, who was very _brusque_ and plain spoken, and evidently piqued herself on her decision of character and sincerity of speech.
 
-'"So this is the Mr. Harrison we have heard so much of from you, Mr. Morgan? I must say, from what I had heard, that I had expected something a little more - hum - hum! But he's young yet; he's young. We have been all anticipating an Apollo, Mr. Harrison, from Mr. Morgan's description, and an Æsculapius combined in one; or, perhaps I might confine myself to saying Apollo, as he, I believe, was the god of medicine!"
+'"So this is the Mr. Harrison we have heard so much of from you, Mr. Morgan? I must say, from what I had heard, that I had expected something a little more - hum - hum! But he's young yet; he's young. We have been all anticipating an [Apollo, Mr. Harrison, from Mr. Morgan's description, and an Æsculapius](https://en.wikipedia.org/wiki/Asclepius#:~:text=Asclepius%20was%20the%20son%20of,was%20consumed%20by%20the%20fire.) combined in one; or, perhaps I might confine myself to saying Apollo, as he, I believe, was the god of medicine!"
 
 'How could Mr. Morgan have described me without seeing me? I asked myself
 
@@ -102,7 +193,7 @@ The fire was burning gaily. My wife had just gone upstairs to put baby to bed. C
 
 '"Sophy," said he, "Mr. Morgan looks very warm; could you not gather a few jargonelle pears off the south wall? I fancy there are some ripe there. Our jargonelle pears are remarkably early this year."
 
-'Sophy went into the sunny garden, and I saw her take a rake and tilt at the pears, which were above her reach, apparently. The parlour had become chilly (I found out afterwards it had a flag floor, which accounts for its coldness), and I thought I should like to go into the warm sun. I said I would go and help the young lady; and, without waiting for an answer, I went into the warm scented garden, where the bees were rifling the flowers, and making a continual busy sound. I think Sophy had begun to despair of getting the fruit, and was glad of my assistance. I thought I was very senseless to have knocked them down so soon, when I found we were to go in as soon as they were gathered. I should have liked to have walked round the garden, but Sophy walked straight off with the pears, and I could do nothing but follow her. She took up her needlework while we ate them: they were very soon finished, and, when the Vicar had ended his conversation with Mr. Morgan about some poor people, we rose up to come away. I was thankful that Mr. Morgan had said so little about me. I could not have endured that he should have introduced Sir Astley Cooper or Sir Robert Peel at the vicarage; nor yet could I have brooked much mention of my "great opportunities for acquiring a thorough knowledge of my profession," which I had heard him describe to Miss Tomkinson, while her sister was talking to me. Luckily, however, he spared me all this at the Vicar's. When we left, it was time to mount our horses and go the country rounds, and I was glad of it.
+'Sophy went into the sunny garden, and I saw her take a rake and tilt at the pears, which were above her reach, apparently. The parlour had become chilly (I found out afterwards it had a flag floor, which accounts for its coldness), and I thought I should like to go into the warm sun. I said I would go and help the young lady; and, without waiting for an answer, I went into the warm scented garden, where the bees were rifling the flowers, and making a continual busy sound. I think Sophy had begun to despair of getting the fruit, and was glad of my assistance. I thought I was very senseless to have knocked them down so soon, when I found we were to go in as soon as they were gathered. I should have liked to have walked round the garden, but Sophy walked straight off with the pears, and I could do nothing but follow her. She took up her needlework while we ate them: they were very soon finished, and, when the Vicar had ended his conversation with Mr. Morgan about some poor people, we rose up to come away. I was thankful that Mr. Morgan had said so little about me. I could not have endured that he should have introduced [Sir Astley Cooper ](https://en.wikipedia.org/wiki/Mr._Harrison%27s_Confessions)or [Sir Robert Peel](https://en.wikipedia.org/wiki/Robert_Peel) at the vicarage; nor yet could I have brooked much mention of my "great opportunities for acquiring a thorough knowledge of my profession," which I had heard him describe to Miss Tomkinson, while her sister was talking to me. Luckily, however, he spared me all this at the Vicar's. When we left, it was time to mount our horses and go the country rounds, and I was glad of it.
 
 ### CHAPTER IV
 
