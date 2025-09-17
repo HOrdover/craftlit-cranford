@@ -1,18 +1,9 @@
 ---
 #Gaskell, #shownotes , #start-of-book
 ---
-
-Raffle Box of Night
-+ 
-
-Get back into the Elegant Economy and the Importance of keeping your Social Status in society - then add in being male.
-
-
-
-- for Erik to update per first bullet: https://craftlit.com/book/library/
+- for Erik to update at leisure, follow the form of the first bullet: https://craftlit.com/book/library/
 https://craftlit.com/raffle/
 
-[contest_code_checker]
 # 018-Mr Harrison-696-Chs3-4
 
 **Created:** 2025-09-11 19:21  
@@ -38,17 +29,9 @@ linked index: [[CraftLit_Shownotes_Dashboard]]
 Mr Harrison's Confessions chs 3-4
 
 ## KALL8
-- **Voicemails:** check
+- **Voicemails:** None
 ## Patrons
 from Erik
-
-## Raffle Item
-Box of Night
-
-- ==**make bit-ly** link to https://bookshop.org/p/books/botanical-knits-12-designs-inspired-by-trees-and-foliage-alana-dakos/9865942?ean=9780988324923&next=t or generic https://bookshop.org/shop/farleysbookshop please==
-- **MAYBE OCTOBER** - ***Knit One Knit All*** - Elizabeth Zimmermann’s Garter Stitch Designs (hardback)
-
-- ==please put this link on screen **and** in shownotes: [https://bit.ly/craftlit-pdtea](https://bit.ly/craftlit-pdtea)==
 
 ## A-Block-Crafty Chat Notes
 - Durham U English classes?  -  
@@ -56,21 +39,42 @@ Box of Night
 - [And a close up of a class](https://rl.talis.com/3/durham/lists/F852E714-BBC6-B2F3-94B0-49945EA99D9A.html?lang=en-GB) and [one from the U of York](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ENG00099H/latest) (thank you LilyM)
 
 - Pangolin update
-- 
+ 
 - [Don't forget to send us your crafty videos](https://bit.ly/craftlit-be-crafty)
-- 
-- [Mansplaining Knitting](https://youtu.be/K10O14pFCRk?si=TDmX3K6dalL_ZQV8)
+ 
+- We caught Hank [Mansplaining Knitting](https://youtu.be/K10O14pFCRk?si=TDmX3K6dalL_ZQV8)
 - The Ultimate ["We Have Notes"](https://www.youtube.com/watch?v=wx1orbc-7MQ) video from @KristineVike
-- And the evil of [Private Equity predatory practices](https://youtu.be/JYDz3D9YRyI?si=TuBO7MHUpswB6Uis)
+- And the evil of [Private Equity predatory practices](https://youtu.be/JYDz3D9YRyI?si=TuBO7MHUpswB6Uis) (actually, she has a LOT of useful informational videos!)
 
+## Raffle Item
+Box of Night
+
+- ==**make bit-ly** link to https://bookshop.org/p/books/botanical-knits-12-designs-inspired-by-trees-and-foliage-alana-dakos/9865942?ean=9780988324923&next=t or generic https://bookshop.org/shop/farleysbookshop please==
+- **MAYBE OCTOBER** - ***Knit One Knit All*** - Elizabeth Zimmermann’s Garter Stitch Designs (hardback)
 ## B-Block-BOOK TALK—Re-hash Notes
 Country vs City Mouse vibe and trying to make the profession "professional". Drugs vs amputation (old)
 
 ## Pre-hash Notes
-- see text below
+- Solomon's Seal: ![[Pasted image 20250912092227.png]]
+- Dutch Tiles—as with Cranford, these were out of style when the story was written/takes place. They have a resurgence of popularity during the Arts & Crafts movement: https://www.regtsdelfttiles.com/antique-delft-wall-tile-18th-century-horseman-in-manganese-rosette-corner-motifs.html
+- \The Jargonelle pear ([Pyrus communis 'Jargonelle'](https://www.google.com/search?client=safari&sca_esv=dd1bb8bd48a3d6f2&cs=0&q=Pyrus+communis+%27Jargonelle%27&sa=X&ved=2ahUKEwjtlpb379GPAxUVKlkFHcm3C4IQxccNegQIAxAB&mstk=AUtExfC-YC82OESY1Ppo43DQqaW6g1xzf0OOdYwxsgzaRw8TkFjuU62Ip-Ar2575n2R8Qy7LhM8CwH8Pd89xjHqNH-YTNTqx8jfKayclFoR2FPIkMdkGzya_ZjipTTs5FpEZaoE&csui=3)) is ==an ancient, hardy, long-lived pear variety, first mentioned in the 17th century==. It produces medium-sized, yellow-green fruit with a reddish flush and musky, sweet, juicy flesh, ripe in late summer. The fruit must be eaten fresh as it does not store well. ![[Pasted image 20250911193658.png]]
+-  [Sir Astley Cooper ](https://en.wikipedia.org/wiki/Mr._Harrison%27s_Confessions)& [Sir Robert Peel](https://en.wikipedia.org/wiki/Robert_Peel)  again
+- Duncombe (silent final “be”)
+-  ***The back room was my consulting-room ("the library," he advised me to call it), and he gave me a skull to put on the top of my bookcase, in which the medical books were all ranged on the conspicuous shelves***; while **Miss Austen, Dickens and Thackeray were, by Mr. Morgan himself, skilfully placed in a careless way, upside down or with their backs turned to the wal**l. ***HA!***
+- Women's veils: https://www.sewhistorically.com/mourning-in-the-1850s/ deep widow's mourning; such ***veils and fails***, and capes and cloaks, that she looked like a ***black crape***[^2] **haycock**[^3].
+- very _mal-àpropos_ that I could hardly keep from smiling; [^4]but I would not have done it for the world, .... '"I have the ***'dognoses'*** of my dear husband's complaint in my desk, Mr. Harrison, if you would like to draw up the case for the _Lancet_.[^5] :  *[Mrs. Malaprop](https://youtu.be/AgTOvPAjpKc?si=20k5TWjjXwZhpge7) is ==a comedic character from Richard Brinsley Sheridan's 1775 play The Rivals==. She is a pretentious and self-important aunt who constantly makes humorous verbal blunders by using words that sound similar to, but are inappropriate for, the intended word. This type of linguistic error is now known as a [malapropism](https://www.google.com/search?sca_esv=6c7f7ca6e8ee6a34&sxsrf=AE3TifM0R2IvU4j01sT_rcy1_6FNSdjRrg%3A1757683871297&q=malapropism&sa=X&sqi=2&ved=2ahUKEwi6pprWqtOPAxVfKFkFHZKMCDgQxccNegQIOhAB&mstk=AUtExfCKBwYrW1UxSUgihs0uDZIBQkkyszp0cOXMDkto2Ny1VCvILDtwPOow5HAcjHEla7aOiYsunBTJzBwdHBWdP_eaTD03VPs7-AOzOqZO-QdeY7IGurZez8hUHE2nhp6GSBGOE9TIBQZM5UQ3ebYG3-z3hjNNqfUCsSUrP4CQx63ADSoigwQEnSPWF4jiVi6PXOujth6tbVeeCqHSIDHgVug5psUe7rKvaI5SrvIEiU0Pwieyhumy3YnNqkiubHLEpMa4GOn3hEJb8jsIC08S7jyRagsP1rfrfy0jt3aZzHKOcA&csui=3). Her name is derived from the French term "mal à propos," which means "inappropriate" or "poorly placed".* ***a memorable scene occurs when she instructs her niece, Lydia Languish, on the importance of controlling her passions, famously advising her to begin matrimony with "a little aversion," and later attempts to describe Lydia's headstrong nature by calling her "as headstrong as an allegory on the banks of the Nile". 
+- then 
+- ***She tells Lydia that she must forget the young man, saying, "But I say it is, miss; there is nothing on earth so easy as to forget, if a person chooses to set about it. I'm sure I have as much forgot your poor dear uncle as if he had never existed".***
+
 
 ## C-Block Book Audio / D-Block-Post-chapter Notes
 ------
+- Sophy is sitting on the floor!
+- ***you would talk to with your hat off whenever you met him***.
+- although, instead of being conjugal, it is to be ***maternal and filial***!".... 'I am sure she had been concocting this speech in the coach, **for she afterwards told me she was the only passenger**. When she had ended, ***I felt as if I ought to have had a glass of wine in my hand to drink, after the manner of toasts.*** 
+- not the thing
+-  and ***I suspect he was a little afraid of the lady***.
+
 
 - #### IF NECESSARY - WHO'S Crafty Video and what to link out to?
   YouTube Cards?
@@ -92,7 +96,7 @@ BOOK/WATCH PARTIES coming up in 2025:
 
 ### CHAPTER III
 
-'The vicarage was on the north side of the street, at the end opening towards the hills. It was a long low house, receding behind its neighbours; a court was between the door and the street, with a flag-walk and an old stone cistern on the right-hand side of the door; ***Solomon's seal*** growing under the windows. Some one was watching from behind the window-curtain; for the door opened, as if by magic, as soon as we reached it; and we entered a low room, which served as hall, and was matted all over, with deep old-fashioned window-seats, and ***Dutch tiles in the fire-place***; altogether it was very cool and refreshing, after the hot sun in the white and red street.
+'The vicarage was on the north side of the street, at the end opening towards the hills. It was a long low house, receding behind its neighbours; a court was between the door and the street, with a flag-walk and an old stone cistern on the right-hand side of the door; ***Solomon's seal*** growing under the windows. Some one was watching from behind the window-curtain; for the door opened, as if by magic, as soon as we reached it; and we entered a low room, which served as hall, and was matted all over, with deep old-fashioned window-seats, and ***[Dutch tiles](https://www.regtsdelfttiles.com/antique-delft-wall-tile-18th-century-horseman-in-manganese-rosette-corner-motifs.html) in the fire-place***; altogether it was very cool and refreshing, after the hot sun in the white and red street.
 
 '"Bessie is not so well, Mr. Morgan," said the sweet little girl of eleven or so, who had opened the door. "Sophy wanted to send for you; but papa said he was sure you would come soon this morning, and we were to remember that there were other sick people wanting you."
 
@@ -112,7 +116,7 @@ BOOK/WATCH PARTIES coming up in 2025:
 
 'Meanwhile, the arrangement with Mrs. Rose had been brought to a conclusion. She was to bring her furniture and place it in a house, of which I was to pay the rent. She was to be the mistress, and, in return, she was not to pay anything for her board. Mr. Morgan took the house and delighted in advising and settling all my affairs. I was partly indolent, and partly amused, and was altogether passive. The house he took for me was near his own: it had two sitting-rooms downstairs, opening into each other by folding-doors, which were, however, kept shut in general. ***The back room was my consulting-room ("the library," he advised me to call it), and he gave me a skull to put on the top of my bookcase, in which the medical books were all ranged on the conspicuous shelves***; while **Miss Austen, Dickens and Thackeray were, by Mr. Morgan himself, skilfully placed in a careless way, upside down or with their backs turned to the wal**l. The front parlour was to be the dining-room, and the room above was furnished with Mrs. Rose's drawing-room chairs and table, though I found she preferred sitting downstairs in the dining room close to the window, where, between every stitch, she could look up and see what was going on in the street. I felt rather queer to be the master of this house, filled with another person's furniture, before I had even seen the lady whose property it was.
 
-Presently she arrived. Mr. Morgan met her at the inn where the coach stopped, and accompanied her to my house. I could see them out of the drawing-room window, the little gentleman stepping daintily along, flourishing his cane, and evidently talking away. She was a little taller than he was, and in deep widow's mourning; such ***veils and fails***, and capes and cloaks, that she looked like a ***black crape***[^2] **haycock**[^3]. When we were introduced, she put up her thick veil and looked around and sighed.
+Presently she arrived. Mr. Morgan met her at the inn where the coach stopped, and accompanied her to my house. I could see them out of the drawing-room window, the little gentleman stepping daintily along, flourishing his cane, and evidently talking away. She was a little taller than he was, and in deep widow's mourning; such ***veils and fails***[^6], and capes and cloaks, that she looked like a ***black crape***[^2] **haycock**[^3]. When we were introduced, she put up her thick veil and looked around and sighed.
 
 '"Your appearance and circumstances, Mr. Harrison, remind me forcibly of the time when I was married to my dear husband, now at rest. He was then, like you, commencing practice as a surgeon. For twenty years I sympathised with him, and assisted him by every means in my power, even to making up pills when the young man was out. May we live together in like harmony for an equal length of time! May the regard between us be equally sincere, although, instead of being conjugal, it is to be ***maternal and filial***!"
 
@@ -154,3 +158,4 @@ Presently she arrived. Mr. Morgan met her at the inn where the coach stopped, an
 [^3]: 1. a [conical](https://www.google.com/search?sca_esv=dd1bb8bd48a3d6f2&sxsrf=AE3TifMEmq_wPrx43dAFQT2apEutPsScGQ:1757634209926&q=conical&si=AMgyJEsuit4gN7752H-yAHcCJWwoQOLuWSxrZPmUS9MWX3kSEg5rQ2akcXHCUrfa3paCmIu7qxrPCIMMpUSb530fzC97P5qSXVAN2CDGFR9tqkkNegwKAKY%3D&expnd=1&sa=X&ved=2ahUKEwiy_OjV8dGPAxUmkYkEHYL3NrUQyecJegQIRBAR) [heap](https://www.google.com/search?sca_esv=dd1bb8bd48a3d6f2&sxsrf=AE3TifMEmq_wPrx43dAFQT2apEutPsScGQ:1757634209926&q=heap&si=AMgyJEvmOB0NaCA9Kj-yVgOHUkxIxFrCxet1Qx-VbZgmjGOoNICFHAVJPJYYyw1uFPoy7rZbfukdl2repjzv21fk5v2dbsjd7Q%3D%3D&expnd=1&sa=X&ved=2ahUKEwiy_OjV8dGPAxUmkYkEHYL3NrUQyecJegQIRBAS) of hay in a field.
 [^4]: EXPLAIN MRS MALAPROP - Sheridan's School for Scandal?
 [^5]: HA!
+[^6]: ”fail” is probably and anglicized “faille” or “fayle” - (medieval/French) a hanging piece of cloth, draped garment, draped shawl, etc.
