@@ -50,6 +50,8 @@ Book Talk 25:15
 - We caught Hank [Mansplaining Knitting](https://youtu.be/K10O14pFCRk?si=TDmX3K6dalL_ZQV8)
 - The Ultimate ["We Have Notes"](https://www.youtube.com/watch?v=wx1orbc-7MQ) video from @KristineVike
 - And the evil of [Private Equity predatory practices](https://youtu.be/JYDz3D9YRyI?si=TuBO7MHUpswB6Uis) (actually, she has a LOT of useful informational videos!)
+- Spectacular FIXED SciShow video: I Remade the SciShow Knitting Video (with accurate SCIENCE) https://youtu.be/5btQokB32dQ
+
 
 ## Raffle Item
 Box of Night
