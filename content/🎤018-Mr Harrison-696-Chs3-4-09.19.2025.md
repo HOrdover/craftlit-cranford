@@ -31,7 +31,12 @@ Mr Harrison's Confessions chs 3-4
 ## KALL8
 - **Voicemails:** None
 ## Patrons
-from Erik
+- Jennifer L
+- Sarah Blake
+- Kathi Sharp
+- gorlitsa
+- Lisa B
+Book Talk 25:15
 
 ## A-Block-Crafty Chat Notes
 - Durham U English classes?  -  
