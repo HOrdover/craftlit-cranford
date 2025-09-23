@@ -1,14 +1,23 @@
 ---
 #Gaskell, #shownotes , #start-of-book
 ---
+BE THE ALGORITHM YOU WANT TO SEE IN THE WORLD
+
+Evie video
 
 Raffle Box of Night
-+ 
-SNOODS
+
+SHOPPING AT THRIFT STORE
+
+SNOODS![[679-Snood.png]]
 
 ![[Pasted image 20250918113334.png]]
 https://youtu.be/9uSXV0o-BEI?si=xbPUNgFupMXwtJl5
 
+- Arranging chess pieces
+- Waft of story main conflict
+- Juxtapose Austen's Emma picnic with the one here
+- ends with Mrs Rose deciding to go out
 
 ### CHAPTER V
 
@@ -52,13 +61,13 @@ https://youtu.be/9uSXV0o-BEI?si=xbPUNgFupMXwtJl5
 
 'At this speech the poor girl hesitated, and at last, in an undecided way, as if she was not sure whether she was doing right, she took Sophy's place in the boat. Helen and Lizzie landed with their sister, so that there was plenty of room for Miss Tomkinson, Miss Horsman, and all the little Bullocks; and the three vicarage girls went off strolling along the meadow side, and playing with Walter, who was in a high state of excitement. The sun was getting low, but the declining light was beautiful upon the water; and, to add to the charm of the time, Sophy and her sisters, standing on the green lawn in front of the hall, struck up the little German canon, which I had never heard before:
 
-'"Oh, wie wohl ist mir am Abend." etc.
+'"Oh, wie wohl ist mir am Abend." [etc.](https://youtu.be/GN7xIxQ6QRE?si=bjY_dvvCxPRAU5tQ) [Wiki for song](https://de.wikipedia.org/wiki/O_wie_wohl_ist_mir_am_Abend) ***Translation:  Oh, how comfortable I am in the evening)***
 
 'At last we were summoned to tug the boat to the landing-steps on the lawn, tea and a blazing wood fire being ready for us in the hall. I was offering my arm to Miss Horsman, as she was a little lame, when she said again, in her peculiar disagreeable way, "had you not better take Miss Bullock, Mr. Harrison? It will be more satisfactory."
 
 'I helped Miss Horsman up the steps, however, and then she repeated her advice; so, remembering that Miss Bullock was in fact the daughter of my entertainers, I went to her; but, though she accepted my arm, I could perceive that she was sorry that I had offered it.
 
-'The hall was lighted by the glorious wood fire in the wide old grate; the daylight was dying away in the west; and the large windows admitted but little of what was left, through their small leaded frames, with coats of arms emblazoned upon them. The farmer's wife had set out a great long table, which was piled with good things; and a huge black kettle sang on the glowing fire, which sent a cheerful warmth through the room as it crackled and blazed. Mr. Morgan (who I found had been taking a little round in the neigbourhood among his patients) was there, smiling and rubbing his hands as usual. Mr. Bullock was holding a conversation with the farmer at the garden-door on the nature of different manures, in which it struck me that, if Mr. Bullock had the fine names and the theories on his side, the farmer had all the practical knowledge and the experience, and I know which I would have trusted. I think Mr. Bullock rather liked to talk about Liebig in my hearing; it sounded well, and was knowing. Mrs. Bullock was not particularly placid in her mood. In the first place, I wanted to sit by the Vicar's daughter, and Miss Caroline as decidedly wanted to sit on my other side, being afraid of her fainting fits, I imagine. But Mrs. Bullock called me to a place near her daughter. Now, I thought I had done enough civility to a girl who was evidently annoyed rather than pleased by my attentions, and I pretended to be busy stooping under the table for Miss Caroline's gloves, which were missing; but it was of no avail; Mrs. Bullock's fine severe eyes were awaiting my reappearance, and she summoned me again.
+'The hall was lighted by the glorious wood fire in the wide old grate; the daylight was dying away in the west; and the large windows admitted but little of what was left, through their small leaded frames, with coats of arms emblazoned upon them. The farmer's wife had set out a great long table, which was piled with good things; and a huge black kettle sang on the glowing fire, which sent a cheerful warmth through the room as it crackled and blazed. Mr. Morgan (who I found had been taking a little round in the neigbourhood among his patients) was there, smiling and rubbing his hands as usual. Mr. Bullock was holding a conversation with the farmer at the garden-door on the nature of different manures, in which it struck me that, ***if Mr. Bullock had the fine names and the theories on his side, the farmer had all the practical knowledge and the experience, and I know which I would have trusted***. I think Mr. Bullock rather liked to talk about [Liebig](https://www.sciencedirect.com/science/article/abs/pii/S0531513102007197) in my hearing; it sounded well, and was knowing. Mrs. Bullock was not particularly placid in her mood. In the first place, I wanted to sit by the Vicar's daughter, and Miss Caroline as decidedly wanted to sit on my other side, being afraid of her fainting fits, I imagine. But Mrs. Bullock called me to a place near her daughter. Now, I thought I had done enough civility to a girl who was evidently annoyed rather than pleased by my attentions, and I pretended to be busy stooping under the table for Miss Caroline's gloves, which were missing; but it was of no avail; Mrs. Bullock's fine severe eyes were awaiting my reappearance, and she summoned me again.
 
 '"I am keeping this place on my right hand for you, Mr. Harrison. Jemima, sit still!"
 
@@ -70,13 +79,19 @@ https://youtu.be/9uSXV0o-BEI?si=xbPUNgFupMXwtJl5
 
 'She was very good and kind; not merely attentive to everything which she thought could conduce to my comfort, but willing to take any trouble in providing the broths and nourishing food which I often found it convenient to order, under the name of kitchen-physic, for my poorer patients; and I really did not see the use of her shutting herself up, in mere compliance with an etiquette, when she began to wish to mix in the little quiet society of Duncombe. Accordingly I urged her to begin to visit, and, even when applied to as to what I imagined the late Mr. Rose's wishes on that subject would have been, answered for that worthy gentleman, and assured his widow that I was convinced he would have regretted deeply her giving way to immoderate grief, and would have been rather grateful than otherwise at seeing her endeavour to divert her thoughts by a few quiet visits. She cheered up, and said, "As I really thought so, she would sacrifice her own inclinations, and accept the very next invitation that came."
 
+
+
+
+
+
+
 ### CHAPTER VII
 
-'I was roused from my sleep in the middle of the night by a messenger from the vicarage. Little Walter had got the croup, and Mr. Morgan had been sent for into the country. I dressed myself hastily, and went through the quiet little street. There was a light burning upstairs at the vicarage. It was in the nursery. The servant, who opened the door the instant I knocked, was crying sadly, and could hardly answer my inquiries as I went upstairs, two steps at a time, to see my little favourite.
+'I was roused from my sleep in the middle of the night by a messenger from the vicarage. Little Walter had got the [croup](https://www.greenecountyohio.gov/Blog.asp?IID=180#:~:text=A%20small%20sampling%20of%20our,First%2C%20nutrition%20was%20a%20problem.), and Mr. Morgan had been sent for into the country. I dressed myself hastily, and went through the quiet little street. There was a light burning upstairs at the vicarage. It was in the nursery. The servant, who opened the door the instant I knocked, was crying sadly, and could hardly answer my inquiries as I went upstairs, two steps at a time, to see my little favourite.
 
 'The nursery was a great large room. At the farther end it was lighted by a common candle, which left the other end, where the door was, in shade; so I suppose the nurse did not see me conic in, for she was speaking very crossly.
 
-'"Miss Sophy!" said she, "I told you over and over again it was not fit for him to go, with the hoarseness that he had; and you would take him. It will break your papa's heart, I know; but it's none of my doing."
+'"Miss Sophy!" said she, "I told you over and over again it was not fit for him to go, with the hoarseness that he had; and you would take him. ***It will break your papa's heart, I know; but it's none of my doing."***
 
 'Whatever Sophy felt, she did not speak in answer to this. She was on her knees by the warm bath, in which the little fellow was struggling to get his breath, with a look of terror on his face that I have often noticed in young children when smitten by a sudden and violent illness. It seems as if they recognised something infinite and invisible, at whose bidding the pain and the anguish come, from which no love can shield them. It is a very heart-rending look to observe, because it comes on the faces of those who are too young to receive comfort from the words of faith, or the promises of religion. Walter had his arms tight round Sophy's neck, as if she, hitherto his paradise-angel, could save him from the grave shadow of Death. Yes! of Death! I knelt down by him on the other side, and examined him. The very robustness of his little frame gave violence to the disease, which is always one of the most fearful by which children of his age can be attacked.
 
@@ -115,6 +130,14 @@ The tears were in Mr. Morgan's eyes. I do not think either he or I could have sp
 "Peculiar people, whom Death had made dear."
 
 That one day at the old hall had done this. I was, perhaps, the last person who had given the poor little fellow any unusual pleasure. Poor Walter! I wish I could have done more to make his short life happy!
+
+
+
+
+
+
+
+
 
 ### CHAPTER VIII
 
