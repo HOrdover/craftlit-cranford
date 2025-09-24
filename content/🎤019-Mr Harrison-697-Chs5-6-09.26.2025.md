@@ -7,9 +7,7 @@ Evie video
 
 Raffle Box of Night
 
-SHOPPING AT THRIFT STORE
-
-SNOODS![[679-Snood.png]]
+SNOODS![[679-Snood.png]] - need pattern for snood and Isolde's hat pattern
 
 ![[Pasted image 20250918113334.png]]
 https://youtu.be/9uSXV0o-BEI?si=xbPUNgFupMXwtJl5
