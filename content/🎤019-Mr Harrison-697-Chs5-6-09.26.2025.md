@@ -11,7 +11,9 @@ Struthless videos
 
 Raffle Box of Night
 
-SNOODS![[679-Snood.png]] - need pattern for snood and Isolde's hat pattern
+SNOODS ![[679-Snood.png]] 
+- the [Free Snood Pattern](https://web.archive.org/web/20091022225101/http://geocities.com/Athens/Delphi/3212/h-cost1/snood1.html) I (sort of) used (and now that I'm looking at Ysolde's page, I could also use the [Ishbel Beret](https://ysolda.com/collections/hats/products/ishbel-beret) or [Snapdragon Tam](https://ysolda.com/collections/hats/products/snapdragon-tam) as defacto snoods—I really do love Ysolde's patterns).
+- Ysolde's [RIPLEY hat pattern](https://ysolda.com/collections/hats/products/ripley) 
 
 ![[Pasted image 20250918113334.png]]
 
