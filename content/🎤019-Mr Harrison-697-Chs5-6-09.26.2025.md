@@ -2,15 +2,19 @@
 #Gaskell, #shownotes , #start-of-book
 ---
 BE THE ALGORITHM YOU WANT TO SEE IN THE WORLD
+Struthless videos
+- [Why doesn't 2025 feel like "the future"?](https://youtu.be/1zZ3uWQyx5w?si=WenX8smzeL5EFil7)
+- [Alive Internet Theory - Hope is Punk](https://youtu.be/bIBUGQ0aYnc?si=0Lv4byEZoWK2Vlqg)
+- [Self Sabotage? In this economy?](https://youtu.be/k2mi3lt37W8?si=FstwN-tfEBCT8zjW) 
 
-Evie video
+[Evie Science video]( https://youtu.be/5btQokB32dQ?si=iikw9yVhs3o12OuL)
 
 Raffle Box of Night
 
 SNOODS![[679-Snood.png]] - need pattern for snood and Isolde's hat pattern
 
 ![[Pasted image 20250918113334.png]]
-https://youtu.be/9uSXV0o-BEI?si=xbPUNgFupMXwtJl5
+
 
 - Arranging chess pieces
 - Waft of story main conflict
