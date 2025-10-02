@@ -16,7 +16,33 @@ linked index: [[CraftLit_Shownotes_Dashboard]]
 - #### $ Time code: Episode 689, Book Talk begins at _.       ._ Cranford begins with episode 679
 
 ### Patrons
-CHECK
+For ep. 698:  
+• Barbara Hutchinson  
+• Melissa Weaver Dunning  
+• Kathleen Rogers  
+• Terri  
+• Renee Rico
+
+For ep. 699:  
+• Judi Serrato  
+• Larry  
+• Jean Greaves  
+• Robert  
+• Sydney Hutchinson Mengel
+
+For ep. 700:  
+• Ann Blanton  
+• Shelly Allen  
+• Sharon Stewart  
+• Julie Meade  
+• Cherylann Schmidt
+
+For ep. 701:  
+• Catherine Snyder  
+• Terri J. Rau  
+• Gaylene Comfort  
+• Susan Shields  
+• Aimee Woolwine
 
 ### Raffle Item
 NO RAFFLE b/c ROAD TRIP
