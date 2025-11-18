@@ -1,22 +1,6 @@
-Kathleen Rogers
-1308 E Desert Garden Drive
-Tucson, AZ. 85718
-
-**Kathleen Rogers
-  
-We sold the place in Brookline (545 Boylston Street) in June and are renting a place in Boston, but we are spending most of our time in Tucson.
-
-  
-
-The address there:
-
-  
-
-Kathleen Rogers
-
-1308 E Desert Garden Drive
-
-Tucson, AZ. 85718
+---
+tags: #cranford #Gaskell #marriage #chaos-ensues
+---
 
 **==
 
