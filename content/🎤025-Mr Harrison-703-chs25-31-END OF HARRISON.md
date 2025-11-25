@@ -30,8 +30,8 @@ linked index: [[CraftLit_Shownotes_Dashboard]]
 ### Episode goes live on Nov 28, 2025
 
 ### Episode and Title
-703 Good Eats==
-- #### $ Time code: Episode 703—Good Eats.  Book Talk begins at _.       ._ Cranford begins with episode 679
+703 WOOL GAMES
+- #### $ Time code: Episode 703—WOOL GAMES.  Book Talk begins at _.       ._ Cranford begins with episode 679
 
 ### Patrons
 For ep. 703:  
@@ -55,8 +55,8 @@ NONE
 	- Nuremberg
 	- Death by Lightning
 	- Frankenstein non-gory clips
-- Caveat Emptor on Substack
-- Supercast
+- Caveat Emptor on Substack - https://open.substack.com/pub/initforthelonghaul/p/craftlits-ai-caveat-emptor?r=f08w5&utm_medium=ios
+- Supercast - need Bit.ly -  
 
 HEATHER'S NOTES
 - [Don't forget to send us your crafty videos](https://bit.ly/craftlit-be-crafty) ==ALDRIN, REMIND ME, I HAVE MORE VIDEOS FOR YOU THAT I NEED TO UPLOAD==
@@ -93,6 +93,7 @@ HEATHER'S NOTES
 - **Voicemails:** AGOURA  call didn't come through
 ### B-Block-BOOK TALK—Re-hash Notes
 ==B-BLOCK TOC FOR ONSCREEN - check them off as I go==
+- Want to Read for CraftLit?
 - Dénouement
 - Jenny Lind
 - Prolix
@@ -103,6 +104,7 @@ HEATHER'S NOTES
 	- which means "un-knot" (not "unravel"—when knitting becomes undone—"untangle, unsnarl" is the secondary definition and more accurate for literature)
 
 #### Pre-hash Notes
+WE NEED A MY LADY LUDLOW READER!
 - Not a lot needed—as usual with ends of books, all the tough stuff—learning who everyone is, exposition, exposition and context/history-based jokes, etc mostly are done. So... sit back and enjoy the end.
 OH if you've forgotten who Jack Marchand is and what he's like, you might want to go back and listen to episode 698-chs 7-8
 - [Jenny Lind](https://en.wikipedia.org/wiki/Jenny_Lind) - HUGELY famous Swedish [opera singer](https://en.wikipedia.org/wiki/Opera_singer "Opera singer"), often called the "**Swedish Nightingale**". One of the most highly regarded singers of the 19th century, she performed in [soprano](https://en.wikipedia.org/wiki/Soprano "Soprano") roles in opera in Sweden and across Europe, and undertook an extraordinarily popular [concert tour of the United States](https://en.wikipedia.org/wiki/Jenny_Lind_tour_of_America,_1850%E2%80%9352 "Jenny Lind tour of America, 1850–52") beginning in 1850. She was a member of the [Royal Swedish Academy of Music](https://en.wikipedia.org/wiki/Royal_Swedish_Academy_of_Music "Royal Swedish Academy of Music") from 1840.
