@@ -1,17 +1,35 @@
+---
+tags: [watch-party, patreon, supercast, 2026, free-movies]
+---
 
 ## Possibly:
-- Being There
-- Brideshead Revisited and/or Decline and Fall
-- Scaramouche
-- Breakfast at Tiffany's
-- Tuck Everlasting
-- All the President's Men
-- The Chocolate War
-- Neverending Story
-- The Time Machine (or other Wells)
+- Being There - Book/movie
+- Brideshead Revisited - Book/movie and/or Decline and Fall
+- Scaramouche- Book/movie
+- Breakfast at Tiffany's - book/movie
+- Tuck Everlasting - Book/movie
+- All the President's Men - book/movie
+- The Chocolate War - book/movie
+- Neverending Story - book/movie
+- The Time Machine (or other Wells)- book/movie
 - POSSIBLY
 	- Verne
 	- ???
+
+## FREE MOVIE IDEAS
+
+### [  
+@frogwithastick](https://www.youtube.com/@frogwithastick)
+
+[3 days ago](https://www.youtube.com/watch?v=4VJxJesgF8Y&lc=UgyipDVVPljMhHCxhu14AaABAg)
+
+Isn't it ironic that the same people who say "no one wants to work anymore" were in charge of making so many catastrophic decisions that lead to the destruction of joanns? And if they just checks notes put in the work of understanding their customer case, they might have made things very different.
+
+
+
+
+
+
 ---
 #### POSTCARD TEXT
 CraftLit
