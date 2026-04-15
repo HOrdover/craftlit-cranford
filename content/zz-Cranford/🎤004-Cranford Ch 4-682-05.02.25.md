@@ -69,7 +69,7 @@ And embed code for wordpress.com blogs (?!)
  ![The Story of Sidi-Nouman - India Parenting](https://www.indiaparenting.com/images/76/sidi-nouman.jpg)**
 
 - 17:48 “Unbecoming [***calashes***](https://collections.mfa.org/objects/116425) to put on over their caps” - threw me b/c of the Caleche’s in Dracula - turns out they’re related! Retractable hood to put over a cap! **PICTURE TO SHARE on VIDEO & in shownotes 
-![Calash hat](./media/calash-hat.jpg)
+![Calash hat](calash-hat.jpg)
 18:08 PUT PIC OF CALESH carraige UP ON VIDEO 
 
 ![A.Word.A.Day --calash](https://wordsmith.org/words/images/calash_carriage_large.jpg)

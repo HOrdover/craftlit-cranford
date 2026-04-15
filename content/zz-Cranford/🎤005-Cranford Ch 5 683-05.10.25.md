@@ -42,7 +42,7 @@ Rebecca's Sir Walter Scott cross stitch
 	- Came from the latex of tropical trees (especially _Hevea brasiliensis_)     
 - 28:08 **TONQUIN beans**: TONKA beans: Tonka beans are the wrinkled, black seeds of the Dipteryx odorata tree, native to South America. Chefs outside the US use them in desserts and to replace nuts. AND ILLEGAL in USA since 1954 due to presence of liver damaging “coumarin” - [video on the beans](https://www.youtube.com/watch?v=392UXLR-TWs) - and *[this video was released **just after I recorded this episode**](https://youtu.be/tgHEMFM6KY4?si=lJmaYpKvnYM9bgOA)!*
 ![](https://produits.bienmanger.com/37572-2w0h0_Whole_Tonka_Beans.jpg)- 30:24 [Full bottomed wig:](https://museums.fivecolleges.edu/detail.php?museum=&t=objects&type=all&f=&s=the+past&record=771)
-![full bottomed wig](./media/Full-bottomed-wig.png)
+![full bottomed wig](Full-bottomed-wig.png)
 
 - 32:09 **PADUASOY**: heavy, rich corded or embossed silk fabric, From French - ***peau de soie***, a cloth resembling serge (twill fabric with diagonal lines/ridges on both inner and outer surfaces per a two-up/two-down weave.)
 ![[Pasted image 20250414101146.jpg]] 

@@ -62,7 +62,7 @@ Box of Night
 Country vs City Mouse vibe and trying to make the profession "professional". Drugs vs amputation (old)
 
 ## Pre-hash Notes
-- Solomon's Seal: ![[Pasted image 20250912092227.png]]
+- Solomon's Seal: ![[CURRENT-Book/media/Pasted image 20250912092227.png]]
 - Dutch Tiles—as with Cranford, these were out of style when the story was written/takes place. They have a resurgence of popularity during the Arts & Crafts movement: https://www.regtsdelfttiles.com/antique-delft-wall-tile-18th-century-horseman-in-manganese-rosette-corner-motifs.html
 - \The Jargonelle pear ([Pyrus communis 'Jargonelle'](https://www.google.com/search?client=safari&sca_esv=dd1bb8bd48a3d6f2&cs=0&q=Pyrus+communis+%27Jargonelle%27&sa=X&ved=2ahUKEwjtlpb379GPAxUVKlkFHcm3C4IQxccNegQIAxAB&mstk=AUtExfC-YC82OESY1Ppo43DQqaW6g1xzf0OOdYwxsgzaRw8TkFjuU62Ip-Ar2575n2R8Qy7LhM8CwH8Pd89xjHqNH-YTNTqx8jfKayclFoR2FPIkMdkGzya_ZjipTTs5FpEZaoE&csui=3)) is ==an ancient, hardy, long-lived pear variety, first mentioned in the 17th century==. It produces medium-sized, yellow-green fruit with a reddish flush and musky, sweet, juicy flesh, ripe in late summer. The fruit must be eaten fresh as it does not store well. ![[Pasted image 20250911193658.png]]
 -  [Sir Astley Cooper ](https://en.wikipedia.org/wiki/Mr._Harrison%27s_Confessions)& [Sir Robert Peel](https://en.wikipedia.org/wiki/Robert_Peel)  again
